@@ -1,0 +1,30 @@
+[
+  {
+    "Entity": [
+      {
+        "EntityID": 66,
+        "EntityKind": true
+      },
+      {
+        "EntityID": 15,
+        "EntityKind": true
+      },
+      {
+        "EntityID": 65,
+        "EntityKind": true
+      }
+    ],
+    "Link": [
+      {
+        "HeadID": 0,
+        "LinkID": 131,
+        "TailID": 1
+      },
+      {
+        "HeadID": 0,
+        "LinkID": 46,
+        "TailID": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+	"DatasetDir": "dataset\/",
+	"QueryDir": "query\/",
+	"QueryExprDir": "expr\/",
+	"EnumerateDir": "enumerate\/",
+	"IndexDir": "index\/",
+	"ContextFile": "context.json",
+	"TargetFile": "target.json",
+	"EntityEnumerateFile": "EntityEnumerate.json",
+	"LinkEnumerateFile": "LinkEnumerate.json",
+	"CombinationEnumerateFile": "CombinationEnumerate.json",
+	"IndexFile": "index.json",
+	
+	"OutputDatasetSuffix": ["0.1","0.2","0.3","0.4","0.5","0.6","0.7","0.8","0.9"],
+	"MakeContextBool": [0,1,2,3,4,5,6]
+}

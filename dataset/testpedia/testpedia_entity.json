@@ -1,0 +1,139 @@
+[
+	{
+		"ID":1,
+		"Name":"America",
+		"Label":[1],
+		"Relation":[]
+	},
+	{
+		"ID":2,
+		"Name":"Aya",
+		"Label":[2,3],
+		"Relation":[
+			{"Link":1, "Tail":9},
+			{"Link":2, "Tail":5}
+		]
+	},
+	{
+		"ID":3,
+		"Name":"Bean_Song",
+		"Label":[4,5],
+		"Relation":[
+			{"Link":3, "Tail":10}
+		]
+	},
+	{
+		"ID":4,
+		"Name":"Becky",
+		"Label":[2,3],
+		"Relation":[
+			{"Link":1, "Tail":1},
+			{"Link":2, "Tail":5},
+			{"Link":4, "Tail":2}
+		]
+	},
+	{
+		"ID":5,
+		"Name":"Dutch_Entrance",
+		"Label":[6,7],
+		"Relation":[]
+	},
+	{
+		"ID":6,
+		"Name":"Flog_Song",
+		"Label":[4,5],
+		"Relation":[
+			{"Link":3, "Tail":11}
+		]
+	},
+	{
+		"ID":7,
+		"Name":"Hanako",
+		"Label":[2,3],
+		"Relation":[
+			{"Link":1, "Tail":9},
+			{"Link":2, "Tail":5},
+			{"Link":2, "Tail":14}
+		]
+	},
+	{
+		"ID":8,
+		"Name":"Harry_Potter",
+		"Label":[6,8],
+		"Relation":[]
+	},
+	{
+		"ID":9,
+		"Name":"Japan",
+		"Label":[1],
+		"Relation":[]
+	},
+	{
+		"ID":10,
+		"Name":"Jiro",
+		"Label":[2,9],
+		"Relation":[
+			{"Link":1, "Tail":1},
+			{"Link":2, "Tail":14},
+			{"Link":4, "Tail":7},
+			{"Link":4, "Tail":11}
+		]
+	},
+	{
+		"ID":11,
+		"Name":"Keiko",
+		"Label":[2,3],
+		"Relation":[
+			{"Link":1, "Tail":9},
+			{"Link":2, "Tail":14}
+		]
+	},
+	{
+		"ID":12,
+		"Name":"Mathematics_Entrance",
+		"Label":[6,7],
+		"Relation":[]
+	},
+	{
+		"ID":13,
+		"Name":"Saburo",
+		"Label":[2,9],
+		"Relation":[
+			{"Link":1, "Tail":1},
+			{"Link":2, "Tail":12}
+		]
+	},
+	{
+		"ID":14,
+		"Name":"Science_Entrance",
+		"Label":[6,7],
+		"Relation":[]
+	},
+	{
+		"ID":15,
+		"Name":"Natukaze",
+		"Label":[4,10],
+		"Relation":[
+			{"Link":3, "Tail":16},
+			{"Link":3, "Tail":17}
+		]
+	},
+	{
+		"ID":16,
+		"Name":"Takashi",
+		"Label":[2,9],
+		"Relation":[
+			{"Link":1, "Tail":9}
+		]
+	},
+	{
+		"ID":17,
+		"Name":"Taro",
+		"Label":[2,9],
+		"Relation":[
+			{"Link":1, "Tail":1},
+			{"Link":2, "Tail":8},
+			{"Link":4, "Tail":16}
+		]
+	}
+]
