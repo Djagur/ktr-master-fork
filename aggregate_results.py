@@ -12,6 +12,7 @@ Queries are assumed to be ordered rho0, rho1, ... with --per-rule queries each.
 Usage:
   python aggregate_results.py DIR_OR_FILES... [--out results] [--per-rule 10]
 """
+
 import argparse
 import csv
 import re
@@ -31,12 +32,42 @@ PE_RE = re.compile(r"^pe-(\d+): (.*?)\s+/\s+([\d.eE+-]+) \((\w+)\)")
 
 # Paper, NELL, average runtime [s]: rule -> (proposed, baseline), per score type.
 PAPER = {
-    ("nell", "dist"): {0: (0.0158, 0.0155), 1: (4.342, 4.461), 2: (71.703, 79.701),
-                       3: (0.044, 0.030), 4: (83.343, 185.944), 5: (50.190, 62.424),
-                       6: (1398, 9098)},
-    ("nell", "freq"): {0: (0.0162, 0.0156), 1: (4.145, 4.441), 2: (73.196, 77.845),
-                       3: (0.045, 0.030), 4: (15.456, 203.072), 5: (36.408, 61.558),
-                       6: (485, 9265)},
+    ("nell", "dist"): {
+        0: (0.0158, 0.0155),
+        1: (4.342, 4.461),
+        2: (71.703, 79.701),
+        3: (0.044, 0.030),
+        4: (83.343, 185.944),
+        5: (50.190, 62.424),
+        6: (1398, 9098),
+    },
+    ("nell", "freq"): {
+        0: (0.0162, 0.0156),
+        1: (4.145, 4.441),
+        2: (73.196, 77.845),
+        3: (0.045, 0.030),
+        4: (15.456, 203.072),
+        5: (36.408, 61.558),
+        6: (485, 9265),
+    },
+    ("dbpedia", "dist"): {
+        0: (0.066, 0.057),
+        1: (40.385, 36.707),
+        2: (374.472, 386.210),
+        3: (0.139, 0.110),
+        4: (1150, 2010),
+        5: (1638, 1693),
+        6: (1406, 10825),
+    },
+    ("dbpedia", "freq"): {
+        0: (0.071, 0.062),
+        1: (37.549, 35.566),
+        2: (410.919, 382.251),
+        3: (0.155, 0.109),
+        4: (336, 1956),
+        5: (1164, 1660),
+        6: (196, 11205),
+    },
 }
 
 
@@ -134,8 +165,14 @@ def parse_top(path, n_queries=None):
 
 # ------------------------------------------------------------ aggregation
 def stats(xs):
-    return {"n": len(xs), "mean": st.mean(xs), "sd": st.stdev(xs) if len(xs) > 1 else 0.0,
-            "median": st.median(xs), "min": min(xs), "max": max(xs)}
+    return {
+        "n": len(xs),
+        "mean": st.mean(xs),
+        "sd": st.stdev(xs) if len(xs) > 1 else 0.0,
+        "median": st.median(xs),
+        "min": min(xs),
+        "max": max(xs),
+    }
 
 
 def write_csv(path, rows, fields=None):
@@ -153,16 +190,22 @@ def process(prefix, summary, top, meta, per_rule, out):
     exceptions, method = parse_top(top, len(queries)) if top.exists() else ([], None)
     n_blocks = len({e["query"] for e in exceptions})
     if method == "rank" and exceptions and n_blocks != len(queries):
-        print(f"WARNING {prefix}: could not split the top file into queries "
-              f"({n_blocks} blocks found by rank, {len(queries)} queries in summary); "
-              f"query numbers in the exceptions file and the o0-vs-o1 overlap/score checks are unreliable.")
+        print(
+            f"WARNING {prefix}: could not split the top file into queries "
+            f"({n_blocks} blocks found by rank, {len(queries)} queries in summary); "
+            f"query numbers in the exceptions file and the o0-vs-o1 overlap/score checks are unreliable."
+        )
 
     sizes = sorted({s for q in queries.values() for s in q["counts"]})
     rows = []
     for i in sorted(queries):
         q = queries[i]
-        row = {"query": f"p{i:02d}", "rule": i // per_rule, "sum_time": q["sum"],
-               "patterns_total": sum(q["counts"].values())}
+        row = {
+            "query": f"p{i:02d}",
+            "rule": i // per_rule,
+            "sum_time": q["sum"],
+            "patterns_total": sum(q["counts"].values()),
+        }
         row.update({f"patterns_size{s}": q["counts"].get(s) for s in sizes})
         row.update(q["phases"])
         rows.append(row)
@@ -175,14 +218,23 @@ def process(prefix, summary, top, meta, per_rule, out):
             by_rule[r]["patterns_mean"] = st.mean(x["patterns_total"] for x in sel)
 
     write_csv(out / f"{prefix}_queries.csv", rows)
-    write_csv(out / f"{prefix}_by_rule.csv",
-              [{"rule": r, **v} for r, v in by_rule.items()])
+    write_csv(
+        out / f"{prefix}_by_rule.csv", [{"rule": r, **v} for r, v in by_rule.items()]
+    )
     for e in exceptions:
         e["rule"] = e["query"] // per_rule
-    write_csv(out / f"{prefix}_exceptions.csv", exceptions,
-              ["query", "rule", "rank", "score", "type", "pattern", "pe", "triple"])
-    return {"prep": prep, "queries": queries, "exceptions": exceptions, "by_rule": by_rule,
-            "meta": meta.read_text(errors="replace") if meta.exists() else ""}
+    write_csv(
+        out / f"{prefix}_exceptions.csv",
+        exceptions,
+        ["query", "rule", "rank", "score", "type", "pattern", "pe", "triple"],
+    )
+    return {
+        "prep": prep,
+        "queries": queries,
+        "exceptions": exceptions,
+        "by_rule": by_rule,
+        "meta": meta.read_text(errors="replace") if meta.exists() else "",
+    }
 
 
 def group_by_query(exceptions):
@@ -199,15 +251,21 @@ def compare(d0, d1, per_rule):
     rows = []
     for i in sorted(set(q0) & set(q1)):
         t0, t1 = q0[i]["sum"], q1[i]["sum"]
-        row = {"query": f"p{i:02d}", "rule": i // per_rule, "time_o0": t0, "time_o1": t1,
-               "speedup": (t1 / t0) if t0 and t1 is not None else None,
-               "patterns_o0": sum(q0[i]["counts"].values()),
-               "patterns_o1": sum(q1[i]["counts"].values())}
+        row = {
+            "query": f"p{i:02d}",
+            "rule": i // per_rule,
+            "time_o0": t0,
+            "time_o1": t1,
+            "speedup": (t1 / t0) if t0 and t1 is not None else None,
+            "patterns_o0": sum(q0[i]["counts"].values()),
+            "patterns_o1": sum(q1[i]["counts"].values()),
+        }
         a, b = e0.get(i), e1.get(i)
         if a and b:
             # ties can come out in a different order, so compare sorted rounded scores
-            row["same_scores"] = (sorted(round(e["score"], 2) for e in a)
-                                  == sorted(round(e["score"], 2) for e in b))
+            row["same_scores"] = sorted(round(e["score"], 2) for e in a) == sorted(
+                round(e["score"], 2) for e in b
+            )
             ta, tb = {e["triple"] for e in a}, {e["triple"] for e in b}
             row["triple_overlap"] = round(len(ta & tb) / len(tb), 3)
         rows.append(row)
@@ -219,20 +277,35 @@ def build_markdown(settings, compares):
     groups = defaultdict(dict)
     for (ds, s, o), d in settings.items():
         groups[(ds, s)][o] = d
-    L = ["# Results", "",
-         "Times are `SumTime` per query [s], summarised over the queries of each rule "
-         "(mean ± sd across queries, median in brackets). The paper's ± may mean something else.", ""]
+    L = [
+        "# Results",
+        "",
+        "Times are `SumTime` per query [s], summarised over the queries of each rule "
+        "(mean ± sd across queries, median in brackets). The paper's ± may mean something else.",
+        "",
+    ]
     for (ds, s), by_o in sorted(groups.items()):
         os_ = sorted(by_o)
         paper = PAPER.get((ds, s))
-        head = (["rule"] + [f"o={o} time [s]" for o in os_] + [f"o={o} patterns" for o in os_]
-                + (["paper proposed [s]", "paper baseline [s]"] if paper else []))
-        L += [f"## {ds}, s={s}", "", "| " + " | ".join(head) + " |", "|" + "---|" * len(head)]
+        head = (
+            ["rule"]
+            + [f"o={o} time [s]" for o in os_]
+            + [f"o={o} patterns" for o in os_]
+            + (["paper proposed [s]", "paper baseline [s]"] if paper else [])
+        )
+        L += [
+            f"## {ds}, s={s}",
+            "",
+            "| " + " | ".join(head) + " |",
+            "|" + "---|" * len(head),
+        ]
         for r in sorted({r for o in os_ for r in by_o[o]["by_rule"]}):
             cells = [f"ρ{r}"]
             for o in os_:
                 t = by_o[o]["by_rule"].get(r)
-                cells.append(f"{t['mean']:.4g} ± {t['sd']:.4g} ({t['median']:.4g})" if t else "-")
+                cells.append(
+                    f"{t['mean']:.4g} ± {t['sd']:.4g} ({t['median']:.4g})" if t else "-"
+                )
             for o in os_:
                 t = by_o[o]["by_rule"].get(r)
                 cells.append(f"{t['patterns_mean']:.0f}" if t else "-")
@@ -241,14 +314,22 @@ def build_markdown(settings, compares):
             L.append("| " + " | ".join(cells) + " |")
         L.append("")
     for (ds, s), rows in sorted(compares.items()):
-        L += [f"## {ds}, s={s}: o=0 (pruning) vs o=1 (exhaustive)", "",
-              "| rule | median speedup | mean speedup | queries with same scores |", "|---|---|---|---|"]
+        L += [
+            f"## {ds}, s={s}: o=0 (pruning) vs o=1 (exhaustive)",
+            "",
+            "| rule | median speedup | mean speedup | queries with same scores |",
+            "|---|---|---|---|",
+        ]
         for r in sorted({x["rule"] for x in rows}):
             sel = [x for x in rows if x["rule"] == r]
             sp = [x["speedup"] for x in sel if x["speedup"] is not None]
             chk = [x["same_scores"] for x in sel if "same_scores" in x]
-            L.append(f"| ρ{r} | {st.median(sp):.3g} | {st.mean(sp):.3g} | "
-                     f"{sum(chk)}/{len(chk)} |" if sp else f"| ρ{r} | - | - | - |")
+            L.append(
+                f"| ρ{r} | {st.median(sp):.3g} | {st.mean(sp):.3g} | "
+                f"{sum(chk)}/{len(chk)} |"
+                if sp
+                else f"| ρ{r} | - | - | - |"
+            )
         L.append("")
     L += ["## Run info", ""]
     for (ds, s, o), d in sorted(settings.items()):
@@ -259,10 +340,16 @@ def build_markdown(settings, compares):
 
 # ------------------------------------------------------------------- main
 def main():
-    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawTextHelpFormatter)
+    ap = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawTextHelpFormatter
+    )
     ap.add_argument("inputs", nargs="+", help="directories or *_summary.txt files")
-    ap.add_argument("--out", default="results", help="output directory (default: results)")
-    ap.add_argument("--per-rule", type=int, default=10, help="queries per rule (default: 10)")
+    ap.add_argument(
+        "--out", default="results", help="output directory (default: results)"
+    )
+    ap.add_argument(
+        "--per-rule", type=int, default=10, help="queries per rule (default: 10)"
+    )
     args = ap.parse_args()
 
     files = []
@@ -277,17 +364,21 @@ def main():
     settings = {}
     for summary in files:
         print(f"found {summary}")
-        prefix = summary.name[:-len("_summary.txt")]
+        prefix = summary.name[: -len("_summary.txt")]
         m = PREFIX_RE.match(prefix)
         if not m:
-            print(f"skipping {summary.name}: name must look like <dataset>_<dist|freq>_o<N>_summary.txt")
+            print(
+                f"skipping {summary.name}: name must look like <dataset>_<dist|freq>_o<N>_summary.txt"
+            )
             continue
         top = summary.with_name(f"{prefix}_top.txt")
         meta = summary.with_name(f"{prefix}_meta.txt")
         key = (m["ds"], m["s"], int(m["o"]))
         settings[key] = process(prefix, summary, top, meta, args.per_rule, out)
-        print(f"processed {prefix}: {len(settings[key]['queries'])} queries, "
-              f"{len(settings[key]['exceptions'])} exceptions")
+        print(
+            f"processed {prefix}: {len(settings[key]['queries'])} queries, "
+            f"{len(settings[key]['exceptions'])} exceptions"
+        )
 
     compares = {}
     for (ds, s, o), d in settings.items():
@@ -296,12 +387,19 @@ def main():
             compares[(ds, s)] = rows
             write_csv(out / f"{ds}_{s}_o0_vs_o1.csv", rows)
 
-    all_rows = [{"dataset": ds, "s": s, "o": o, "rule": r, **v}
-                for (ds, s, o), d in sorted(settings.items()) for r, v in d["by_rule"].items()]
+    all_rows = [
+        {"dataset": ds, "s": s, "o": o, "rule": r, **v}
+        for (ds, s, o), d in sorted(settings.items())
+        for r, v in d["by_rule"].items()
+    ]
     write_csv(out / "by_rule_all.csv", all_rows)
-    (out / "results.md").write_text(build_markdown(settings, compares), encoding="utf-8")
+    (out / "results.md").write_text(
+        build_markdown(settings, compares), encoding="utf-8"
+    )
     if not settings:
-        print("No file matched <dataset>_<dist|freq>_o<N>_summary.txt, so the report is empty.")
+        print(
+            "No file matched <dataset>_<dist|freq>_o<N>_summary.txt, so the report is empty."
+        )
     print(f"written to {out}/")
 
 
