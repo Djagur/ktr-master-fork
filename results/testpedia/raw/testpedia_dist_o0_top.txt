@@ -1,0 +1,1418 @@
+---pers-all---
+1st Exception.
+Exception Score is 38
+<Pattern 2-7>
+pe-0: Taro Wrote-> Harry_Potter /  38 (LabelException)
+2nd Exception.
+Exception Score is 28.75
+<Pattern 2-2>
+pe-0: Taro Wrote-> Harry_Potter /  28.75 (LabelException)
+3rd Exception.
+Exception Score is 18.5
+<Pattern 2-7>
+pe-0: Taro ComposedBy<- Natukaze /  18.5 (LinkException)
+4th Exception.
+Exception Score is 12.75
+<Pattern 2-2>
+pe-0: Taro ItsChild-> Takashi /  12.75 (LabelException)
+5th Exception.
+Exception Score is 11.6667
+<Pattern 2-2>
+pe-0: Aya ItsChild<- Becky /  11.6667 (LinkException)
+6th Exception.
+Exception Score is 10.5
+<Pattern 2-7>
+pe-0: Taro ItsChild-> Takashi /  10.5 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 2-15>
+pe-0: Taro Wrote-> Harry_Potter /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 2-14>
+pe-0: Aya ItsChild<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 2-7>
+pe-0: Aya ItsChild<- Becky /  8.66667 (LinkException)
+10th Exception.
+Exception Score is 6.75
+<Pattern 2-15>
+pe-0: Taro ItsChild-> Takashi /  6.75 (LabelException)
+11th Exception.
+Exception Score is 6.33333
+<Pattern 2-6>
+pe-0: Saburo Wrote-> Mathematics_Entrance /  6.33333 (UniqueEntityException)
+11th Exception.
+Exception Score is 6.33333
+<Pattern 2-6>
+pe-0: Aya ItsChild<- Becky /  6.33333 (LinkException)
+13th Exception.
+Exception Score is 6
+<Pattern 2-6>
+pe-0: Keiko ComposedBy<- Flog_Song /  6 (UniqueEntityException)
+13th Exception.
+Exception Score is 6
+<Pattern 2-6>
+pe-0: Jiro ComposedBy<- Bean_Song /  6 (UniqueEntityException)
+15th Exception.
+Exception Score is 5.8
+<Pattern 2-2>
+pe-0: Becky ItsChild-> Aya /  5.8 (UniqueEntityException)
+15th Exception.
+Exception Score is 5.8
+<Pattern 2-2>
+pe-0: Jiro ItsChild-> Hanako /  5.8 (UniqueEntityException)
+15th Exception.
+Exception Score is 5.8
+<Pattern 2-2>
+pe-0: Jiro ItsChild-> Keiko /  5.8 (UniqueEntityException)
+18th Exception.
+Exception Score is 5.5
+<Pattern 2-2>
+pe-0: Jiro ComposedBy<- Bean_Song /  5.5 (UniqueEntityException)
+18th Exception.
+Exception Score is 5.5
+<Pattern 2-2>
+pe-0: Keiko ComposedBy<- Flog_Song /  5.5 (UniqueEntityException)
+18th Exception.
+Exception Score is 5.5
+<Pattern 2-2>
+pe-0: Takashi ItsChild<- Taro /  5.5 (UniqueEntityException)
+21th Exception.
+Exception Score is 5
+<Pattern 2-21>
+pe-0: Hanako Wrote-> Science_Entrance /  5 (UniqueEntityException)
+21th Exception.
+Exception Score is 5
+<Pattern 2-20>
+pe-0: Hanako Wrote-> Dutch_Entrance /  5 (UniqueEntityException)
+21th Exception.
+Exception Score is 5
+<Pattern 2-15>
+pe-0: Jiro ComposedBy<- Bean_Song /  5 (LinkException)
+21th Exception.
+Exception Score is 5
+<Pattern 2-15>
+pe-0: Taro ComposedBy<- Natukaze /  5 (LinkException)
+21th Exception.
+Exception Score is 5
+<Pattern 2-14>
+pe-0: Takashi ComposedBy<- Natukaze /  5 (LinkException)
+21th Exception.
+Exception Score is 5
+<Pattern 2-14>
+pe-0: Keiko ComposedBy<- Flog_Song /  5 (LinkException)
+21th Exception.
+Exception Score is 5
+<Pattern 2-2>
+pe-0: Taro ComposedBy<- Natukaze /  5 (LinkException)
+21th Exception.
+Exception Score is 5
+<Pattern 2-2>
+pe-0: Takashi ComposedBy<- Natukaze /  5 (LinkException)
+21th Exception.
+Exception Score is 5
+<Pattern 2-4>
+pe-0: Taro Wrote-> Harry_Potter /  5 (LinkException)
+21th Exception.
+Exception Score is 5
+<Pattern 2-7>
+pe-0: Saburo Wrote-> Mathematics_Entrance /  5 (UniqueEntityException)
+31th Exception.
+Exception Score is 4.75
+<Pattern 2-6>
+pe-0: Jiro ItsChild-> Hanako /  4.75 (UniqueEntityException)
+31th Exception.
+Exception Score is 4.75
+<Pattern 2-6>
+pe-0: Jiro ItsChild-> Keiko /  4.75 (UniqueEntityException)
+31th Exception.
+Exception Score is 4.75
+<Pattern 2-6>
+pe-0: Becky ItsChild-> Aya /  4.75 (UniqueEntityException)
+31th Exception.
+Exception Score is 4.75
+<Pattern 2-7>
+pe-0: Jiro ComposedBy<- Bean_Song /  4.75 (UniqueEntityException)
+31th Exception.
+Exception Score is 4.75
+<Pattern 2-7>
+pe-0: Keiko ComposedBy<- Flog_Song /  4.75 (UniqueEntityException)
+36th Exception.
+Exception Score is 4.66667
+<Pattern 2-0>
+pe-1: Taro ItsChild-> Takashi /  4.66667 (LabelException)
+36th Exception.
+Exception Score is 4.66667
+<Pattern 2-9>
+pe-1: Aya ItsChild<- Becky /  4.66667 (LabelException)
+38th Exception.
+Exception Score is 4.5
+<Pattern 2-4>
+pe-0: Taro ItsChild-> Takashi /  4.5 (LabelException)
+39th Exception.
+Exception Score is 4.2
+<Pattern 2-2>
+pe-0: Saburo Wrote-> Mathematics_Entrance /  4.2 (UniqueEntityException)
+40th Exception.
+Exception Score is 4
+<Pattern 2-7>
+pe-0: Becky ItsChild-> Aya /  4 (UniqueEntityException)
+40th Exception.
+Exception Score is 4
+<Pattern 2-7>
+pe-0: Jiro ItsChild-> Hanako /  4 (UniqueEntityException)
+40th Exception.
+Exception Score is 4
+<Pattern 2-7>
+pe-0: Jiro ItsChild-> Keiko /  4 (UniqueEntityException)
+43th Exception.
+Exception Score is 2.5
+<Pattern 2-21>
+pe-0: Hanako ItsChild<- Jiro /  2.5 (LinkException)
+43th Exception.
+Exception Score is 2.5
+<Pattern 2-21>
+pe-0: Becky ItsChild-> Aya /  2.5 (UniqueEntityException)
+43th Exception.
+Exception Score is 2.5
+<Pattern 2-21>
+pe-0: Becky LiveIn-> America /  2.5 (UniqueEntityException)
+43th Exception.
+Exception Score is 2.5
+<Pattern 2-20>
+pe-0: Jiro LiveIn-> America /  2.5 (UniqueEntityException)
+43th Exception.
+Exception Score is 2.5
+<Pattern 2-13>
+pe-0: Hanako Wrote-> Dutch_Entrance /  2.5 (UniqueEntityException)
+43th Exception.
+Exception Score is 2.5
+<Pattern 2-0>
+pe-0: Takashi ItsChild<- Taro /  2.5 (UniqueEntityException)
+43th Exception.
+Exception Score is 2.5
+<Pattern 2-0>
+pe-0: Takashi ComposedBy<- Natukaze /  2.5 (LinkException)
+43th Exception.
+Exception Score is 2.5
+<Pattern 2-0>
+pe-0: Keiko ComposedBy<- Flog_Song /  2.5 (LinkException)
+43th Exception.
+Exception Score is 2.5
+<Pattern 2-5>
+pe-0: Keiko ItsChild<- Jiro /  2.5 (LinkException)
+43th Exception.
+Exception Score is 2.5
+<Pattern 2-6>
+pe-0: Keiko ItsChild<- Jiro /  2.5 (LinkException)
+43th Exception.
+Exception Score is 2.5
+<Pattern 2-6>
+pe-0: Hanako ItsChild<- Jiro /  2.5 (LinkException)
+43th Exception.
+Exception Score is 2.5
+<Pattern 2-9>
+pe-1: Keiko ComposedBy<- Flog_Song /  2.5 (UniqueEntityException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-20>
+pe-0: Jiro ItsChild-> Hanako /  2 (UniqueEntityException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-20>
+pe-0: Jiro ItsChild-> Keiko /  2 (UniqueEntityException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-14>
+pe-0: Takashi ItsChild<- Taro /  2 (UniqueEntityException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-0>
+pe-0: Hanako Wrote-> Dutch_Entrance /  2 (UniqueEntityException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-0>
+pe-1: Taro Wrote-> Harry_Potter /  2 (LabelException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-0>
+pe-1: Taro ComposedBy<- Natukaze /  2 (LabelException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-0>
+pe-1: Jiro Wrote-> Science_Entrance /  2 (LabelException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-0>
+pe-1: Jiro ComposedBy<- Bean_Song /  2 (LabelException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-4>
+pe-0: Taro ComposedBy<- Natukaze /  2 (LabelException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-4>
+pe-0: Jiro ComposedBy<- Bean_Song /  2 (LabelException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-4>
+pe-0: Keiko ItsChild<- Jiro /  2 (UniqueEntityException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-4>
+pe-0: Keiko ComposedBy<- Flog_Song /  2 (LabelException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-4>
+pe-0: Takashi ItsChild<- Taro /  2 (UniqueEntityException)
+55th Exception.
+Exception Score is 2
+<Pattern 2-4>
+pe-0: Takashi ComposedBy<- Natukaze /  2 (LabelException)
+69th Exception.
+Exception Score is 1.875
+<Pattern 2-7>
+pe-0: Hanako ItsChild<- Jiro /  1.875 (LabelException)
+69th Exception.
+Exception Score is 1.875
+<Pattern 2-7>
+pe-0: Keiko ItsChild<- Jiro /  1.875 (LabelException)
+71th Exception.
+Exception Score is 1.75
+<Pattern 2-21>
+pe-0: Aya ItsChild<- Becky /  1.75 (LabelException)
+71th Exception.
+Exception Score is 1.75
+<Pattern 2-4>
+pe-0: Jiro ItsChild-> Hanako /  1.75 (UniqueEntityException)
+71th Exception.
+Exception Score is 1.75
+<Pattern 2-4>
+pe-0: Jiro ItsChild-> Keiko /  1.75 (UniqueEntityException)
+74th Exception.
+Exception Score is 1.38889
+<Pattern 2-7>
+pe-0: Aya LiveIn-> Japan /  1.38889 (UniqueEntityException)
+74th Exception.
+Exception Score is 1.38889
+<Pattern 2-7>
+pe-0: Hanako LiveIn-> Japan /  1.38889 (UniqueEntityException)
+74th Exception.
+Exception Score is 1.38889
+<Pattern 2-7>
+pe-0: Keiko LiveIn-> Japan /  1.38889 (UniqueEntityException)
+77th Exception.
+Exception Score is 1.375
+<Pattern 2-2>
+pe-0: Hanako ItsChild<- Jiro /  1.375 (UniqueEntityException)
+77th Exception.
+Exception Score is 1.375
+<Pattern 2-2>
+pe-0: Keiko ItsChild<- Jiro /  1.375 (UniqueEntityException)
+79th Exception.
+Exception Score is 1.16667
+<Pattern 2-0>
+pe-1: Jiro ItsChild-> Hanako /  1.16667 (LabelException)
+79th Exception.
+Exception Score is 1.16667
+<Pattern 2-0>
+pe-1: Jiro ItsChild-> Keiko /  1.16667 (LabelException)
+79th Exception.
+Exception Score is 1.16667
+<Pattern 2-9>
+pe-1: Keiko ItsChild<- Jiro /  1.16667 (LabelException)
+79th Exception.
+Exception Score is 1.16667
+<Pattern 2-9>
+pe-1: Hanako ItsChild<- Jiro /  1.16667 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-26>
+pe-0: Becky ItsChild-> Aya /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-26>
+pe-0: Becky Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-26>
+pe-0: Becky LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-25>
+pe-0: Taro ItsChild-> Takashi /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-25>
+pe-0: Taro Wrote-> Harry_Potter /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-25>
+pe-0: Taro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-25>
+pe-0: Taro ComposedBy<- Natukaze /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-24>
+pe-0: Jiro ItsChild-> Hanako /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-24>
+pe-0: Jiro ItsChild-> Keiko /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-24>
+pe-0: Jiro Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-24>
+pe-0: Jiro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-24>
+pe-0: Jiro ComposedBy<- Bean_Song /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-23>
+pe-0: Jiro ItsChild-> Hanako /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-23>
+pe-0: Jiro ItsChild-> Keiko /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-23>
+pe-0: Jiro Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-23>
+pe-0: Jiro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-23>
+pe-0: Jiro ComposedBy<- Bean_Song /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-22>
+pe-0: Taro ItsChild-> Takashi /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-22>
+pe-0: Taro Wrote-> Harry_Potter /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-22>
+pe-0: Taro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-22>
+pe-0: Taro ComposedBy<- Natukaze /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-21>
+pe-0: Hanako Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-21>
+pe-0: Hanako LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-21>
+pe-0: Becky Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-21>
+pe-0: Aya Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-21>
+pe-0: Aya LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-20>
+pe-0: Keiko Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-20>
+pe-0: Keiko LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-20>
+pe-0: Keiko ItsChild<- Jiro /  1 (LinkException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-20>
+pe-0: Keiko ComposedBy<- Flog_Song /  1 (UniqueEntityException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-20>
+pe-0: Jiro Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-20>
+pe-0: Jiro ComposedBy<- Bean_Song /  1 (UniqueEntityException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-20>
+pe-0: Hanako ItsChild<- Jiro /  1 (LinkException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-20>
+pe-0: Hanako Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-20>
+pe-0: Hanako LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-19>
+pe-0: Saburo Wrote-> Mathematics_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-19>
+pe-0: Saburo LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-18>
+pe-0: Jiro ItsChild-> Hanako /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-18>
+pe-0: Jiro ItsChild-> Keiko /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-18>
+pe-0: Jiro Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-18>
+pe-0: Jiro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-18>
+pe-0: Jiro ComposedBy<- Bean_Song /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-17>
+pe-0: Keiko Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-17>
+pe-0: Keiko LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-17>
+pe-0: Keiko ItsChild<- Jiro /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-17>
+pe-0: Keiko ComposedBy<- Flog_Song /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-16>
+pe-0: Takashi ItsChild<- Taro /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-16>
+pe-0: Takashi LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-16>
+pe-0: Takashi ComposedBy<- Natukaze /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-16>
+pe-0: Taro ItsChild-> Takashi /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-16>
+pe-0: Taro Wrote-> Harry_Potter /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-16>
+pe-0: Taro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-16>
+pe-0: Taro ComposedBy<- Natukaze /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-15>
+pe-0: Saburo Wrote-> Mathematics_Entrance /  1 (UniqueEntityException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-15>
+pe-0: Saburo LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-15>
+pe-0: Jiro ItsChild-> Hanako /  1 (UniqueEntityException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-15>
+pe-0: Jiro ItsChild-> Keiko /  1 (UniqueEntityException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-15>
+pe-0: Jiro Wrote-> Science_Entrance /  1 (UniqueEntityException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-15>
+pe-0: Jiro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-15>
+pe-0: Taro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-15>
+pe-0: Becky ItsChild-> Aya /  1 (UniqueEntityException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-15>
+pe-0: Becky Wrote-> Dutch_Entrance /  1 (UniqueEntityException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-15>
+pe-0: Becky LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-14>
+pe-0: Takashi LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-14>
+pe-0: Keiko LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-14>
+pe-0: Keiko ItsChild<- Jiro /  1 (LinkException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-14>
+pe-0: Hanako ItsChild<- Jiro /  1 (LinkException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-14>
+pe-0: Hanako LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-14>
+pe-0: Aya LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-13>
+pe-0: Keiko Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-13>
+pe-0: Keiko LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-13>
+pe-0: Keiko ItsChild<- Jiro /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-13>
+pe-0: Keiko ComposedBy<- Flog_Song /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-13>
+pe-0: Hanako ItsChild<- Jiro /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-13>
+pe-0: Hanako Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-13>
+pe-0: Hanako LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-0>
+pe-0: Takashi LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-0>
+pe-0: Keiko LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-0>
+pe-0: Keiko ItsChild<- Jiro /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-0>
+pe-0: Hanako ItsChild<- Jiro /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-0>
+pe-0: Hanako LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-0>
+pe-1: Taro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-0>
+pe-1: Jiro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-1>
+pe-0: Aya ItsChild<- Becky /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-1>
+pe-0: Aya Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-1>
+pe-0: Aya LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-1>
+pe-1: Becky ItsChild-> Aya /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-1>
+pe-1: Becky Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-1>
+pe-1: Becky LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-2>
+pe-0: Aya LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-2>
+pe-0: Becky LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-2>
+pe-0: Taro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-2>
+pe-0: Hanako LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-2>
+pe-0: Jiro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-2>
+pe-0: Keiko LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-2>
+pe-0: Saburo LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-2>
+pe-0: Takashi LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-3>
+pe-0: Takashi ItsChild<- Taro /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-3>
+pe-0: Takashi LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-3>
+pe-0: Takashi ComposedBy<- Natukaze /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-3>
+pe-0: Taro ItsChild-> Takashi /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-3>
+pe-0: Taro Wrote-> Harry_Potter /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-3>
+pe-0: Taro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-3>
+pe-0: Taro ComposedBy<- Natukaze /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-4>
+pe-0: Taro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-4>
+pe-0: Jiro Wrote-> Science_Entrance /  1 (LinkException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-4>
+pe-0: Jiro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-4>
+pe-0: Keiko Wrote-> Science_Entrance /  1 (LinkException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-4>
+pe-0: Keiko LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-4>
+pe-0: Takashi LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-5>
+pe-0: Keiko Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-5>
+pe-0: Keiko LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-5>
+pe-0: Keiko ComposedBy<- Flog_Song /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-5>
+pe-0: Jiro ItsChild-> Hanako /  1 (UniqueEntityException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-5>
+pe-0: Jiro ItsChild-> Keiko /  1 (UniqueEntityException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-5>
+pe-0: Jiro Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-5>
+pe-0: Jiro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-5>
+pe-0: Jiro ComposedBy<- Bean_Song /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-6>
+pe-0: Saburo LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-6>
+pe-0: Keiko Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-6>
+pe-0: Keiko LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-6>
+pe-0: Jiro Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-6>
+pe-0: Jiro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-6>
+pe-0: Hanako Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-6>
+pe-0: Hanako Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-6>
+pe-0: Hanako LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-6>
+pe-0: Becky Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-6>
+pe-0: Becky LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-6>
+pe-0: Aya Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-6>
+pe-0: Aya LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-7>
+pe-0: Aya Wrote-> Dutch_Entrance /  1 (LinkException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-7>
+pe-0: Becky Wrote-> Dutch_Entrance /  1 (LinkException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-7>
+pe-0: Becky LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-7>
+pe-0: Taro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-7>
+pe-0: Hanako Wrote-> Dutch_Entrance /  1 (LinkException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-7>
+pe-0: Hanako Wrote-> Science_Entrance /  1 (LinkException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-7>
+pe-0: Jiro Wrote-> Science_Entrance /  1 (LinkException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-7>
+pe-0: Jiro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-7>
+pe-0: Keiko Wrote-> Science_Entrance /  1 (LinkException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-7>
+pe-0: Saburo LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-8>
+pe-0: Taro ItsChild-> Takashi /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-8>
+pe-0: Taro Wrote-> Harry_Potter /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-8>
+pe-0: Taro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-8>
+pe-0: Taro ComposedBy<- Natukaze /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-0: Jiro ItsChild-> Hanako /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-0: Jiro ItsChild-> Keiko /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-0: Jiro Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-0: Jiro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-0: Jiro ComposedBy<- Bean_Song /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-0: Becky ItsChild-> Aya /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-0: Becky Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-0: Becky LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-1: Keiko Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-1: Keiko LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-1: Hanako Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-1: Hanako Wrote-> Science_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-1: Hanako LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-1: Aya Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-9>
+pe-1: Aya LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-10>
+pe-0: Taro ItsChild-> Takashi /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-10>
+pe-0: Taro Wrote-> Harry_Potter /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-10>
+pe-0: Taro LiveIn-> America /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-10>
+pe-0: Taro ComposedBy<- Natukaze /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-10>
+pe-1: Takashi ItsChild<- Taro /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-10>
+pe-1: Takashi LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-10>
+pe-1: Takashi ComposedBy<- Natukaze /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-11>
+pe-0: Takashi ItsChild<- Taro /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-11>
+pe-0: Takashi LiveIn-> Japan /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-11>
+pe-0: Takashi ComposedBy<- Natukaze /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-12>
+pe-0: Aya ItsChild<- Becky /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-12>
+pe-0: Aya Wrote-> Dutch_Entrance /  1 (LabelException)
+83th Exception.
+Exception Score is 1
+<Pattern 2-12>
+pe-0: Aya LiveIn-> Japan /  1 (LabelException)
+---pers-all-all---
+1st Exception.
+Exception Score is 28.75
+<Pattern 3-53>
+pe-1: Taro Wrote-> Harry_Potter /  28.75 (LabelException)
+1st Exception.
+Exception Score is 28.75
+<Pattern 3-54>
+pe-2: Taro Wrote-> Harry_Potter /  28.75 (LabelException)
+3rd Exception.
+Exception Score is 12.75
+<Pattern 3-53>
+pe-1: Taro ItsChild-> Takashi /  12.75 (LabelException)
+3rd Exception.
+Exception Score is 12.75
+<Pattern 3-54>
+pe-2: Taro ItsChild-> Takashi /  12.75 (LabelException)
+5th Exception.
+Exception Score is 11.6667
+<Pattern 3-53>
+pe-1: Aya ItsChild<- Becky /  11.6667 (LinkException)
+5th Exception.
+Exception Score is 11.6667
+<Pattern 3-54>
+pe-2: Aya ItsChild<- Becky /  11.6667 (LinkException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-9>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-8>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-7>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-2>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-1>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-1>
+pe-1: Taro Wrote-> Harry_Potter /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-0>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-18>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-17>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-12>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-11>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-11>
+pe-1: Taro Wrote-> Harry_Potter /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-10>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-26>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-21>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-20>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-20>
+pe-1: Taro Wrote-> Harry_Potter /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-19>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-29>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-28>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-28>
+pe-1: Taro Wrote-> Harry_Potter /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-27>
+pe-0: America LiveIn<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-39>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-38>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-37>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-36>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-35>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-35>
+pe-1: Aya ItsChild<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-34>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-44>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-43>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-42>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-41>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-41>
+pe-1: Aya ItsChild<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-40>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-48>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-47>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-46>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-46>
+pe-1: Aya ItsChild<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-45>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-51>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-50>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-50>
+pe-1: Aya ItsChild<- Becky /  8.66667 (LabelException)
+7th Exception.
+Exception Score is 8.66667
+<Pattern 3-49>
+pe-0: Japan LiveIn<- Takashi /  8.66667 (LabelException)
+51th Exception.
+Exception Score is 6.75
+<Pattern 3-1>
+pe-1: Taro ItsChild-> Takashi /  6.75 (LabelException)
+51th Exception.
+Exception Score is 6.75
+<Pattern 3-11>
+pe-1: Taro ItsChild-> Takashi /  6.75 (LabelException)
+51th Exception.
+Exception Score is 6.75
+<Pattern 3-20>
+pe-1: Taro ItsChild-> Takashi /  6.75 (LabelException)
+51th Exception.
+Exception Score is 6.75
+<Pattern 3-28>
+pe-1: Taro ItsChild-> Takashi /  6.75 (LabelException)
+55th Exception.
+Exception Score is 5.8
+<Pattern 3-53>
+pe-1: Becky ItsChild-> Aya /  5.8 (UniqueEntityException)
+55th Exception.
+Exception Score is 5.8
+<Pattern 3-53>
+pe-1: Jiro ItsChild-> Hanako /  5.8 (UniqueEntityException)
+55th Exception.
+Exception Score is 5.8
+<Pattern 3-53>
+pe-1: Jiro ItsChild-> Keiko /  5.8 (UniqueEntityException)
+55th Exception.
+Exception Score is 5.8
+<Pattern 3-54>
+pe-2: Becky ItsChild-> Aya /  5.8 (UniqueEntityException)
+55th Exception.
+Exception Score is 5.8
+<Pattern 3-54>
+pe-2: Jiro ItsChild-> Hanako /  5.8 (UniqueEntityException)
+55th Exception.
+Exception Score is 5.8
+<Pattern 3-54>
+pe-2: Jiro ItsChild-> Keiko /  5.8 (UniqueEntityException)
+61th Exception.
+Exception Score is 5.5
+<Pattern 3-53>
+pe-1: Jiro ComposedBy<- Bean_Song /  5.5 (UniqueEntityException)
+61th Exception.
+Exception Score is 5.5
+<Pattern 3-53>
+pe-1: Keiko ComposedBy<- Flog_Song /  5.5 (UniqueEntityException)
+61th Exception.
+Exception Score is 5.5
+<Pattern 3-53>
+pe-1: Takashi ItsChild<- Taro /  5.5 (UniqueEntityException)
+61th Exception.
+Exception Score is 5.5
+<Pattern 3-54>
+pe-2: Jiro ComposedBy<- Bean_Song /  5.5 (UniqueEntityException)
+61th Exception.
+Exception Score is 5.5
+<Pattern 3-54>
+pe-2: Keiko ComposedBy<- Flog_Song /  5.5 (UniqueEntityException)
+61th Exception.
+Exception Score is 5.5
+<Pattern 3-54>
+pe-2: Takashi ItsChild<- Taro /  5.5 (UniqueEntityException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-1>
+pe-1: Jiro ComposedBy<- Bean_Song /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-1>
+pe-1: Taro ComposedBy<- Natukaze /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-11>
+pe-1: Jiro ComposedBy<- Bean_Song /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-11>
+pe-1: Taro ComposedBy<- Natukaze /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-20>
+pe-1: Jiro ComposedBy<- Bean_Song /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-20>
+pe-1: Taro ComposedBy<- Natukaze /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-28>
+pe-1: Jiro ComposedBy<- Bean_Song /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-28>
+pe-1: Taro ComposedBy<- Natukaze /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-35>
+pe-1: Takashi ComposedBy<- Natukaze /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-35>
+pe-1: Keiko ComposedBy<- Flog_Song /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-41>
+pe-1: Takashi ComposedBy<- Natukaze /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-41>
+pe-1: Keiko ComposedBy<- Flog_Song /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-46>
+pe-1: Takashi ComposedBy<- Natukaze /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-46>
+pe-1: Keiko ComposedBy<- Flog_Song /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-50>
+pe-1: Takashi ComposedBy<- Natukaze /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-50>
+pe-1: Keiko ComposedBy<- Flog_Song /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-53>
+pe-1: Taro ComposedBy<- Natukaze /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-53>
+pe-1: Takashi ComposedBy<- Natukaze /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-53>
+pe-2: Jiro ComposedBy<- Bean_Song /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-53>
+pe-2: Takashi ItsChild<- Taro /  5 (UniqueEntityException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-53>
+pe-2: Takashi LiveIn-> Japan /  5 (UniqueEntityException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-53>
+pe-2: Taro Wrote-> Harry_Potter /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-52>
+pe-1: Becky ItsChild-> Aya /  5 (UniqueEntityException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-52>
+pe-1: Becky LiveIn-> America /  5 (UniqueEntityException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-52>
+pe-1: Keiko ComposedBy<- Flog_Song /  5 (UniqueEntityException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-52>
+pe-2: Jiro ComposedBy<- Bean_Song /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-52>
+pe-2: Takashi ItsChild<- Taro /  5 (UniqueEntityException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-52>
+pe-2: Takashi LiveIn-> Japan /  5 (UniqueEntityException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-52>
+pe-2: Taro Wrote-> Harry_Potter /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-54>
+pe-1: Becky ItsChild-> Aya /  5 (UniqueEntityException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-54>
+pe-1: Becky LiveIn-> America /  5 (UniqueEntityException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-54>
+pe-1: Keiko ComposedBy<- Flog_Song /  5 (UniqueEntityException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-54>
+pe-2: Taro ComposedBy<- Natukaze /  5 (LinkException)
+67th Exception.
+Exception Score is 5
+<Pattern 3-54>
+pe-2: Takashi ComposedBy<- Natukaze /  5 (LinkException)

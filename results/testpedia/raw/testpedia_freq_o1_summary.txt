@@ -1,0 +1,40 @@
+Process Time:
+
+<Preparation>
+	01. Read Graph: 0
+	02. Pretreatment: 0.002
+	SumTime: 0.002
+
+<pers-all>
+	03. Read Query: 0
+	04. Make Pattern List: 0.001
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 0
+	SumTime: 0.001
+
+<pers-all-all>
+	03. Read Query: 0
+	04. Make Pattern List: 0.004
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (extra): 0
+	05-3. Search Pattern (calculate): 0
+	05-3. Search Pattern (extra): 0
+	05-3. Search Pattern (matching): 0
+	SumTime: 0.004
+
+Searched Pattern Num:
+
+<pers-all>
+	0: 0
+	1: 0
+	2: 27
+<pers-all-all>
+	0: 0
+	1: 0
+	2: 0
+	3: 55
+
