@@ -29,7 +29,8 @@ Examples (run from the repository root):
 
 --per-process N: main loads the graph and pretreats it once per process (about 2.5 minutes on DBpedia).
 With N > 1 that cost is shared, but main only prints its summary when all N queries are finished and
---timeout applies to the whole process, so use N > 1 only for cheap queries.
+--timeout applies to the whole process, so use N > 1 only for cheap queries. A process never mixes
+rules (a group is cut at the rule boundary, see --per-rule), so p11..p19 and p20.. are separate processes.
 """
 import argparse
 import json
@@ -37,6 +38,7 @@ import os
 import re
 import shlex
 import shutil
+import signal
 import socket
 import subprocess
 import sys
@@ -51,6 +53,10 @@ CLK_TCK = os.sysconf("SC_CLK_TCK") if hasattr(os, "sysconf") else 100
 
 
 # ---------------------------------------------------------------- helpers
+def _on_sigterm(signum, frame):
+    raise KeyboardInterrupt          # `docker stop` / kill behave like Ctrl-C: the running query is marked interrupted
+
+
 class Log:
     def __init__(self, path):
         Path(path).parent.mkdir(parents=True, exist_ok=True)
@@ -386,6 +392,7 @@ def main():
     ap.add_argument("--merge-only", action="store_true", help="only rebuild the merged files")
     ap.add_argument("--tmux", action="store_true", help="run inside a detached tmux session")
     args = ap.parse_args()
+    signal.signal(signal.SIGTERM, _on_sigterm)
 
     settings = [parse_setting(t) for t in args.setting]
     if args.all_settings:
@@ -430,7 +437,11 @@ def main():
             raise SystemExit(f"{args.main} not found; run from the repository root")
         if not Path(f"index/{args.dataset}/index.json").exists():
             raise SystemExit(f"index/{args.dataset}/index.json missing: run ./main -d {args.dataset} -f 1 first")
-        if subprocess.run(["pgrep", "-x", "main"], capture_output=True).returncode == 0:
+        try:
+            other_main = subprocess.run(["pgrep", "-x", "main"], capture_output=True).returncode == 0
+        except OSError:                                  # pgrep not installed
+            other_main = False
+        if other_main:
             log("WARNING: another ./main is running; timings of concurrent runs are distorted.")
 
     t_session = time.time()
@@ -452,17 +463,25 @@ def main():
                 todo.append(idx)
             log(f"--- setting s={s} o={o}: {len(todo)} to run, {skipped['ok']} already done, "
                 f"{skipped['timeout']} timed out earlier (skipped; --retry-timeouts to run them again)")
-            if args.dry_run:
-                log("    would run: " + ", ".join(names[i] for i in todo[:20]) + (" ..." if len(todo) > 20 else ""))
-                continue
             if args.merge_only:
                 merge(args, log, setting, names, raw)
                 continue
-            groups = [[(i, names[i]) for i in todo[k:k + args.per_process]]
-                      for k in range(0, len(todo), args.per_process)]
+            # a process never mixes rules: a group ends at the rule boundary even if it has fewer than N queries
+            groups = []
+            for i in todo:
+                if (groups and len(groups[-1]) < args.per_process
+                        and groups[-1][-1][0] // args.per_rule == i // args.per_rule):
+                    groups[-1].append((i, names[i]))
+                else:
+                    groups.append([(i, names[i])])
+            glabel = lambda g: (g[0][1] if len(g) == 1 else f"{g[0][1]} .. {g[-1][1]} ({len(g)} queries)") \
+                + f", rho{g[0][0] // args.per_rule}"
+            if args.dry_run:
+                log(f"    {len(groups)} process(es): " + "; ".join(glabel(g) for g in groups[:12])
+                    + (" ..." if len(groups) > 12 else ""))
+                continue
             for n, group in enumerate(groups, 1):
-                label = (group[0][1] if len(group) == 1 else f"{group[0][1]} .. {group[-1][1]} ({len(group)} queries)")
-                log(f"[{n}/{len(groups)}] {label} (rho{group[0][0] // args.per_rule}) s={s} o={o} started "
+                log(f"[{n}/{len(groups)}] {glabel(group)} s={s} o={o} started "
                     f"(session {fmt_dur(time.time() - t_session)})")
                 try:
                     infos, summaries = run_group(args, log, setting, group, parts)

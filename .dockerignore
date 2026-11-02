@@ -1,0 +1,10 @@
+dataset/
+index/
+enumerate/
+query/
+results/
+config/
+.git/
+**/__pycache__/
+*.log
+*.bak*
