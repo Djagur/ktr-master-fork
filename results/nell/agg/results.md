@@ -53,6 +53,7 @@ Times are `SumTime` per query [s], summarised over the queries of each rule (mea
 ## Run info
 
 ### nell, s=dist, o=0
+
 ```
 ./main -d nell -q queries -k 100 -s dist -o 0 -f 0
 Tue Oct 27 05:40:19 PM JST 2026
@@ -79,6 +80,7 @@ Tue Oct 27 06:49:42 PM JST 2026
 ```
 
 ### nell, s=dist, o=1
+
 ```
 ./main -d nell -q queries -k 100 -s dist -o 1 -f 0
 Tue Oct 27 07:35:20 PM JST 2026
@@ -105,6 +107,7 @@ Tue Oct 27 11:04:09 PM JST 2026
 ```
 
 ### nell, s=freq, o=0
+
 ```
 ./main -d nell -q queries -k 100 -s freq -o 0 -f 0
 Tue Oct 27 06:49:42 PM JST 2026
@@ -131,6 +134,7 @@ Tue Oct 27 07:35:20 PM JST 2026
 ```
 
 ### nell, s=freq, o=1
+
 ```
 ./main -d nell -q queries -k 100 -s freq -o 1 -f 0
 Tue Oct 27 11:04:09 PM JST 2026
