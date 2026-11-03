@@ -1,0 +1,28 @@
+./main -d dbpedia -q queries -k 100 -s dist -o 0 -f 0
+mode: incremental, one process per query (results merged from per-query parts)
+first start: 2026-10-30 12:46:33
+last finish: 2026-11-01 05:22:16
+host: vritra
+nproc: 36
+queries done: 61/70
+queries per process: 1; timeout per process: 36000.0 s
+timed out (not in the results): p51, p52
+failed or interrupted (not in the results): p53 (interrupted)
+timings kept but exceptions not attributable to single queries: none
+sum of wall-clock time of the processes including graph loading: 17:37:31
+largest resident memory of a query process: 150.97 GB
+Architecture:                         x86_64
+CPU op-mode(s):                       32-bit, 64-bit
+Address sizes:                        46 bits physical, 48 bits virtual
+Byte Order:                           Little Endian
+CPU(s):                               36
+On-line CPU(s) list:                  0-35
+Vendor ID:                            GenuineIntel
+Model name:                           Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
+CPU family:                           6
+Model:                                63
+Thread(s) per core:                   1
+Core(s) per socket:                   18
+Socket(s):                            2
+Stepping:                             2
+CPU max MHz:                          3600.0000

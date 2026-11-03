@@ -20,7 +20,7 @@ Times are `SumTime` per query [s], summarised over the queries of each rule (mea
 |---|---|---|---|---|---|---|
 | ρ0 | 0.3866 ± 0.5856 (0.122) | 0.3739 ± 0.5945 (0.1115) | 2 | 1 | 0.071 | 0.062 |
 | ρ1 | 87.4 ± 180.1 (7.366) | 89.77 ± 185.7 (7.27) | 1747 | 1746 | 37.55 | 35.57 |
-| ρ3 | 0.4465 ± 0.7157 (0.223) | - | 3 | - | 0.155 | 0.109 |
+| ρ3 | 0.4465 ± 0.7157 (0.223) | 0.3851 ± 0.7992 (0.142) | 3 | 1 | 0.155 | 0.109 |
 
 ## dbpedia, s=dist: o=0 (pruning) vs o=1 (exhaustive)
 
@@ -37,6 +37,7 @@ Times are `SumTime` per query [s], summarised over the queries of each rule (mea
 |---|---|---|---|
 | ρ0 | 0.972 | 0.901 | 10/10 |
 | ρ1 | 1.03 | 1 | 2/10 |
+| ρ3 | 0.634 | 0.688 | 0/0 |
 
 ## Run info
 
@@ -141,15 +142,15 @@ Stepping:                             2
 ./main -d dbpedia -q queries -k 100 -s freq -o 1 -f 0
 mode: incremental, one process per query (results merged from per-query parts)
 first start: 2026-11-03 04:50:47
-last finish: 2026-11-03 07:15:13
+last finish: 2026-11-03 10:23:28
 host: e5d45d71764d
 nproc: 36
-queries done: 20/70
+queries done: 30/70
 queries per process: 10; timeout per process: 10800.0 s
-timed out (not in the results): none
+timed out (not in the results): p20, p21, p22, p23, p24, p25, p26, p27, p28, p29
 failed or interrupted (not in the results): none
 timings kept but exceptions not attributable to single queries: none
-sum of wall-clock time of the processes including graph loading: 2:24:26
+sum of wall-clock time of the processes including graph loading: 2:32:38
 largest resident memory of a query process: 9.5 GB
 Architecture:                         x86_64
 CPU op-mode(s):                       32-bit, 64-bit

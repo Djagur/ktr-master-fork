@@ -1,0 +1,445 @@
+Process Time:
+
+<Preparation>
+	01. Read Graph: 23.559
+	02. Pretreatment: 146.116
+	SumTime: 169.675
+
+<p00>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0.002
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 0.198
+	SumTime: 0.2
+
+<p01>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0.003
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 0.026
+	SumTime: 0.029
+
+<p02>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 0.005
+	SumTime: 0.005
+
+<p03>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 0.021
+	SumTime: 0.021
+
+<p04>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 0.19
+	SumTime: 0.19
+
+<p05>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0.172
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 1.436
+	SumTime: 1.608
+
+<p06>
+	03. Read Query: 0.002
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0.176
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 1.173
+	SumTime: 1.351
+
+<p07>
+	03. Read Query: 0.002
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0.071
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 0.227
+	SumTime: 0.3
+
+<p08>
+	03. Read Query: 0.001
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 0.001
+	SumTime: 0.002
+
+<p09>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0.003
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 0.03
+	SumTime: 0.033
+
+<p10>
+	03. Read Query: 0
+	04. Make Pattern List: 0.028
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0.197
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 18.84
+	SumTime: 19.065
+
+<p11>
+	03. Read Query: 0.007
+	04. Make Pattern List: 0.078
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0.25
+	05-2. Search Pattern (extra): 0.001
+	05-2. Search Pattern (matching): 10.307
+	SumTime: 10.643
+
+<p12>
+	03. Read Query: 0.008
+	04. Make Pattern List: 0.206
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 8.713
+	05-2. Search Pattern (extra): 0.003
+	05-2. Search Pattern (matching): 561.167
+	SumTime: 570.097
+
+<p13>
+	03. Read Query: 0.075
+	04. Make Pattern List: 0.019
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 1.582
+	05-2. Search Pattern (extra): 0.006
+	05-2. Search Pattern (matching): 36.9
+	SumTime: 38.582
+
+<p14>
+	03. Read Query: 0.051
+	04. Make Pattern List: 0.006
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 0.688
+	SumTime: 0.745
+
+<p15>
+	03. Read Query: 0
+	04. Make Pattern List: 0.006
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0.008
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 0.241
+	SumTime: 0.255
+
+<p16>
+	03. Read Query: 0
+	04. Make Pattern List: 0.235
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 2.595
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 249.859
+	SumTime: 252.689
+
+<p17>
+	03. Read Query: 0.079
+	04. Make Pattern List: 0.005
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0.058
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 1.395
+	SumTime: 1.537
+
+<p18>
+	03. Read Query: 0.003
+	04. Make Pattern List: 0.014
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0.344
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 3.536
+	SumTime: 3.897
+
+<p19>
+	03. Read Query: 0.003
+	04. Make Pattern List: 0.007
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (calculate): 0
+	05-2. Search Pattern (extra): 0
+	05-2. Search Pattern (matching): 0.134
+	SumTime: 0.144
+
+<p30>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (extra): 0
+	05-3. Search Pattern (calculate): 0.017
+	05-3. Search Pattern (extra): 0
+	05-3. Search Pattern (matching): 0.307
+	SumTime: 0.324
+
+<p31>
+	03. Read Query: 0.001
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (extra): 0
+	05-3. Search Pattern (extra): 0
+	05-3. Search Pattern (matching): 0.092
+	SumTime: 0.093
+
+<p32>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (extra): 0
+	05-3. Search Pattern (calculate): 0.024
+	05-3. Search Pattern (extra): 0
+	05-3. Search Pattern (matching): 0.227
+	SumTime: 0.251
+
+<p33>
+	03. Read Query: 0.001
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (extra): 0
+	05-3. Search Pattern (calculate): 0.112
+	05-3. Search Pattern (extra): 0
+	05-3. Search Pattern (matching): 2.527
+	SumTime: 2.64
+
+<p34>
+	03. Read Query: 0.006
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (extra): 0
+	05-3. Search Pattern (extra): 0
+	05-3. Search Pattern (matching): 0.047
+	SumTime: 0.053
+
+<p35>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (extra): 0
+	05-3. Search Pattern (extra): 0
+	05-3. Search Pattern (matching): 0.03
+	SumTime: 0.03
+
+<p36>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (extra): 0
+	05-3. Search Pattern (extra): 0
+	05-3. Search Pattern (matching): 0.059
+	SumTime: 0.059
+
+<p37>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (extra): 0
+	05-3. Search Pattern (calculate): 0
+	05-3. Search Pattern (extra): 0
+	05-3. Search Pattern (matching): 0.006
+	SumTime: 0.006
+
+<p38>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (extra): 0
+	05-3. Search Pattern (calculate): 0
+	05-3. Search Pattern (extra): 0
+	05-3. Search Pattern (matching): 0.204
+	SumTime: 0.204
+
+<p39>
+	03. Read Query: 0
+	04. Make Pattern List: 0
+	05-0. Search Pattern (extra): 0
+	05-1. Search Pattern (extra): 0
+	05-2. Search Pattern (extra): 0
+	05-3. Search Pattern (calculate): 0.004
+	05-3. Search Pattern (extra): 0
+	05-3. Search Pattern (matching): 0.187
+	SumTime: 0.191
+
+Searched Pattern Num:
+
+<p00>
+	0: 0
+	1: 0
+	2: 1
+<p01>
+	0: 0
+	1: 0
+	2: 1
+<p02>
+	0: 0
+	1: 0
+	2: 1
+<p03>
+	0: 0
+	1: 0
+	2: 1
+<p04>
+	0: 0
+	1: 0
+	2: 1
+<p05>
+	0: 0
+	1: 0
+	2: 1
+<p06>
+	0: 0
+	1: 0
+	2: 1
+<p07>
+	0: 0
+	1: 0
+	2: 1
+<p08>
+	0: 0
+	1: 0
+	2: 1
+<p09>
+	0: 0
+	1: 0
+	2: 1
+<p10>
+	0: 0
+	1: 0
+	2: 550
+<p11>
+	0: 0
+	1: 0
+	2: 50
+<p12>
+	0: 0
+	1: 0
+	2: 7784
+<p13>
+	0: 0
+	1: 0
+	2: 640
+<p14>
+	0: 0
+	1: 0
+	2: 13
+<p15>
+	0: 0
+	1: 0
+	2: 12
+<p16>
+	0: 0
+	1: 0
+	2: 7956
+<p17>
+	0: 0
+	1: 0
+	2: 153
+<p18>
+	0: 0
+	1: 0
+	2: 295
+<p19>
+	0: 0
+	1: 0
+	2: 4
+<p30>
+	0: 0
+	1: 0
+	2: 0
+	3: 1
+<p31>
+	0: 0
+	1: 0
+	2: 0
+	3: 1
+<p32>
+	0: 0
+	1: 0
+	2: 0
+	3: 1
+<p33>
+	0: 0
+	1: 0
+	2: 0
+	3: 1
+<p34>
+	0: 0
+	1: 0
+	2: 0
+	3: 1
+<p35>
+	0: 0
+	1: 0
+	2: 0
+	3: 1
+<p36>
+	0: 0
+	1: 0
+	2: 0
+	3: 1
+<p37>
+	0: 0
+	1: 0
+	2: 0
+	3: 1
+<p38>
+	0: 0
+	1: 0
+	2: 0
+	3: 1
+<p39>
+	0: 0
+	1: 0
+	2: 0
+	3: 1
