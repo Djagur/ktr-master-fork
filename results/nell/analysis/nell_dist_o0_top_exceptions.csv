@@ -1,0 +1,101 @@
+score,fact,types,query,rule,context
+2671950.0,sportsteam:louis_cardinals -[organizationacronymhasname]-> sportsteam:st__louis_cardinals,LinkException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+2671950.0,sportsteam:st__louis_cardinals -[organizationnamehasacronym]-> sportsteam:louis_cardinals,LinkException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+656007.0,sportsteam:notre_dame -[teamplaysagainstteam]-> sportsteam:falcons,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+656007.0,sportsteam:falcons -[teamplaysagainstteam]-> sportsteam:notre_dame,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+478975.0,athlete:alfonso_soriano -[athleteplayssport]-> sport:baseball,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+478975.0,sport:baseball -[players]-> athlete:alfonso_soriano,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+478975.0,coach:andy_green -[athleteplayssport]-> sport:basketball,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+478975.0,sport:basketball -[players]-> coach:andy_green,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+448355.0,sportsteam:rutgers -[teamplaysagainstteam]-> sportsteam:knicks,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+448355.0,sportsteam:knicks -[teamplaysagainstteam]-> sportsteam:rutgers,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+448355.0,sportsteam:notre_dame -[teamplaysagainstteam]-> sportsteam:boston_bruins,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+448355.0,sportsteam:boston_bruins -[teamplaysagainstteam]-> sportsteam:notre_dame,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+428183.0,sportsteam:chicago_bulls -[teamplaysagainstteam]-> sportsteam:rutgers,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+428183.0,sportsteam:rutgers -[teamplaysagainstteam]-> sportsteam:chicago_bulls,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+376712.0,sportsteamposition:center -[sportsteampositionathlete]-> personmexico:carlos_arroyo,LinkException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+376712.0,personmexico:carlos_arroyo -[athleteplayssportsteamposition]-> sportsteamposition:center,LinkException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+338123.0,athlete:carlos_carrasco -[athleteplayssport]-> sport:baseball,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+338123.0,athlete:george_brett -[athleteplayssport]-> sport:baseball,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+338123.0,sport:baseball -[players]-> athlete:george_brett,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+338123.0,sport:baseball -[players]-> athlete:carlos_carrasco,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+212868.0,athlete:alfonso_soriano -[athleteplaysforteam]-> sportsteam:yankees,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+212868.0,sportsteam:yankees -[teammember]-> athlete:alfonso_soriano,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+212868.0,coach:andy_green -[athleteplaysforteam]-> sportsteam:kansas_city_chiefs,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+212868.0,sportsteam:kansas_city_chiefs -[teammember]-> coach:andy_green,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+212868.0,visualizablescene:brandon_wood -[athleteplaysforteam]-> sportsteam:chicago_cubs,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+212868.0,sportsteam:chicago_cubs -[teammember]-> visualizablescene:brandon_wood,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+207859.0,sportsleague:mlb -[leagueplayers]-> athlete:alfonso_soriano,LabelException,56,5,* -[*]-> person; * -[*]-> personeurope
+207859.0,athlete:alfonso_soriano -[athleteplaysinleague]-> sportsleague:mlb,LabelException,56,5,* -[*]-> person; * -[*]-> personeurope
+207859.0,sportsleague:nba -[leagueplayers]-> coach:andy_green,LabelException,56,5,* -[*]-> person; * -[*]-> personeurope
+207859.0,coach:andy_green -[athleteplaysinleague]-> sportsleague:nba,LabelException,56,5,* -[*]-> person; * -[*]-> personeurope
+192498.0,animal:lamb -[animaleatfood]-> beverage:milk,LinkException,67,6,grain -[*]-> *; grain -[*]-> *
+190185.0,sportsgame:weeks -[sportsgameteam]-> sportsteam:oakland_raiders,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+190185.0,sportsteam:oakland_raiders -[teamingame]-> sportsgame:weeks,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+180818.0,sportsleague:mlb -[superpartof]-> athlete:boston_red_sox_additions_john_flaherty,LinkException,56,5,* -[*]-> person; * -[*]-> personeurope
+180818.0,athlete:boston_red_sox_additions_john_flaherty -[subpartof]-> sportsleague:mlb,LinkException,56,5,* -[*]-> person; * -[*]-> personeurope
+133326.0,country:america -[locatedat]-> country:canadians_canada,LinkException,25,2,language -[*]-> *
+133326.0,country:canadians_canada -[atlocation]-> country:america,LinkException,25,2,language -[*]-> *
+133326.0,country:mexico -[subpartof]-> country:u_s_,LinkException,25,2,language -[*]-> *
+133326.0,country:u_s_ -[superpartof]-> country:mexico,LinkException,25,2,language -[*]-> *
+133326.0,country:canadians_canada -[organizationacronymhasname]-> country:the_united_kingdom,LinkException,25,2,language -[*]-> *
+133326.0,country:canadian_citizens -[agentactsinlocation]-> country:canadians_canada,LinkException,25,2,language -[*]-> *
+133326.0,country:canadians_canada -[locationactedinbyagent]-> country:canadian_citizens,LinkException,25,2,language -[*]-> *
+133326.0,country:the_united_kingdom -[organizationnamehasacronym]-> country:canadians_canada,LinkException,25,2,language -[*]-> *
+125838.0,food:oil -[agriculturalproductincludingagriculturalproduct]-> vegetable:pepper,LinkException,29,2,animal -[*]-> *
+118671.0,sportsteamposition:center -[sportsteampositionreceivedathlete]-> coach:andy_green,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+118671.0,sportsteamposition:center -[sportsteampositionreceivedathlete]-> athlete:alfonso_soriano,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+118671.0,coach:andy_green -[athleteflyouttosportsteamposition]-> sportsteamposition:center,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+118671.0,athlete:alfonso_soriano -[athleteflyouttosportsteamposition]-> sportsteamposition:center,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+115871.0,animal:lamb -[animaleatfood]-> agriculturalproduct:herbs,LinkException,29,2,animal -[*]-> *
+115871.0,agriculturalproduct:spices -[beveragemadefrombeverage]-> beverage:juice,LinkException,29,2,animal -[*]-> *
+107950.0,disease:side_effects -[sideeffectcausedbydrug]-> bacteria:side_effects,LabelException,9,0,emotion -[emotionassociatedwithdisease]-> disease
+107950.0,bacteria:side_effects -[drughassideeffect]-> disease:side_effects,LabelException,9,0,emotion -[emotionassociatedwithdisease]-> disease
+94912.8,sportsleague:mlb -[leagueplayers]-> athlete:george_brett,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+94912.8,sportsleague:mlb -[leagueplayers]-> athlete:carlos_carrasco,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+94912.8,athlete:carlos_carrasco -[athleteplaysinleague]-> sportsleague:mlb,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+94912.8,athlete:george_brett -[athleteplaysinleague]-> sportsleague:mlb,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+75165.6,year:n1998 -[synonymfor]-> country:tanzania,LinkException,25,2,language -[*]-> *
+75165.6,country:tanzania -[synonymfor]-> year:n1998,LinkException,25,2,language -[*]-> *
+70688.5,drug:lipitor -[producedby]-> biotechcompany:pfizer,LinkException/UniqueEntityException,8,0,drug -[drugworkedonbyagent]-> biotechcompany
+70688.5,drug:lipitor -[iteminvolvedwithagent]-> biotechcompany:pfizer,LinkException/UniqueEntityException,8,0,drug -[drugworkedonbyagent]-> biotechcompany
+70688.5,biotechcompany:pfizer -[producesproduct]-> drug:lipitor,LinkException/UniqueEntityException,8,0,drug -[drugworkedonbyagent]-> biotechcompany
+70688.5,biotechcompany:pfizer -[agentinvolvedwithitem]-> drug:lipitor,LinkException/UniqueEntityException,8,0,drug -[drugworkedonbyagent]-> biotechcompany
+70688.5,drug:selenium -[chemicalistypeofchemical]-> drug:ketoconazole,UniqueEntityException,8,0,drug -[drugworkedonbyagent]-> biotechcompany
+70688.5,drug:ketoconazole -[chemicaltypehaschemical]-> drug:selenium,UniqueEntityException,8,0,drug -[drugworkedonbyagent]-> biotechcompany
+70688.5,dateliteral:n2006 -[subpartof]-> stateorprovince:texas,LinkException,24,2,currency -[*]-> *
+70688.5,stateorprovince:texas -[superpartof]-> dateliteral:n2006,LinkException,24,2,currency -[*]-> *
+67740.3,country:austria -[countriessuchascountries]-> country:eastern_european_countries,LinkException,25,2,language -[*]-> *
+57079.0,animal:children -[animaldevelopdisease]-> disease:conditions,LabelException,29,2,animal -[*]-> *
+55445.0,nonprofitorganization:world -[organizationhasagent]-> musician:roger,LabelException,60,6,musicinstrument -[*]-> *; musicinstrument -[*]-> *
+55445.0,celebrity:artists -[celebritysuchascelebrity]-> musician:elvis_presley,LabelException,60,6,musicinstrument -[*]-> *; musicinstrument -[*]-> *
+55445.0,sportsgame:series -[eventhasparticipantagent]-> musician:six,LabelException,60,6,musicinstrument -[*]-> *; musicinstrument -[*]-> *
+55445.0,musician:six -[agentparticipatedinevent]-> sportsgame:series,LabelException,60,6,musicinstrument -[*]-> *; musicinstrument -[*]-> *
+55445.0,musician:glenn_gould -[personbornincity]-> city:ottawa,UniqueEntityException,60,6,musicinstrument -[*]-> *; musicinstrument -[*]-> *
+55445.0,city:ottawa -[cityofpersonbirth]-> musician:glenn_gould,UniqueEntityException,60,6,musicinstrument -[*]-> *; musicinstrument -[*]-> *
+55112.5,person:bob -[hassibling]-> musician:roger,LabelException,60,6,musicinstrument -[*]-> *; musicinstrument -[*]-> *
+55112.5,musician:roger -[hassibling]-> person:bob,LabelException,60,6,musicinstrument -[*]-> *; musicinstrument -[*]-> *
+53792.5,musician:roger -[agentbelongstoorganization]-> nonprofitorganization:world,LabelException,60,6,musicinstrument -[*]-> *; musicinstrument -[*]-> *
+49928.5,disease:medical_conditions -[ismultipleof]-> disease:medical_condition,UniqueEntityException,29,2,animal -[*]-> *
+49928.5,disease:medical_condition -[isoneoccurrenceof]-> disease:medical_conditions,UniqueEntityException,29,2,animal -[*]-> *
+46876.7,drug:meridia -[synonymfor]-> biotechcompany:abbot_laboratories,LabelException/LinkException,8,0,drug -[drugworkedonbyagent]-> biotechcompany
+46876.7,biotechcompany:abbot_laboratories -[synonymfor]-> drug:meridia,LabelException/LinkException,8,0,drug -[drugworkedonbyagent]-> biotechcompany
+46875.7,drug:botox -[synonymfor]-> biotechcompany:allergan,LinkException/UniqueEntityException,8,0,drug -[drugworkedonbyagent]-> biotechcompany
+46875.7,biotechcompany:allergan -[synonymfor]-> drug:botox,LinkException/UniqueEntityException,8,0,drug -[drugworkedonbyagent]-> biotechcompany
+46655.6,country:__france -[agentcompeteswithagent]-> sportsteam:brazil,LinkException,25,2,language -[*]-> *
+46655.6,sportsteam:brazil -[agentcompeteswithagent]-> country:__france,LinkException,25,2,language -[*]-> *
+46655.6,geopoliticallocation:santander -[bankbankincountry]-> country:scotland,LinkException,25,2,language -[*]-> *
+45602.5,dateliteral:n2005 -[subpartof]-> stateorprovince:texas,LinkException,46,4,geopolitcallocation -[cityofpersondeath]-> *; geopolitcallocation -[*]-> *
+45602.5,stateorprovince:texas -[superpartof]-> dateliteral:n2005,LinkException,46,4,geopolitcallocation -[cityofpersondeath]-> *; geopolitcallocation -[*]-> *
+41841.0,weapon:rockets -[weaponmadeincountry]-> country:lebanon,LabelException,24,2,currency -[*]-> *
+40249.2,country:china -[geopoliticallocationcontainscountry]-> country:soviet_union,LabelException,25,2,language -[*]-> *
+40249.2,city:history -[geopoliticallocationcontainscountry]-> country:soviet_union,LabelException,25,2,language -[*]-> *
+40249.2,country:soviet_union -[countrylocatedingeopoliticallocation]-> city:history,LabelException,25,2,language -[*]-> *
+40249.2,country:soviet_union -[countrylocatedingeopoliticallocation]-> country:china,LabelException,25,2,language -[*]-> *
+39905.2,university:college -[universityhasacademicprogram]-> academicfield:art,LabelException,41,4,female -[motherofperson]-> *; female -[*]-> *
+39905.2,university:college -[universityhasacademicprogram]-> academicfield:resources_management,LabelException,41,4,female -[motherofperson]-> *; female -[*]-> *
+39905.2,academicfield:resources_management -[academicprogramatuniversity]-> university:college,LabelException,41,4,female -[motherofperson]-> *; female -[*]-> *
+39905.2,academicfield:art -[academicprogramatuniversity]-> university:college,LabelException,41,4,female -[motherofperson]-> *; female -[*]-> *
+39905.2,university:state_university -[universityhasacademicprogram]-> academicfield:art,LabelException,41,4,female -[motherofperson]-> *; female -[*]-> *
+39905.2,academicfield:art -[academicprogramatuniversity]-> university:state_university,LabelException,41,4,female -[motherofperson]-> *; female -[*]-> *
+36315.6,musicgenre:rock -[musicgenreartist]-> organization:scorpions,LabelException,50,5,* -[*]-> musician; * -[*]-> musicgenre

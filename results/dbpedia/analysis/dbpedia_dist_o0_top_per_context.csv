@@ -1,0 +1,58 @@
+rank,score,context,query,rule,strongest_fact,type,tied_facts,exceptions_in_context,unique_facts_in_context
+1,10511600000.0,SoccerPlayer -[team]-> *,12,1,British_Columbia_Intercollegiate_Hockey_League -[team]-> University_of_Victoria,LabelException,1,110,40
+2,440451000.0,* -[*]-> Work; * -[*]-> Language,50,5,IPBA_%28TV_series%29 -[developer]-> Philippine_Basketball_Association,LinkException,33,100,34
+3,178287000.0,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *,46,4,Loek_van_Mil -[award]-> Netherlands,LinkException,1,104,24
+4,129861000.0,MusicFestival -[*]-> *,25,2,Mutant_Chronicles -[genre]-> Techno,LabelException,2,102,66
+5,110232000.0,MusicalArtist -[associatedBand]-> *,16,1,NanoTek_Warrior -[artist]-> Don_Williams,LabelException,1,106,63
+6,51202600.0,FormulaOneRacer -[*]-> *,27,2,Loek_van_Mil -[award]-> Netherlands,LinkException,1,100,35
+7,45763700.0,Writer -[occupation]-> *; Writer -[*]-> *,49,4,Sixty_Six_Steps -[recordPlace]-> Rock_music,LinkException,1,142,4
+8,39244800.0,University -[head]-> *; University -[*]-> *,48,4,The_Autobiography_of_Miss_Jane_Pittman -[coverArtist]-> United_States,LinkException,1,100,23
+9,36332400.0,Currency -[*]-> *,28,2,Loek_van_Mil -[award]-> Netherlands,LinkException,2,100,35
+10,36332400.0,* -[*]-> Country; * -[*]-> University,58,5,Loek_van_Mil -[award]-> Netherlands,LinkException,2,138,12
+11,31857900.0,Weapon -[wars]-> *; Weapon -[*]-> *,47,4,The_Evil_Empire:_101_Ways_That_England_Ruined_the_World -[subject]-> United_Kingdom,LinkException,3,102,7
+12,30615500.0,PrimeMinister -[birthPlace]-> *,13,1,Sharpe%27s_Prey -[language]-> United_Kingdom,LinkException,2,100,44
+13,29334400.0,Philosopher -[influencedBy]-> *; Philosopher -[*]-> *,41,4,The_Autobiography_of_Miss_Jane_Pittman -[coverArtist]-> United_States,LinkException,1,101,27
+14,28453000.0,Bridge -[region]-> *; Bridge -[*]-> *,44,4,The_Autobiography_of_Miss_Jane_Pittman -[coverArtist]-> United_States,LinkException,1,176,8
+15,28431600.0,Bird -[class]-> Animal,6,0,Ruby-throated_Hummingbird -[class]-> Bird,LabelException,1,142,111
+16,25984500.0,Convention -[*]-> *,22,2,The_Autobiography_of_Miss_Jane_Pittman -[coverArtist]-> United_States,LinkException,2,101,53
+17,24924600.0,Reptile -[class]-> Animal,7,0,Fancy_rat -[class]-> Tetrapod,LabelException,2,191,180
+18,22690200.0,MusicalWork -[language]-> *,11,1,The_Path_%28video_game%29 -[distributor]-> Japanese_language,LinkException,2,112,48
+19,19639800.0,Monarch -[successor]-> *; Monarch -[*]-> *,42,4,Ben_Bowditch -[team]-> England,LinkException,1,100,44
+20,16814100.0,Mammal -[class]-> Animal,5,0,Dwarf_killer_whale -[class]-> Elasmobranchii,LabelException,1,141,138
+21,12876600.0,WrestlingEvent -[*]-> *,21,2,Dayton%2C_Ohio -[leader]-> Gary_Leitzell,LinkException,10,101,34
+22,6893520.0,Film -[narrator]-> *,10,1,Fran%C3%A7ois_P%C3%A9rier -[baftaAward]-> Gervaise,LinkException,3,111,46
+23,5763010.0,Reptile -[family]-> *,18,1,Virginia_striatula -[genus]-> Virginia,LinkException,7,110,48
+24,5404280.0,Saint -[beatifiedBy]-> Cleric; Saint -[deathPlace]-> Place,33,3,Peter_Butler_%28surgeon%29 -[employer]-> London,LinkException,10,100,99
+25,5404280.0,Saint -[beatifiedBy]-> *; Saint -[*]-> *,43,4,Peter_Butler_%28surgeon%29 -[employer]-> London,LinkException,10,103,17
+26,2700500.0,* -[*]-> Work; * -[*]-> Company,54,5,Mike_Montgomery -[birthPlace]-> Long_Beach%2C_California,LabelException,1,100,15
+27,2356620.0,* -[*]-> Work; * -[*]-> Organisation,53,5,Alone_in_Snakebite_Canyon -[translator]-> Spanish_language,LinkException,1,112,75
+28,1109570.0,VideoGame -[producer]-> Person; VideoGame -[publisher]-> Company,30,3,FIFA_08 -[computingPlatform]-> Nintendo,LinkException,1,129,128
+29,1109570.0,VideoGame -[producer]-> *; VideoGame -[*]-> *,40,4,FIFA_08 -[computingPlatform]-> Nintendo,LinkException,1,100,19
+30,1058910.0,* -[*]-> Country; * -[*]-> Island,55,5,The_Cramp_Twins -[starring]-> Colin_Murdock,LabelException,5,105,32
+31,939462.0,Non-ProfitOrganisation -[keyPerson]-> *,17,1,California_State_University -[affiliation]-> California,LinkException,2,107,42
+32,825733.0,* -[*]-> Country; * -[*]-> River,57,5,Jan_Philipp_Albrecht -[region]-> Germany,LabelException,2,104,7
+33,522242.0,Bacteria -[*]-> *,29,2,Gardnerella_vaginalis -[binomialAuthority]-> George_Gardner,LinkException,2,1346,19
+34,153921.0,Monarch -[successor]-> Monarch; Monarch -[predecessor]-> Monarch,32,3,Ivan_Alexander_of_Bulgaria -[successor]-> Ivan_Sratsimir_of_Bulgaria,LabelException,1,104,61
+35,117789.0,SiteOfSpecialScientificInterest -[*]-> *,26,2,Brigg -[unitaryAuthority]-> South_Yorkshire,LinkException,1,114,38
+36,18600.8,BodyOfWater -[originalEndPoint]-> *; BodyOfWater -[*]-> *,45,4,List_of_characters_of_The_Bill_%28A-D%29__Gary_Best -[deathCause]-> Manchester,LinkException,4,320,4
+37,11074.3,Planet -[discoverer]-> Person; Planet -[discoverer]-> Scientist,39,3,William_Herschel -[knownFor]-> Uranus,LinkException/UniqueEntityException,8,107,62
+38,7210.43,Spacecraft -[*]-> *; Spacecraft -[*]-> *,60,6,Wray_Carlton -[college]-> Duke_University,LabelException,1,108,14
+39,5463.0,BaseballLeague -[team]-> City,9,0,Benjamin_Kim -[birthPlace]-> Portland%2C_Oregon,LinkException,1,102,102
+40,5000.5,Scientist -[knownFor]-> Disease,1,0,Louis-Anne-Jean_Brocq -[influencedBy]-> Psoriasis,LinkException,2,111,109
+41,3373.73,VideoGame -[producer]-> Person,0,0,Apogee_of_Fear -[cinematography]-> Richard_Garriott,LinkException,1,103,100
+42,2117.71,Town -[twinCity]-> *,15,1,Matt_Grothe -[highschool]-> Lakeland%2C_Florida,LinkException,2,103,29
+43,2055.0,Mollusca -[species]-> *,14,1,White-eared_Titi -[binomialAuthority]-> Alcide_d%27Orbigny,LabelException,1,101,43
+44,925.75,* -[*]-> Work; * -[*]-> MusicalWork,51,5,Expedition_1 -[previousMission]-> Mir,LinkException,1,104,8
+45,613.0,* -[*]-> Country; * -[*]-> Lake,59,5,Rodolfo_Llin%C3%A1s -[knownFor]-> Cerebellum,UniqueEntityException,2,142,18
+46,162.5,Animal -[genus]-> Brain,4,0,Hippocampus_histrix -[order]-> Syngnathiformes,UniqueEntityException,1,97,78
+47,30.3333,Stream -[river]-> *,19,1,Arlington_Memorial_Bridge -[location]-> Potomac_River,LabelException,2,111,34
+48,22.3333,AutoRacingLeageu -[*]-> *,20,2,Up_and_Coming_%28TV_series%29 -[composer]-> Bill_Withers,LinkException,1,110,34
+49,19.5,Weapon -[wars]-> Country; Weapon -[type]-> Device,37,3,Kirsty_Sword_Gusm%C3%A3o -[stateOfOrigin]-> East_Timor,LinkException,1,49,47
+50,8.5,Book -[subject]-> Scientist,3,0,The_Inventions%2C_Researches%2C_and_Writings_of_Nikola_Tesla -[subject]-> Nikola_Tesla,LabelException/LinkException,1,12,11
+51,6.57778,University -[head]-> Person; University -[head]-> Scientist,38,3,Jerry_Davis -[college]-> Southeastern_Louisiana_University,LabelException,3,63,47
+52,3.0,Monument -[*]-> *,24,2,Mount_Morris%2C_Illinois -[region]-> Ogle_County%2C_Illinois,LinkException,1,26,5
+53,2.5,VideoGamesLeague -[team]-> VideoGame,2,0,Gears_of_War_2 -[writer]-> Joshua_Ortega,LinkException,1,11,9
+54,2.5,* -[*]-> Work; * -[*]-> Film,52,5,Gears_of_War_2 -[writer]-> Joshua_Ortega,LinkException,1,213,9
+55,2.5,* -[*]-> Country; * -[*]-> Stream,56,5,Median_sacral_vein -[artery]-> Median_sacral_artery,LabelException,3,68,14
+56,1.0,SpaceMission -[previousMission]-> SpaceStation,8,0,Progress_M1-4 -[crew]-> Expedition_1,LabelException,26,27,26
+57,1.0,LunarCrater -[*]-> *,23,2,Giovanni_Fabbroni -[award]-> Fabbroni_%28crater%29,LabelException,3,9,3

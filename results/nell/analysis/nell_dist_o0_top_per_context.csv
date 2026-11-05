@@ -1,0 +1,65 @@
+rank,score,context,query,rule,strongest_fact,type,tied_facts,exceptions_in_context,unique_facts_in_context
+1,2671950.0,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *,48,4,sportsteam:louis_cardinals -[organizationacronymhasname]-> sportsteam:st__louis_cardinals,LinkException,2,100,10
+2,1152850.0,* -[*]-> person; * -[*]-> personnorthamerica,55,5,sportsteam:louis_cardinals -[organizationacronymhasname]-> sportsteam:st__louis_cardinals,LinkException,2,112,16
+3,449038.0,* -[*]-> person; * -[*]-> personeurope,56,5,athlete:alfonso_soriano -[athleteplayssport]-> sport:baseball,LabelException,2,112,14
+4,442557.0,* -[*]-> person; * -[*]-> personasia,59,5,athlete:alfonso_soriano -[athleteplayssport]-> sport:baseball,LabelException,2,112,14
+5,433970.0,* -[*]-> person; * -[*]-> personcanada,57,5,athlete:alfonso_soriano -[athleteplayssport]-> sport:baseball,LabelException,2,112,14
+6,421732.0,* -[*]-> person; * -[*]-> personafrica,58,5,athlete:alfonso_soriano -[athleteplayssport]-> sport:baseball,LabelException,2,112,16
+7,376712.0,male -[fatherofperson]-> *; male -[*]-> *,43,4,sportsteamposition:center -[sportsteampositionathlete]-> personmexico:carlos_arroyo,LinkException,2,108,18
+8,192498.0,grain -[*]-> *; grain -[*]-> *,67,6,animal:lamb -[animaleatfood]-> beverage:milk,LinkException,1,1128,1
+9,133326.0,language -[*]-> *,25,2,country:canadians_canada -[organizationacronymhasname]-> country:the_united_kingdom,LinkException,8,104,31
+10,125838.0,animal -[*]-> *,29,2,food:oil -[agriculturalproductincludingagriculturalproduct]-> vegetable:pepper,LinkException,1,236,6
+11,107950.0,emotion -[emotionassociatedwithdisease]-> disease,9,0,disease:side_effects -[sideeffectcausedbydrug]-> bacteria:side_effects,LabelException,2,100,73
+12,107950.0,emotion -[emotionassociatedwithdisease]-> *,19,1,disease:side_effects -[sideeffectcausedbydrug]-> bacteria:side_effects,LabelException,2,102,70
+13,74885.0,musicfestival -[*]-> *,22,2,year:n1998 -[synonymfor]-> country:tanzania,LinkException,2,180,90
+14,70688.5,drug -[drugworkedonbyagent]-> biotechcompany,8,0,drug:lipitor -[producedby]-> biotechcompany:pfizer,LinkException/UniqueEntityException,6,108,94
+15,70688.5,drug -[drugworkedonbyagent]-> *,18,1,drug:lipitor -[producedby]-> biotechcompany:pfizer,LinkException/UniqueEntityException,6,134,94
+16,70688.5,currency -[*]-> *,24,2,dateliteral:n2006 -[subpartof]-> stateorprovince:texas,LinkException,2,100,23
+17,67315.7,wine -[*]-> *; wine -[*]-> *,62,6,food:oil -[agriculturalproductincludingagriculturalproduct]-> vegetable:pepper,LinkException,1,904,1
+18,55445.0,musicinstrument -[*]-> *; musicinstrument -[*]-> *,60,6,celebrity:artists -[celebritysuchascelebrity]-> musician:elvis_presley,LabelException,6,108,9
+19,45602.5,geopolitcallocation -[cityofpersondeath]-> *; geopolitcallocation -[*]-> *,46,4,dateliteral:n2005 -[subpartof]-> stateorprovince:texas,LinkException,2,100,8
+20,39905.2,female -[motherofperson]-> *; female -[*]-> *,41,4,university:college -[universityhasacademicprogram]-> academicfield:art,LabelException,6,112,8
+21,36315.6,* -[*]-> musician; * -[*]-> musicgenre,50,5,musicgenre:rock -[musicgenreartist]-> organization:scorpions,LabelException,4,128,10
+22,35912.5,programminglanguage -[*]-> *; programminglanguage -[*]-> *,61,6,dateliteral:n2005 -[subpartof]-> stateorprovince:texas,LinkException,4,176,4
+23,26221.0,item -[instrumentplayedbymusician]-> *,16,1,person:bob -[hassibling]-> musician:roger,LabelException,5,1572,79
+24,26221.0,* -[*]-> musician; * -[*]-> musicartist,54,5,nonprofitorganization:world -[organizationhasagent]-> musician:roger,LabelException,2,352,19
+25,26221.0,item -[*]-> *; item -[*]-> *,64,6,nonprofitorganization:world -[organizationhasagent]-> musician:roger,LabelException,2,3420,2
+26,24702.4,landscapefeatures -[*]-> *; landscapefeatures -[*]-> *,68,6,city:washington_dc -[locationlocatedwithinlocation]-> company:national,LinkException,2,816,2
+27,23513.8,professor -[agentbelongstoorganization]-> *; professor -[*]-> *,45,4,website:abc_news -[superpartoforganization]-> televisionstation:wfaa,LabelException,2,466,2
+28,22087.0,personeurope -[personbelongstoorganization]-> *,13,1,website:abc_news -[superpartoforganization]-> televisionstation:wfaa,LabelException,2,104,66
+29,12961.0,traditionalgame -[*]-> *; traditionalgame -[*]-> *,65,6,dateliteral:n2005 -[subpartof]-> stateorprovince:texas,LinkException,2,448,56
+30,12961.0,parlourgame -[*]-> *; parlourgame -[*]-> *,66,6,dateliteral:n2005 -[subpartof]-> stateorprovince:texas,LinkException,2,2064,18
+31,11167.4,crimeorcharge -[crimeorchargeofperson]-> person; crimeorcharge -[eventhasparticipantagent]-> country,30,3,country:countries -[geopoliticallocationcontainscountry]-> country:israel,LabelException,2,104,100
+32,11084.3,plant -[inverseofanimaleatfood]-> *,15,1,food:eggs -[agriculturalproductcomingfromvertebrate]-> animal:chicken,LinkException,1,100,80
+33,8246.94,* -[*]-> musician; * -[*]-> musicinstrument,53,5,musicinstrument:guitar -[instrumentplayedbymusician]-> visualizablescene:bill_stewart,LabelException,6,120,6
+34,6915.0,plant -[inverseofanimaleatfood]-> mammal,5,0,mammal:hunters -[animalssuchasmammals]-> mammal:deer,LinkException,1,100,89
+35,6807.67,dateliteral -[dateofpersonbirth]-> *; dateliteral -[*]-> *,49,4,stateorprovince:california -[statehascapital]-> city:sacramento,LinkException,2,100,27
+36,5859.64,politicsblog -[agentcompeteswithagent]-> *,12,1,politicsblog:times -[publicationjournalist]-> professor:craig_smith,LabelException,2,130,90
+37,4702.71,shoppingmall -[buildinglocatedincity]-> *; shoppingmall -[*]-> *,47,4,radiostation:wcbs_tv -[radiostationincity]-> city:new_york,LinkException,4,192,16
+38,3872.5,militaryconflict -[*]-> *,21,2,dateliteral:n2005 -[subpartof]-> stateorprovince:texas,LinkException,2,140,68
+39,3375.31,item -[instrumentplayedbymusician]-> personeurope,6,0,musicinstrument:guitar -[instrumentplayedbymusician]-> visualizablescene:bill_stewart,LabelException,6,106,106
+40,3375.31,item -[iteminvolvedwithagent]-> personnorthamerica,7,0,musicinstrument:guitar -[instrumentplayedbymusician]-> visualizablescene:bill_stewart,LabelException,6,106,106
+41,3375.31,item -[iteminvolvedwithagent]-> *,17,1,musicinstrument:guitar -[instrumentplayedbymusician]-> visualizablescene:bill_stewart,LabelException,6,228,6
+42,2321.0,fungus -[*]-> *; fungus -[*]-> *,63,6,insect:insects -[arthropodthatfeedoninsect]-> insect:mosquitoes,LinkException,2,168,6
+43,2278.5,scientist -[worksfor]-> *; scientist -[*]-> *,44,4,journalist:charles_krauthammer -[controlledbyagent]-> website:the_new_york_post,LinkException,2,168,2
+44,1459.55,bone -[inverseofathleteinjuredhisbodypart]-> athlete,4,0,athlete:basketball_players -[athletessuchasathletes]-> personus:eric_johnson,LinkException,2,104,93
+45,1459.55,bone -[inverseofathleteinjuredhisbodypart]-> *,14,1,athlete:basketball_players -[athletessuchasathletes]-> personus:eric_johnson,LinkException,2,104,89
+46,1239.23,ethnicgroup -[*]-> *,26,2,attraction:river_thames -[attractionofcity]-> city:central_london,LabelException,12,168,28
+47,1177.75,software -[*]-> *,28,2,automobilemodel:explorer -[producedby]-> biotechcompany:microsoft,LabelException,4,120,10
+48,1105.0,visualartform -[visualartfromartist]-> visualartist; visualartform -[objectlookslikeobject]-> visualizableobject,39,3,visualartist:warhol -[personborninlocation]-> geopoliticalorganization:york,LabelException,8,100,100
+49,1000.71,month -[*]-> *,23,2,sportsgame:championship -[sportsgameteam]-> sportsteam:notre_dame,LabelException,6,112,32
+50,482.222,politicianus -[persongraduatedschool]-> school; politicianus -[personchargedwithcrime]-> crimeorcharge,37,3,politicianus:bush -[politicianusendorsespoliticianus]-> astronaut:herbert_hoover,LabelException,2,116,116
+51,338.667,location -[countryoforganizationheadquarters]-> automobilemaker; location -[locationrepresentedbypolitician]-> politician,33,3,politician:barack_hussein_obama -[politicianrepresentslocation]-> country:united_states,LabelException,2,100,100
+52,215.2,writer -[writerwasbornincity]-> city,1,0,hotel:tuscany -[locationcontainslocation]-> city:florence,LinkException,2,100,100
+53,215.2,writer -[writerwasbornincity]-> *,11,1,hotel:tuscany -[locationcontainslocation]-> city:florence,LinkException,2,100,40
+54,200.5,religion -[*]-> *,20,2,terroristorganization:abu_sayyaf -[organizationcreatedbyperson]-> person:abubakar_abdurajak_janjalani,LabelException,24,100,50
+55,72.5,videogame -[createdbyagent]-> personeurope,0,0,videogame:wheel_of_time -[createdbyagent]-> writer:robert_jordan,LabelException,2,42,40
+56,72.5,videogame -[createdbyagent]-> *,10,1,videogame:wheel_of_time -[createdbyagent]-> writer:robert_jordan,LabelException,2,134,42
+57,72.5,videogame -[*]-> *,27,2,videogame:wheel_of_time -[createdbyagent]-> writer:robert_jordan,LabelException,2,100,41
+58,54.1429,politicsblog -[agentcompeteswithagent]-> newspaper,2,0,politicsblog:cnn -[publicationjournalist]-> journalist:john_king,LabelException,4,106,104
+59,25.1071,* -[*]-> musician; * -[*]-> musicalbum,52,5,year:n1994 -[dateof]-> city:rome,LabelException,26,208,26
+60,22.5,hallwayitem -[*]-> *; hallwayitem -[*]-> *,69,6,website:youtube -[competeswith]-> website:twitter,LabelException,2,416,2
+61,6.7,personeurope -[personbelongstoorganization]-> bank,3,0,museum:nyse -[companyceo]-> ceo:john_thain,LinkException,8,108,68
+62,1.0,ceo -[topmemberoforganization]-> company; ceo -[superpartof]-> bank,35,3,bank:softbank -[subpartof]-> ceo:masayoshi_son,LabelException,24,72,24
+63,1.0,videogame -[producedby]-> *; videogame -[*]-> *,40,4,videogame:guitar_hero -[producedby]-> company:activision,LabelException,28,224,28
+64,1.0,journalist -[personleadsgeopoliticalorganization]-> *; journalist -[*]-> *,42,4,city:new_brighton -[geopoliticalorganizationleadbyperson]-> writer:rick_smith,LabelException,12,636,12

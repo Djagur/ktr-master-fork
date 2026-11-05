@@ -1,0 +1,101 @@
+score,fact,types,query,rule,context
+0.999912,sportsteam:louis_cardinals -[organizationacronymhasname]-> sportsteam:st__louis_cardinals,LinkException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999912,sportsteam:st__louis_cardinals -[organizationnamehasacronym]-> sportsteam:louis_cardinals,LinkException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.99983,athlete:rich_rodriguez -[personterminatedbyorganization]-> sportsteam:rams,LinkException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.99983,sportsteam:rams -[organizationterminatedperson]-> athlete:rich_rodriguez,LinkException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999819,athlete:alfonso_soriano -[athleteplayssport]-> sport:baseball,LabelException,56,5,* -[*]-> person; * -[*]-> personeurope
+0.999819,sport:baseball -[players]-> athlete:alfonso_soriano,LabelException,56,5,* -[*]-> person; * -[*]-> personeurope
+0.999813,coach:andy_green -[athleteplayssport]-> sport:basketball,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.999813,sport:basketball -[players]-> coach:andy_green,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.999787,athlete:carlos_carrasco -[athleteplayssport]-> sport:baseball,LabelException,58,5,* -[*]-> person; * -[*]-> personafrica
+0.999787,sport:baseball -[players]-> athlete:carlos_carrasco,LabelException,58,5,* -[*]-> person; * -[*]-> personafrica
+0.999787,athlete:george_brett -[athleteplayssport]-> sport:baseball,LabelException,58,5,* -[*]-> person; * -[*]-> personafrica
+0.999787,sport:baseball -[players]-> athlete:george_brett,LabelException,58,5,* -[*]-> person; * -[*]-> personafrica
+0.999781,country:canadians_canada -[organizationacronymhasname]-> country:the_united_kingdom,LinkException,25,2,language -[*]-> *
+0.999781,country:the_united_kingdom -[organizationnamehasacronym]-> country:canadians_canada,LinkException,25,2,language -[*]-> *
+0.999781,country:__france -[agentcompeteswithagent]-> sportsteam:brazil,LinkException,25,2,language -[*]-> *
+0.999781,sportsteam:brazil -[agentcompeteswithagent]-> country:__france,LinkException,25,2,language -[*]-> *
+0.999781,geopoliticallocation:santander -[bankbankincountry]-> country:scotland,LinkException,25,2,language -[*]-> *
+0.99977,country:canadian_citizens -[agentactsinlocation]-> country:canadians_canada,LinkException,25,2,language -[*]-> *
+0.99977,country:canadians_canada -[locationactedinbyagent]-> country:canadian_citizens,LinkException,25,2,language -[*]-> *
+0.99977,country:america -[locatedat]-> country:canadians_canada,LinkException,25,2,language -[*]-> *
+0.99977,country:canadians_canada -[atlocation]-> country:america,LinkException,25,2,language -[*]-> *
+0.99977,country:mexico -[subpartof]-> country:u_s_,LinkException,25,2,language -[*]-> *
+0.99977,country:u_s_ -[superpartof]-> country:mexico,LinkException,25,2,language -[*]-> *
+0.999766,athlete:alfonso_soriano -[athleteplaysforteam]-> sportsteam:yankees,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999766,sportsteam:yankees -[teammember]-> athlete:alfonso_soriano,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999766,coach:andy_green -[athleteplaysforteam]-> sportsteam:kansas_city_chiefs,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999766,sportsteam:kansas_city_chiefs -[teammember]-> coach:andy_green,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999766,visualizablescene:brandon_wood -[athleteplaysforteam]-> sportsteam:chicago_cubs,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999766,sportsteam:chicago_cubs -[teammember]-> visualizablescene:brandon_wood,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999759,athlete:larry_lucchino -[personleadsorganization]-> sportsteam:red_sox,LinkException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999759,sportsteam:red_sox -[organizationleadbyperson]-> athlete:larry_lucchino,LinkException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:calgary_flames -[teamplaysagainstteam]-> sportsteam:hartford_whalers,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:calgary_flames -[teamplaysagainstteam]-> sportsteam:minnesota_north_stars,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:minnesota_north_stars -[teamplaysagainstteam]-> sportsteam:calgary_flames,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:hartford_whalers -[teamplaysagainstteam]-> sportsteam:calgary_flames,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:bears_29_17 -[teamplaysagainstteam]-> sportsteam:oregon_state_beavers,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:bears_29_17 -[teamplaysagainstteam]-> sportsteam:montana_state_university_bozeman,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:bears_29_17 -[teamplaysagainstteam]-> sportsteam:mit,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:oregon_state_beavers -[teamplaysagainstteam]-> sportsteam:bears_29_17,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:montana_state_university_bozeman -[teamplaysagainstteam]-> sportsteam:bears_29_17,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:mit -[teamplaysagainstteam]-> sportsteam:bears_29_17,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:wolfpack -[teamplaysagainstteam]-> sportsteam:pirates,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:southern_mississippi_golden_eagles -[teamplaysagainstteam]-> sportsteam:pirates,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:pirates -[teamplaysagainstteam]-> sportsteam:wolfpack,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:pirates -[teamplaysagainstteam]-> sportsteam:southern_mississippi_golden_eagles,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:nebraska_cornhuskers -[teamplaysagainstteam]-> sportsteam:missouri_tigers,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:missouri_tigers -[teamplaysagainstteam]-> sportsteam:nebraska_cornhuskers,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:yankees -[teamplaysagainstteam]-> sportsteam:boston_red_sox_tickets,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:yankees -[teamplaysagainstteam]-> sportsteam:milwaukee_braves,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:milwaukee_braves -[teamplaysagainstteam]-> sportsteam:yankees,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:boston_red_sox_tickets -[teamplaysagainstteam]-> sportsteam:yankees,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:michigan_wolverines -[teamplaysagainstteam]-> sportsteam:steelers,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:steelers -[teamplaysagainstteam]-> sportsteam:michigan_wolverines,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:kent_state_golden_flashes -[teamplaysagainstteam]-> sportsteam:huskies,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:stanford_cardinals -[teamplaysagainstteam]-> sportsteam:huskies,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:boston_university -[teamplaysagainstteam]-> sportsteam:huskies,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:ucla_bruins -[teamplaysagainstteam]-> sportsteam:huskies,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:arizona_wildcats -[teamplaysagainstteam]-> sportsteam:huskies,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:california_golden_bears -[teamplaysagainstteam]-> sportsteam:huskies,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:huskies -[teamplaysagainstteam]-> sportsteam:stanford_cardinals,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:huskies -[teamplaysagainstteam]-> sportsteam:california_golden_bears,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:huskies -[teamplaysagainstteam]-> sportsteam:ucla_bruins,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:huskies -[teamplaysagainstteam]-> sportsteam:arizona_wildcats,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:huskies -[teamplaysagainstteam]-> sportsteam:kent_state_golden_flashes,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:huskies -[teamplaysagainstteam]-> sportsteam:boston_university,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:kansas_state_wildcats -[teamplaysagainstteam]-> sportsteam:texas_longhorns,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:texas_a_m_aggies -[teamplaysagainstteam]-> sportsteam:texas_longhorns,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:texas_longhorns -[teamplaysagainstteam]-> sportsteam:texas_a_m_aggies,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:texas_longhorns -[teamplaysagainstteam]-> sportsteam:kansas_state_wildcats,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:kentucky_wildcats -[teamplaysagainstteam]-> sportsteam:lsu,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:lsu -[teamplaysagainstteam]-> sportsteam:kentucky_wildcats,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:new_england_patriots -[teamplaysagainstteam]-> sportsteam:jets_last_week,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:jets_last_week -[teamplaysagainstteam]-> sportsteam:new_england_patriots,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:team_usa -[teamplaysagainstteam]-> sportsteam:brazil,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:team_usa -[teamplaysagainstteam]-> sportsteam:italy,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:brazil -[teamplaysagainstteam]-> sportsteam:team_usa,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:italy -[teamplaysagainstteam]-> sportsteam:team_usa,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:l_a__dodgers -[teamplaysagainstteam]-> sportsteam:sox_5_4,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:rival_yankees -[teamplaysagainstteam]-> sportsteam:sox_5_4,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:sox_5_4 -[teamplaysagainstteam]-> sportsteam:rival_yankees,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:sox_5_4 -[teamplaysagainstteam]-> sportsteam:l_a__dodgers,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:new_york_rangers_tickets -[teamplaysagainstteam]-> sportsteam:philadelphia_eagles,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:philadelphia_eagles -[teamplaysagainstteam]-> sportsteam:new_york_rangers_tickets,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:ohio_state_university -[teamplaysagainstteam]-> sportsteam:state_university,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:state_university -[teamplaysagainstteam]-> sportsteam:ohio_state_university,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:princeton -[teamplaysagainstteam]-> sportsteam:ucla,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:ucla -[teamplaysagainstteam]-> sportsteam:princeton,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:auburn_tigers -[teamplaysagainstteam]-> sportsteam:florida_gators,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:alabama_crimson_tide -[teamplaysagainstteam]-> sportsteam:florida_gators,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:florida_gators -[teamplaysagainstteam]-> sportsteam:auburn_tigers,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:florida_gators -[teamplaysagainstteam]-> sportsteam:alabama_crimson_tide,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:bearcats -[teamplaysagainstteam]-> sportsteam:alaska_anchorage_seawolves,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:alaska_anchorage_seawolves -[teamplaysagainstteam]-> sportsteam:bearcats,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:harvard_university -[teamplaysagainstteam]-> sportsteam:red_sox,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:saint_louis_cardinals -[teamplaysagainstteam]-> sportsteam:red_sox,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:red_sox -[teamplaysagainstteam]-> sportsteam:saint_louis_cardinals,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:red_sox -[teamplaysagainstteam]-> sportsteam:harvard_university,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:new_york_giants -[teamplaysagainstteam]-> sportsteam:undefeated_patriots,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:new_york_giants -[teamplaysagainstteam]-> sportsteam:patriots_21_17,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsteam:undefeated_patriots -[teamplaysagainstteam]-> sportsteam:new_york_giants,UniqueEntityException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *

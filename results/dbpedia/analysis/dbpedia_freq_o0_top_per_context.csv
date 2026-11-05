@@ -1,0 +1,27 @@
+rank,score,context,query,rule,strongest_fact,type,tied_facts,exceptions_in_context,unique_facts_in_context
+1,0.999998,SoccerPlayer -[team]-> *,12,1,British_Columbia_Intercollegiate_Hockey_League -[team]-> University_of_Victoria,LabelException,8,11857,11857
+2,0.999982,MusicalArtist -[associatedBand]-> *,16,1,Foe_Life -[album]-> Mack_10,LinkException,10,16327,16327
+3,0.999973,Bird -[class]-> Animal,6,0,Ribbed_elimia -[binomialAuthority]-> Jay,LinkException,1,4190,4190
+4,0.99997,Mammal -[class]-> Animal,5,0,Domesticated_silver_fox -[binomial]-> Red_Fox,LinkException,2,5011,5010
+5,0.999964,Reptile -[class]-> Animal,7,0,Fancy_rat -[class]-> Tetrapod,LabelException,2,6447,6447
+6,0.999954,LunarCrater -[*]-> *,23,2,Peter_Butler_%28surgeon%29 -[employer]-> London,LinkException,10,12488,12488
+7,0.999932,MusicalWork -[language]-> *,11,1,Latin_America -[language]-> Spanish_language,LabelException,2,13458,13458
+8,0.999931,Film -[narrator]-> *,10,1,Hope_for_Haiti_Now:_A_Global_Benefit_for_Earthquake_Relief -[developer]-> George_Clooney,LinkException,7,6791,6791
+9,0.999879,Reptile -[family]-> *,18,1,Vesicular_exanthema_of_swine_virus -[family]-> Caliciviridae,LabelException,4,1789,1777
+10,0.999813,PrimeMinister -[birthPlace]-> *,13,1,Meri_Jeevan_Yatra -[country]-> Allahabad,LabelException,1,1659,1659
+11,0.999743,AutoRacingLeageu -[*]-> *,20,2,Nintendo_Power -[publisher]-> Nintendo,LabelException,2,2561,2561
+12,0.999552,Non-ProfitOrganisation -[keyPerson]-> *,17,1,Siskiyou_Mountains -[state]-> California,LabelException,8,126,124
+13,0.99955,Convention -[*]-> *,22,2,Sviatopolk_I_of_Kiev -[spouse]-> Boles%C5%82aw_I_Chrobry,LinkException,1,142,128
+14,0.997996,BaseballLeague -[team]-> City,9,0,S._David_Griggs -[birthPlace]-> Portland%2C_Oregon,LabelException,7,402,402
+15,0.99729,VideoGame -[producer]-> Person,0,0,Apogee_of_Fear -[cinematography]-> Richard_Garriott,LinkException,1,146,146
+16,0.997253,Bacteria -[*]-> *,29,2,390_Alma -[discoverer]-> Guillaume_Bigourdan,UniqueEntityException,356,719,356
+17,0.996678,Town -[twinCity]-> *,15,1,Henri-Fran%C3%A7ois_Gautrin -[birthPlace]-> B%C3%A9thune,LabelException,9,130,130
+18,0.995816,Scientist -[knownFor]-> Disease,1,0,Ian_Stevenson -[influencedBy]-> Psychosomatic_medicine,LinkException,2,126,126
+19,0.99569,Mollusca -[species]-> *,14,1,White-eared_Titi -[binomialAuthority]-> Alcide_d%27Orbigny,LabelException,1,127,60
+20,0.962963,Stream -[river]-> *,19,1,Rock_Creek_%28Monocacy_River%29 -[river]-> Potomac_River,LinkException,5,105,32
+21,0.947368,Animal -[genus]-> Brain,4,0,Sea_pony -[binomialAuthority]-> Eduard_R%C3%BCppell,UniqueEntityException,22,97,78
+22,0.947368,SpaceMission -[previousMission]-> SpaceStation,8,0,Progress_M1-5 -[station]-> Mir,UniqueEntityException,19,27,26
+23,0.9375,Currency -[*]-> *,28,2,Billy_Brewer -[college]-> Southeastern_Louisiana_University,UniqueEntityException,13,63,47
+24,0.928571,FormulaOneRacer -[*]-> *,27,2,Kirsty_Sword_Gusm%C3%A3o -[stateOfOrigin]-> East_Timor,LinkException,1,47,45
+25,0.8,Book -[subject]-> Scientist,3,0,The_Inventions%2C_Researches%2C_and_Writings_of_Nikola_Tesla -[subject]-> Nikola_Tesla,LabelException/LinkException,1,11,10
+26,0.75,VideoGamesLeague -[team]-> VideoGame,2,0,Gears_of_War_2 -[designer]-> Cliff_Bleszinski,LinkException,2,10,8

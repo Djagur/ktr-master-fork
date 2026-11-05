@@ -1,0 +1,71 @@
+query,rule,context,matching_heads,time_s,patterns_searched,exceptions,unique_facts,label_exc,link_exc,max_score,median_score,tied_share,top_fact,top_type,top_fact_ties
+0,0,VideoGame -[producer]-> Person,,0.233,1,103,100,13,58,3373.73,58.625,0.970873786407767,Apogee_of_Fear -[cinematography]-> Richard_Garriott,LinkException,1
+1,0,Scientist -[knownFor]-> Disease,,0.025,1,111,109,4,21,5000.5,1107.14,0.9279279279279279,Louis-Anne-Jean_Brocq -[influencedBy]-> Psoriasis,LinkException,2
+2,0,VideoGamesLeague -[team]-> VideoGame,,0.004,1,11,9,9,2,2.5,1.0,0.8181818181818182,Gears_of_War_2 -[writer]-> Joshua_Ortega,LinkException,1
+3,0,Book -[subject]-> Scientist,,0.019,1,12,11,11,1,8.5,1.0,0.9166666666666666,The_Inventions%2C_Researches%2C_and_Writings_of_Nikola_Tesla -[subject]-> Nikola_Tesla,LabelException/LinkException,1
+4,0,Animal -[genus]-> Brain,,0.28,1,97,78,94,0,162.5,1.0,0.9896907216494846,Hippocampus_histrix -[order]-> Syngnathiformes,UniqueEntityException,1
+5,0,Mammal -[class]-> Animal,,1.559,1,141,138,5,16,16814100.0,1440890.0,0.9574468085106383,Dwarf_killer_whale -[class]-> Elasmobranchii,LabelException,1
+6,0,Bird -[class]-> Animal,,1.297,1,142,111,7,13,28431600.0,784714.0,0.9577464788732394,Ruby-throated_Hummingbird -[class]-> Bird,LabelException,1
+7,0,Reptile -[class]-> Animal,,0.287,1,191,180,5,37,24924600.0,9311.4,0.9738219895287958,Fancy_rat -[class]-> Tetrapod,LabelException,2
+8,0,SpaceMission -[previousMission]-> SpaceStation,,0.003,1,27,26,27,0,1.0,1.0,1.0,Progress_M1-4 -[crew]-> Expedition_1,LabelException,26
+9,0,BaseballLeague -[team]-> City,,0.039,1,102,102,58,44,5463.0,233.3985,0.9411764705882353,Benjamin_Kim -[birthPlace]-> Portland%2C_Oregon,LinkException,1
+10,1,Film -[narrator]-> *,,18.535,550,111,46,0,111,6893520.0,701503.0,1.0,Fran%C3%A7ois_P%C3%A9rier -[baftaAward]-> Gervaise,LinkException,3
+11,1,MusicalWork -[language]-> *,,10.394,50,112,48,74,38,22690200.0,2139990.0,1.0,The_Path_%28video_game%29 -[distributor]-> Japanese_language,LinkException,2
+12,1,SoccerPlayer -[team]-> *,,566.837,7784,110,40,36,33,10511600000.0,1177870000.0,0.9727272727272728,British_Columbia_Intercollegiate_Hockey_League -[team]-> University_of_Victoria,LabelException,1
+13,1,PrimeMinister -[birthPlace]-> *,,38.188,640,100,44,14,86,30615500.0,16852800.0,0.96,Sharpe%27s_Prey -[language]-> United_Kingdom,LinkException,2
+14,1,Mollusca -[species]-> *,,0.716,13,101,43,27,50,2055.0,17.0,1.0,White-eared_Titi -[binomialAuthority]-> Alcide_d%27Orbigny,LabelException,1
+15,1,Town -[twinCity]-> *,,0.246,12,103,29,33,70,2117.71,393.222,0.9902912621359223,Matt_Grothe -[highschool]-> Lakeland%2C_Florida,LinkException,2
+16,1,MusicalArtist -[associatedBand]-> *,,246.022,7956,106,63,5,56,110232000.0,26943400.0,0.9622641509433962,NanoTek_Warrior -[artist]-> Don_Williams,LabelException,1
+17,1,Non-ProfitOrganisation -[keyPerson]-> *,,1.506,153,107,42,51,56,939462.0,81247.6,1.0,California_State_University -[affiliation]-> California,LinkException,2
+18,1,Reptile -[family]-> *,,3.631,295,110,48,11,26,5763010.0,1001504.0,0.9727272727272728,Virginia_striatula -[genus]-> Virginia,LinkException,7
+19,1,Stream -[river]-> *,,0.137,4,111,34,35,52,30.3333,1.43333,1.0,Arlington_Memorial_Bridge -[location]-> Potomac_River,LabelException,2
+20,2,AutoRacingLeageu -[*]-> *,,0.285,7,110,34,45,43,22.3333,1.0,0.9818181818181818,Up_and_Coming_%28TV_series%29 -[composer]-> Bill_Withers,LinkException,1
+21,2,WrestlingEvent -[*]-> *,,19.226,2040,101,34,13,88,12876600.0,3344300.0,0.9702970297029703,Dayton%2C_Ohio -[leader]-> Gary_Leitzell,LinkException,10
+22,2,Convention -[*]-> *,,28.545,151,101,53,20,81,25984500.0,12260900.0,0.9603960396039604,The_Autobiography_of_Miss_Jane_Pittman -[coverArtist]-> United_States,LinkException,2
+23,2,LunarCrater -[*]-> *,,0.218,3,9,3,9,0,1.0,1.0,1.0,Giovanni_Fabbroni -[award]-> Fabbroni_%28crater%29,LabelException,3
+24,2,Monument -[*]-> *,,0.144,4,26,5,23,3,3.0,1.0,1.0,Mount_Morris%2C_Illinois -[region]-> Ogle_County%2C_Illinois,LinkException,1
+25,2,MusicFestival -[*]-> *,,58.429,507,102,66,21,81,129861000.0,31790300.0,0.9215686274509803,Mutant_Chronicles -[genre]-> Techno,LabelException,2
+26,2,SiteOfSpecialScientificInterest -[*]-> *,,0.423,24,114,38,0,114,117789.0,732.8185000000001,1.0,Brigg -[unitaryAuthority]-> South_Yorkshire,LinkException,1
+27,2,FormulaOneRacer -[*]-> *,,38.745,3480,100,35,24,76,51202600.0,33069400.0,0.98,Loek_van_Mil -[award]-> Netherlands,LinkException,1
+28,2,Currency -[*]-> *,,24.935,151,100,35,39,61,36332400.0,13910000.0,0.98,Loek_van_Mil -[award]-> Netherlands,LinkException,2
+29,2,Bacteria -[*]-> *,,3.475,1919,1346,19,1,1332,522242.0,82731.2,0.9977711738484398,Gardnerella_vaginalis -[binomialAuthority]-> George_Gardner,LinkException,2
+30,3,VideoGame -[producer]-> Person; VideoGame -[publisher]-> Company,,0.282,1,129,128,14,114,1109570.0,964.982,0.9689922480620154,FIFA_08 -[computingPlatform]-> Nintendo,LinkException,1
+31,3,Philosopher -[influencedBy]-> Country; Philosopher -[influenced]-> Place,,0.071,1,0,0,0,0,,,,,,0
+32,3,Monarch -[successor]-> Monarch; Monarch -[predecessor]-> Monarch,,0.225,1,104,61,6,19,153921.0,63888.65,0.8173076923076923,Ivan_Alexander_of_Bulgaria -[successor]-> Ivan_Sratsimir_of_Bulgaria,LabelException,1
+33,3,Saint -[beatifiedBy]-> Cleric; Saint -[deathPlace]-> Place,,2.356,1,100,99,41,59,5404280.0,600476.0,0.98,Peter_Butler_%28surgeon%29 -[employer]-> London,LinkException,10
+34,3,Bridge -[region]-> Settlement; Bridge -[river]-> River,,0.043,1,0,0,0,0,,,,,,0
+35,3,BodyOfWater -[originalEndPoint]-> City; BodyOfWater -[parent]-> River,,0.027,1,0,0,0,0,,,,,,0
+36,3,MilitaryConflict -[place]-> Continent; MilitaryConflict -[commander]-> Town,,0.016,1,0,0,0,0,,,,,,0
+37,3,Weapon -[wars]-> Country; Weapon -[type]-> Device,,0.005,1,49,47,26,15,19.5,1.0,0.9387755102040817,Kirsty_Sword_Gusm%C3%A3o -[stateOfOrigin]-> East_Timor,LinkException,1
+38,3,University -[head]-> Person; University -[head]-> Scientist,,0.185,1,63,47,13,14,6.57778,1.54,1.0,Jerry_Davis -[college]-> Southeastern_Louisiana_University,LabelException,3
+39,3,Planet -[discoverer]-> Person; Planet -[discoverer]-> Scientist,,0.209,1,107,62,4,24,11074.3,512.5,1.0,William_Herschel -[knownFor]-> Uranus,LinkException/UniqueEntityException,8
+40,4,VideoGame -[producer]-> *; VideoGame -[*]-> *,,,,0,0,0,0,,,,,,0
+41,4,Philosopher -[influencedBy]-> *; Philosopher -[*]-> *,,,,0,0,0,0,,,,,,0
+42,4,Monarch -[successor]-> *; Monarch -[*]-> *,,,,0,0,0,0,,,,,,0
+43,4,Saint -[beatifiedBy]-> *; Saint -[*]-> *,,,,0,0,0,0,,,,,,0
+44,4,Bridge -[region]-> *; Bridge -[*]-> *,,,,0,0,0,0,,,,,,0
+45,4,BodyOfWater -[originalEndPoint]-> *; BodyOfWater -[*]-> *,,,,0,0,0,0,,,,,,0
+46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *,,,,0,0,0,0,,,,,,0
+47,4,Weapon -[wars]-> *; Weapon -[*]-> *,,,,0,0,0,0,,,,,,0
+48,4,University -[head]-> *; University -[*]-> *,,,,0,0,0,0,,,,,,0
+49,4,Writer -[occupation]-> *; Writer -[*]-> *,,,,0,0,0,0,,,,,,0
+50,5,* -[*]-> Work; * -[*]-> Language,,,,0,0,0,0,,,,,,0
+51,5,* -[*]-> Work; * -[*]-> MusicalWork,,,,0,0,0,0,,,,,,0
+52,5,* -[*]-> Work; * -[*]-> Film,,,,0,0,0,0,,,,,,0
+53,5,* -[*]-> Work; * -[*]-> Organisation,,,,0,0,0,0,,,,,,0
+54,5,* -[*]-> Work; * -[*]-> Company,,,,0,0,0,0,,,,,,0
+55,5,* -[*]-> Country; * -[*]-> Island,,,,0,0,0,0,,,,,,0
+56,5,* -[*]-> Country; * -[*]-> Stream,,,,0,0,0,0,,,,,,0
+57,5,* -[*]-> Country; * -[*]-> River,,,,0,0,0,0,,,,,,0
+58,5,* -[*]-> Country; * -[*]-> University,,,,0,0,0,0,,,,,,0
+59,5,* -[*]-> Country; * -[*]-> Lake,,,,0,0,0,0,,,,,,0
+60,6,Spacecraft -[*]-> *; Spacecraft -[*]-> *,,,,0,0,0,0,,,,,,0
+61,6,VideogamesLeague -[*]-> *; VideogamesLeague -[*]-> *,,,,0,0,0,0,,,,,,0
+62,6,EurovisionSongContestEntry -[*]-> *; EurovisionSongContestEntry -[*]-> *,,,,0,0,0,0,,,,,,0
+63,6,GrandPrix -[*]-> *; GrandPrix -[*]-> *,,,,0,0,0,0,,,,,,0
+64,6,VoiceActor -[*]-> *; VoiceActor -[*]-> *,,,,0,0,0,0,,,,,,0
+65,6,Bone -[*]-> *; Bone -[*]-> *,,,,0,0,0,0,,,,,,0
+66,6,Pope -[*]-> *; Pope -[*]-> *,,,,0,0,0,0,,,,,,0
+67,6,Currency -[*]-> *; Currency -[*]-> *,,,,0,0,0,0,,,,,,0
+68,6,Brain -[*]-> *; Brain -[*]-> *,,,,0,0,0,0,,,,,,0
+69,6,Colour -[*]-> *; Colour -[*]-> *,,,,0,0,0,0,,,,,,0

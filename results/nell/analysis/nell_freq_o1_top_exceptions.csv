@@ -1,0 +1,101 @@
+score,fact,types,query,rule,context
+0.999912,sportsteam:louis_cardinals -[organizationacronymhasname]-> sportsteam:st__louis_cardinals,LinkException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999912,sportsteam:st__louis_cardinals -[organizationnamehasacronym]-> sportsteam:louis_cardinals,LinkException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999831,athlete:alfonso_soriano -[athleteplayssport]-> sport:baseball,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.999831,sport:baseball -[players]-> athlete:alfonso_soriano,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.999831,coach:andy_green -[athleteplayssport]-> sport:basketball,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.999831,sport:basketball -[players]-> coach:andy_green,LabelException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.99983,athlete:rich_rodriguez -[personterminatedbyorganization]-> sportsteam:rams,LinkException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.99983,sportsteam:rams -[organizationterminatedperson]-> athlete:rich_rodriguez,LinkException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.9998,insect:caterpillars -[invertebrateturnintoinsect]-> insect:butterfly,LinkException,29,2,animal -[*]-> *
+0.999797,insect:fly -[synonymfor]-> insect:mosquito,LinkException,29,2,animal -[*]-> *
+0.999797,insect:mosquito -[synonymfor]-> insect:fly,LinkException,29,2,animal -[*]-> *
+0.999787,athlete:carlos_carrasco -[athleteplayssport]-> sport:baseball,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+0.999787,athlete:george_brett -[athleteplayssport]-> sport:baseball,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+0.999787,sport:baseball -[players]-> athlete:george_brett,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+0.999787,sport:baseball -[players]-> athlete:carlos_carrasco,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+0.999786,company:hong_kong_disneyland -[companyhasshareholder]-> park:the_walt_disney_co_,LinkException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.999786,park:the_walt_disney_co_ -[agentholdssharesincompany]-> company:hong_kong_disneyland,LinkException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.999786,company:national -[bankboughtbank]-> bank:barclays,LinkException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.999786,website:yahoo_com -[websiteoperatedbyagent]-> website:yahoo,LinkException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.999786,website:yahoo -[agenthaswebsite]-> website:yahoo_com,LinkException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.999786,biotechcompany:general_electric -[organizationhasagent]-> televisionnetwork:nbc_universal,LinkException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.999786,televisionnetwork:nbc_universal -[agentbelongstoorganization]-> biotechcompany:general_electric,LinkException,55,5,* -[*]-> person; * -[*]-> personnorthamerica
+0.999781,country:__france -[agentcompeteswithagent]-> sportsteam:brazil,LinkException,25,2,language -[*]-> *
+0.999781,sportsteam:brazil -[agentcompeteswithagent]-> country:__france,LinkException,25,2,language -[*]-> *
+0.999781,country:canadians_canada -[organizationacronymhasname]-> country:the_united_kingdom,LinkException,25,2,language -[*]-> *
+0.999781,country:the_united_kingdom -[organizationnamehasacronym]-> country:canadians_canada,LinkException,25,2,language -[*]-> *
+0.999781,geopoliticallocation:santander -[bankbankincountry]-> country:scotland,LinkException,25,2,language -[*]-> *
+0.99977,country:america -[locatedat]-> country:canadians_canada,LinkException,25,2,language -[*]-> *
+0.99977,country:canadians_canada -[atlocation]-> country:america,LinkException,25,2,language -[*]-> *
+0.99977,country:mexico -[subpartof]-> country:u_s_,LinkException,25,2,language -[*]-> *
+0.99977,country:u_s_ -[superpartof]-> country:mexico,LinkException,25,2,language -[*]-> *
+0.99977,country:canadian_citizens -[agentactsinlocation]-> country:canadians_canada,LinkException,25,2,language -[*]-> *
+0.99977,country:canadians_canada -[locationactedinbyagent]-> country:canadian_citizens,LinkException,25,2,language -[*]-> *
+0.999766,coach:andy_green -[athleteplaysforteam]-> sportsteam:kansas_city_chiefs,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999766,sportsteam:kansas_city_chiefs -[teammember]-> coach:andy_green,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999766,athlete:alfonso_soriano -[athleteplaysforteam]-> sportsteam:yankees,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999766,sportsteam:yankees -[teammember]-> athlete:alfonso_soriano,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999766,visualizablescene:brandon_wood -[athleteplaysforteam]-> sportsteam:chicago_cubs,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999766,sportsteam:chicago_cubs -[teammember]-> visualizablescene:brandon_wood,LabelException,48,4,sportsgame -[eventatlocation]-> *; sportsgame -[*]-> *
+0.999756,sportsleague:mlb -[leagueplayers]-> athlete:alfonso_soriano,LabelException,56,5,* -[*]-> person; * -[*]-> personeurope
+0.999756,athlete:alfonso_soriano -[athleteplaysinleague]-> sportsleague:mlb,LabelException,56,5,* -[*]-> person; * -[*]-> personeurope
+0.999756,sportsleague:nba -[leagueplayers]-> coach:andy_green,LabelException,56,5,* -[*]-> person; * -[*]-> personeurope
+0.999756,coach:andy_green -[athleteplaysinleague]-> sportsleague:nba,LabelException,56,5,* -[*]-> person; * -[*]-> personeurope
+0.999722,animal:lamb -[animaleatfood]-> beverage:milk,LinkException,67,6,grain -[*]-> *; grain -[*]-> *
+0.999706,country:america -[countryhascompanyoffice]-> geopoliticallocation:gulf_coast,LinkException,24,2,currency -[*]-> *
+0.999706,geopoliticallocation:gulf_coast -[hasofficeincountry]-> country:america,LinkException,24,2,currency -[*]-> *
+0.999699,country:austria -[countriessuchascountries]-> country:eastern_european_countries,LinkException,25,2,language -[*]-> *
+0.999698,dateliteral:n2005 -[dateof]-> weapon:car_bomb,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2005 -[dateof]-> militaryconflict:operation_iraqi_freedom,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2005 -[dateof]-> clothing:belt,LabelException,22,2,musicfestival -[*]-> *
+0.999698,weapon:car_bomb -[atdate]-> dateliteral:n2005,LabelException,22,2,musicfestival -[*]-> *
+0.999698,clothing:belt -[atdate]-> dateliteral:n2005,LabelException,22,2,musicfestival -[*]-> *
+0.999698,militaryconflict:operation_iraqi_freedom -[atdate]-> dateliteral:n2005,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2008 -[dateof]-> crimeorcharge:theft,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2008 -[dateof]-> politicalparty:liberal_party,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2008 -[dateof]-> blog:wordpress,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2008 -[dateof]-> furniture:bookshelves,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2008 -[dateof]-> recordlabel:emi,LabelException,22,2,musicfestival -[*]-> *
+0.999698,blog:wordpress -[atdate]-> dateliteral:n2008,LabelException,22,2,musicfestival -[*]-> *
+0.999698,politicalparty:liberal_party -[atdate]-> dateliteral:n2008,LabelException,22,2,musicfestival -[*]-> *
+0.999698,recordlabel:emi -[atdate]-> dateliteral:n2008,LabelException,22,2,musicfestival -[*]-> *
+0.999698,furniture:bookshelves -[atdate]-> dateliteral:n2008,LabelException,22,2,musicfestival -[*]-> *
+0.999698,crimeorcharge:theft -[atdate]-> dateliteral:n2008,LabelException,22,2,musicfestival -[*]-> *
+0.999698,year:n1998 -[dateof]-> physicsterm:motion,LabelException,22,2,musicfestival -[*]-> *
+0.999698,physicsterm:motion -[atdate]-> year:n1998,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2007 -[dateof]-> politician:gordon_brown,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2007 -[dateof]-> mlconference:scc,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2007 -[dateof]-> astronaut:space_station,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2007 -[dateof]-> sportsequipment:football,LabelException,22,2,musicfestival -[*]-> *
+0.999698,sportsequipment:football -[atdate]-> dateliteral:n2007,LabelException,22,2,musicfestival -[*]-> *
+0.999698,politician:gordon_brown -[atdate]-> dateliteral:n2007,LabelException,22,2,musicfestival -[*]-> *
+0.999698,astronaut:space_station -[atdate]-> dateliteral:n2007,LabelException,22,2,musicfestival -[*]-> *
+0.999698,mlconference:scc -[atdate]-> dateliteral:n2007,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2010 -[dateof]-> cognitiveactions:strategic_planning_process,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2010 -[dateof]-> sport:shooting,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2010 -[dateof]-> mammal:wolves,LabelException,22,2,musicfestival -[*]-> *
+0.999698,dateliteral:n2010 -[dateof]-> personus:president_obama,LabelException,22,2,musicfestival -[*]-> *
+0.999698,personus:president_obama -[atdate]-> dateliteral:n2010,LabelException,22,2,musicfestival -[*]-> *
+0.999698,mammal:wolves -[atdate]-> dateliteral:n2010,LabelException,22,2,musicfestival -[*]-> *
+0.999698,sport:shooting -[atdate]-> dateliteral:n2010,LabelException,22,2,musicfestival -[*]-> *
+0.999698,cognitiveactions:strategic_planning_process -[atdate]-> dateliteral:n2010,LabelException,22,2,musicfestival -[*]-> *
+0.99969,website:cbs_corporation -[synonymfor]-> biotechcompany:sony_corp,LinkException,57,5,* -[*]-> person; * -[*]-> personcanada
+0.99969,biotechcompany:sony_corp -[synonymfor]-> website:cbs_corporation,LinkException,57,5,* -[*]-> person; * -[*]-> personcanada
+0.99969,website:cbs_corporation -[organizationalsoknownas]-> biotechcompany:sony_corp,LinkException,57,5,* -[*]-> person; * -[*]-> personcanada
+0.99969,biotechcompany:sony_corp -[organizationalsoknownas]-> website:cbs_corporation,LinkException,57,5,* -[*]-> person; * -[*]-> personcanada
+0.99969,website:new_york_times -[agentcompeteswithagent]-> company:news_network,LinkException,57,5,* -[*]-> person; * -[*]-> personcanada
+0.99969,company:news_network -[agentcompeteswithagent]-> website:new_york_times,LinkException,57,5,* -[*]-> person; * -[*]-> personcanada
+0.99968,mammal:hunters -[animalssuchasmammals]-> mammal:deer,LinkException,29,2,animal -[*]-> *
+0.999679,dateliteral:n2006 -[dateof]-> militaryeventtype:bombings,LabelException,46,4,geopolitcallocation -[cityofpersondeath]-> *; geopolitcallocation -[*]-> *
+0.999679,militaryeventtype:bombings -[atdate]-> dateliteral:n2006,LabelException,46,4,geopolitcallocation -[cityofpersondeath]-> *; geopolitcallocation -[*]-> *
+0.999679,dateliteral:n2010 -[dateof]-> researchproject:pilot_project,LabelException,46,4,geopolitcallocation -[cityofpersondeath]-> *; geopolitcallocation -[*]-> *
+0.999679,dateliteral:n2010 -[dateof]-> sportsteamposition:attack,LabelException,46,4,geopolitcallocation -[cityofpersondeath]-> *; geopolitcallocation -[*]-> *
+0.999679,dateliteral:n2010 -[dateof]-> athlete:free_agent_market,LabelException,46,4,geopolitcallocation -[cityofpersondeath]-> *; geopolitcallocation -[*]-> *
+0.999679,athlete:free_agent_market -[atdate]-> dateliteral:n2010,LabelException,46,4,geopolitcallocation -[cityofpersondeath]-> *; geopolitcallocation -[*]-> *
+0.999679,sportsteamposition:attack -[atdate]-> dateliteral:n2010,LabelException,46,4,geopolitcallocation -[cityofpersondeath]-> *; geopolitcallocation -[*]-> *
+0.999679,researchproject:pilot_project -[atdate]-> dateliteral:n2010,LabelException,46,4,geopolitcallocation -[cityofpersondeath]-> *; geopolitcallocation -[*]-> *
+0.999678,sportsteamposition:center -[sportsteampositionreceivedathlete]-> coach:andy_green,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+0.999678,sportsteamposition:center -[sportsteampositionreceivedathlete]-> athlete:alfonso_soriano,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+0.999678,coach:andy_green -[athleteflyouttosportsteamposition]-> sportsteamposition:center,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *
+0.999678,athlete:alfonso_soriano -[athleteflyouttosportsteamposition]-> sportsteamposition:center,LabelException,43,4,male -[fatherofperson]-> *; male -[*]-> *

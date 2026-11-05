@@ -1,0 +1,71 @@
+query,rule,context,matching_heads,time_s,patterns_searched,exceptions,unique_facts,label_exc,link_exc,max_score,median_score,tied_share,top_fact,top_type,top_fact_ties
+0,0,VideoGame -[producer]-> Person,,0.2,1,146,146,0,1,0.99729,0.994012,0.9931506849315068,Apogee_of_Fear -[cinematography]-> Richard_Garriott,LinkException,1
+1,0,Scientist -[knownFor]-> Disease,,0.029,1,126,126,2,2,0.995816,0.994475,1.0,Ian_Stevenson -[influencedBy]-> Psychosomatic_medicine,LinkException,2
+2,0,VideoGamesLeague -[team]-> VideoGame,,0.005,1,10,8,9,1,0.75,0.666667,1.0,Gears_of_War_2 -[designer]-> Cliff_Bleszinski,LinkException,2
+3,0,Book -[subject]-> Scientist,,0.021,1,11,10,3,4,0.8,0.666667,0.8181818181818182,The_Inventions%2C_Researches%2C_and_Writings_of_Nikola_Tesla -[subject]-> Nikola_Tesla,LabelException/LinkException,1
+4,0,Animal -[genus]-> Brain,,0.19,1,97,78,75,0,0.947368,0.75,1.0,Sea_pony -[binomialAuthority]-> Eduard_R%C3%BCppell,UniqueEntityException,22
+5,0,Mammal -[class]-> Animal,,1.608,1,5011,5010,4,5,0.99997,0.999902,0.9992017561364998,Domesticated_silver_fox -[binomial]-> Red_Fox,LinkException,2
+6,0,Bird -[class]-> Animal,,1.351,1,4190,4190,7,1,0.999973,0.999902,0.9990453460620525,Ribbed_elimia -[binomialAuthority]-> Jay,LinkException,1
+7,0,Reptile -[class]-> Animal,,0.3,1,6447,6447,3,1,0.999964,0.999855,0.9996897781914068,Fancy_rat -[class]-> Tetrapod,LabelException,2
+8,0,SpaceMission -[previousMission]-> SpaceStation,,0.002,1,27,26,2,6,0.947368,0.947368,0.9629629629629629,Progress_M1-5 -[station]-> Mir,UniqueEntityException,19
+9,0,BaseballLeague -[team]-> City,,0.033,1,402,402,22,4,0.997996,0.994975,0.9950248756218906,S._David_Griggs -[birthPlace]-> Portland%2C_Oregon,LabelException,7
+10,1,Film -[narrator]-> *,,19.065,550,6882,6868,0,28,0.999933,0.999905,1.0,Hope_for_Haiti_Now:_A_Global_Benefit_for_Earthquake_Relief -[developer]-> George_Clooney,LinkException,7
+11,1,MusicalWork -[language]-> *,,10.643,50,13494,13470,38,0,0.999969,0.999931,1.0,Robert_Beaven -[birthPlace]-> England,LabelException,2
+12,1,SoccerPlayer -[team]-> *,,570.097,7784,11911,11858,69,16,0.999998,0.999995,1.0,British_Columbia_Intercollegiate_Hockey_League -[team]-> University_of_Victoria,LabelException,8
+13,1,PrimeMinister -[birthPlace]-> *,,38.582,640,43851,43819,32,22,0.999991,0.999979,1.0,Association_of_Volleyball_Professionals -[country]-> United_States,LabelException,3
+14,1,Mollusca -[species]-> *,,0.745,13,127,60,5,8,0.99569,0.982759,1.0,White-eared_Titi -[binomialAuthority]-> Alcide_d%27Orbigny,LabelException,1
+15,1,Town -[twinCity]-> *,,0.255,12,296,130,71,21,0.996678,0.991736,1.0,Henri-Fran%C3%A7ois_Gautrin -[birthPlace]-> B%C3%A9thune,LabelException,9
+16,1,MusicalArtist -[associatedBand]-> *,,252.689,7956,26890,26860,3,66,0.999983,0.999965,0.9999628114540722,Capital_News_Service_%28Michigan%29 -[owner]-> Michigan_State_University,LinkException,4
+17,1,Non-ProfitOrganisation -[keyPerson]-> *,,1.537,153,5882,2938,0,18,0.99969,0.999659,1.0,EIKI -[division]-> California,LinkException,6
+18,1,Reptile -[family]-> *,,3.897,295,1808,1778,19,3,0.999879,0.999792,1.0,Vesicular_exanthema_of_swine_virus -[family]-> Caliciviridae,LabelException,4
+19,1,Stream -[river]-> *,,0.144,4,105,32,20,64,0.962963,0.888889,1.0,Rock_Creek_%28Monocacy_River%29 -[river]-> Potomac_River,LinkException,5
+20,2,AutoRacingLeageu -[*]-> *,,,,2561,2561,2,2,0.999743,0.999614,1.0,Nintendo_Power -[publisher]-> Nintendo,LabelException,2
+21,2,WrestlingEvent -[*]-> *,,,,0,0,0,0,,,,,,0
+22,2,Convention -[*]-> *,,,,142,128,15,25,0.99955,0.998224,0.9154929577464789,Sviatopolk_I_of_Kiev -[spouse]-> Boles%C5%82aw_I_Chrobry,LinkException,1
+23,2,LunarCrater -[*]-> *,,,,12488,12488,6,10,0.999954,0.999933,1.0,Peter_Butler_%28surgeon%29 -[employer]-> London,LinkException,10
+24,2,Monument -[*]-> *,,,,0,0,0,0,,,,,,0
+25,2,MusicFestival -[*]-> *,,,,0,0,0,0,,,,,,0
+26,2,SiteOfSpecialScientificInterest -[*]-> *,,,,0,0,0,0,,,,,,0
+27,2,FormulaOneRacer -[*]-> *,,,,47,45,7,14,0.928571,0.833333,0.9574468085106383,Kirsty_Sword_Gusm%C3%A3o -[stateOfOrigin]-> East_Timor,LinkException,1
+28,2,Currency -[*]-> *,,,,63,47,4,4,0.9375,0.885714,1.0,Billy_Brewer -[college]-> Southeastern_Louisiana_University,UniqueEntityException,13
+29,2,Bacteria -[*]-> *,,,,719,356,0,0,0.997253,0.997253,1.0,390_Alma -[discoverer]-> Guillaume_Bigourdan,UniqueEntityException,356
+30,3,VideoGame -[producer]-> Person; VideoGame -[publisher]-> Company,,0.324,1,0,0,0,0,,,,,,0
+31,3,Philosopher -[influencedBy]-> Country; Philosopher -[influenced]-> Place,,0.093,1,0,0,0,0,,,,,,0
+32,3,Monarch -[successor]-> Monarch; Monarch -[predecessor]-> Monarch,,0.251,1,0,0,0,0,,,,,,0
+33,3,Saint -[beatifiedBy]-> Cleric; Saint -[deathPlace]-> Place,,2.64,1,0,0,0,0,,,,,,0
+34,3,Bridge -[region]-> Settlement; Bridge -[river]-> River,,0.053,1,0,0,0,0,,,,,,0
+35,3,BodyOfWater -[originalEndPoint]-> City; BodyOfWater -[parent]-> River,,0.03,1,0,0,0,0,,,,,,0
+36,3,MilitaryConflict -[place]-> Continent; MilitaryConflict -[commander]-> Town,,0.059,1,0,0,0,0,,,,,,0
+37,3,Weapon -[wars]-> Country; Weapon -[type]-> Device,,0.006,1,0,0,0,0,,,,,,0
+38,3,University -[head]-> Person; University -[head]-> Scientist,,0.204,1,0,0,0,0,,,,,,0
+39,3,Planet -[discoverer]-> Person; Planet -[discoverer]-> Scientist,,0.191,1,0,0,0,0,,,,,,0
+40,4,VideoGame -[producer]-> *; VideoGame -[*]-> *,,,,0,0,0,0,,,,,,0
+41,4,Philosopher -[influencedBy]-> *; Philosopher -[*]-> *,,,,0,0,0,0,,,,,,0
+42,4,Monarch -[successor]-> *; Monarch -[*]-> *,,,,0,0,0,0,,,,,,0
+43,4,Saint -[beatifiedBy]-> *; Saint -[*]-> *,,,,0,0,0,0,,,,,,0
+44,4,Bridge -[region]-> *; Bridge -[*]-> *,,,,0,0,0,0,,,,,,0
+45,4,BodyOfWater -[originalEndPoint]-> *; BodyOfWater -[*]-> *,,,,0,0,0,0,,,,,,0
+46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *,,,,0,0,0,0,,,,,,0
+47,4,Weapon -[wars]-> *; Weapon -[*]-> *,,,,0,0,0,0,,,,,,0
+48,4,University -[head]-> *; University -[*]-> *,,,,0,0,0,0,,,,,,0
+49,4,Writer -[occupation]-> *; Writer -[*]-> *,,,,0,0,0,0,,,,,,0
+50,5,* -[*]-> Work; * -[*]-> Language,,,,0,0,0,0,,,,,,0
+51,5,* -[*]-> Work; * -[*]-> MusicalWork,,,,0,0,0,0,,,,,,0
+52,5,* -[*]-> Work; * -[*]-> Film,,,,0,0,0,0,,,,,,0
+53,5,* -[*]-> Work; * -[*]-> Organisation,,,,0,0,0,0,,,,,,0
+54,5,* -[*]-> Work; * -[*]-> Company,,,,0,0,0,0,,,,,,0
+55,5,* -[*]-> Country; * -[*]-> Island,,,,0,0,0,0,,,,,,0
+56,5,* -[*]-> Country; * -[*]-> Stream,,,,0,0,0,0,,,,,,0
+57,5,* -[*]-> Country; * -[*]-> River,,,,0,0,0,0,,,,,,0
+58,5,* -[*]-> Country; * -[*]-> University,,,,0,0,0,0,,,,,,0
+59,5,* -[*]-> Country; * -[*]-> Lake,,,,0,0,0,0,,,,,,0
+60,6,Spacecraft -[*]-> *; Spacecraft -[*]-> *,,,,0,0,0,0,,,,,,0
+61,6,VideogamesLeague -[*]-> *; VideogamesLeague -[*]-> *,,,,0,0,0,0,,,,,,0
+62,6,EurovisionSongContestEntry -[*]-> *; EurovisionSongContestEntry -[*]-> *,,,,0,0,0,0,,,,,,0
+63,6,GrandPrix -[*]-> *; GrandPrix -[*]-> *,,,,0,0,0,0,,,,,,0
+64,6,VoiceActor -[*]-> *; VoiceActor -[*]-> *,,,,0,0,0,0,,,,,,0
+65,6,Bone -[*]-> *; Bone -[*]-> *,,,,0,0,0,0,,,,,,0
+66,6,Pope -[*]-> *; Pope -[*]-> *,,,,0,0,0,0,,,,,,0
+67,6,Currency -[*]-> *; Currency -[*]-> *,,,,0,0,0,0,,,,,,0
+68,6,Brain -[*]-> *; Brain -[*]-> *,,,,0,0,0,0,,,,,,0
+69,6,Colour -[*]-> *; Colour -[*]-> *,,,,0,0,0,0,,,,,,0

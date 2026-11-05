@@ -1,0 +1,101 @@
+score,fact,types,query,rule,context
+10511600000.0,British_Columbia_Intercollegiate_Hockey_League -[team]-> University_of_Victoria,LabelException,12,1,SoccerPlayer -[team]-> *
+4240230000.0,Maccabi_Haifa -[keyPerson]-> Yochanan_Vollach,LinkException,12,1,SoccerPlayer -[team]-> *
+3467330000.0,Matt_Bahr -[team]-> Colorado_Caribous,LabelException,12,1,SoccerPlayer -[team]-> *
+3467330000.0,Martti_J%C3%A4rventie -[team]-> HIFK,LabelException,12,1,SoccerPlayer -[team]-> *
+3467330000.0,Kimmo_Kuhta -[team]-> HIFK,LabelException,12,1,SoccerPlayer -[team]-> *
+3467330000.0,Chris_Bahr -[team]-> Philadelphia_Atoms,LabelException,12,1,SoccerPlayer -[team]-> *
+2916520000.0,Tr%C3%A9sor_Luntala -[team]-> Grasshopper,LabelException,12,1,SoccerPlayer -[team]-> *
+2916520000.0,Frank_Jonke -[team]-> Notre_Dame_College,LabelException,12,1,SoccerPlayer -[team]-> *
+2916520000.0,Nenad_Begovi%C4%87 -[team]-> Romorantin,LabelException,12,1,SoccerPlayer -[team]-> *
+2916520000.0,Dan_Pelc -[team]-> New_Hampshire_Wildcats,LabelException,12,1,SoccerPlayer -[team]-> *
+2916520000.0,John_Benson_%28footballer_born_1991%29 -[team]-> ASPIRE_Academy_for_Sports_Excellence,LabelException,12,1,SoccerPlayer -[team]-> *
+2916520000.0,Santiago_Solari -[team]-> Renato_Cesarini,LabelException/UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+2916520000.0,Georgios_Gougoulias -[team]-> Pavlos_Melas,LabelException,12,1,SoccerPlayer -[team]-> *
+2859130000.0,Pogo%C5%84_Lw%C3%B3w -[ground]-> Edward_Rydz-%C5%9Amig%C5%82y,LinkException,12,1,SoccerPlayer -[team]-> *
+2859130000.0,Jez_Moxey -[board]-> Wolverhampton_Wanderers_F.C.,LinkException,12,1,SoccerPlayer -[team]-> *
+2859130000.0,Everton_F.C. -[ceo]-> Robert_Elstone,LinkException,12,1,SoccerPlayer -[team]-> *
+2545550000.0,Jack_Givens -[award]-> University_of_Kentucky,LinkException,12,1,SoccerPlayer -[team]-> *
+2544140000.0,7T%27s_Records -[foundationOrganisation]-> Mark_Brennan,LinkException,12,1,SoccerPlayer -[team]-> *
+2544140000.0,University_of_Molise -[rector]-> Giovanni_Cannata,LinkException,12,1,SoccerPlayer -[team]-> *
+2544140000.0,Shimonoseki_City_University -[president]-> Koji_Sakamoto,LinkException,12,1,SoccerPlayer -[team]-> *
+2544140000.0,Bolton_High_School_%28Tennessee%29 -[principal]-> David_Stephens,LinkException,12,1,SoccerPlayer -[team]-> *
+2544140000.0,Manor_House_Stables -[owningCompany]-> Michael_Owen,LinkException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Kono_people -[populationPlace]-> Yussuf_Sindeh,LabelException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Manouk_Gijsman -[coach]-> Zsolt_Kerekes,UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Albena_Denkova -[formerPartner]-> Hristo_Nikolov,UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Seymour_Papert -[doctoralStudent]-> Fred_Martin,UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Miss_Ellie_Ewing -[child]-> James_Beaumont,LinkException/UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Jez_Moxey -[predecessor]-> John_Richards_%28footballer%29,LabelException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,The_Oversoul_Seven_Trilogy -[publisher]-> Amber_Allen,UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Ricardo_Obreg%C3%B3n_Cano -[lieutenant]-> Atilio_L%C3%B3pez,UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Hern%C3%A1n_Larra%C3%ADn -[successor]-> Sergio_Romero,UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Erik_Holtan -[birthPlace]-> Moss,LinkException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Star_Tanj%C5%8D%21 -[showJudge]-> Takashi_Miki,UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Keep_Your_Heart_Broken -[producer]-> Martin_Hansen,LinkException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,The_Wizard_of_Oz_%281902_stage_play%29 -[lyrics]-> John_Slavin,UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Serhiy_Matyukhin -[birthPlace]-> Dachnoye,LinkException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Lidija_Vuki%C4%87evi%C4%87 -[relation]-> Mitar_Mrkela,UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Est%C3%A1dio_Jos%C3%A9_Gomes -[architect]-> Jos%C3%A9_Gomes,UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Simon_Fuller -[associatedMusicalArtist]-> David_Beckham,UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+1177870000.0,Simon_Fuller -[associatedBand]-> David_Beckham,UniqueEntityException,12,1,SoccerPlayer -[team]-> *
+440451000.0,IPBA_%28TV_series%29 -[developer]-> Philippine_Basketball_Association,LinkException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Maribel_Verd%C3%BA -[goyaAward]-> Seven_Billiard_Tables,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Londa_%28FI%29 -[saint]-> The_Immaculate_Conception,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Shark_Boy -[billed]-> Twenty_Thousand_Leagues_Under_the_Sea,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Living_Shadows -[publisher]-> Gauhati_Cine_Club,LinkException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,The_Julekalender_%28Norwegian_TV_series%29 -[country]-> The_Julekalender,LabelException/UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Nanjupuram -[starring]-> Monika,LinkException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Gudipati_Venkatachalam -[deathPlace]-> Arunachalam,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Kabhi_Kabhie -[subsequentWork]-> Kala_Patthar,LinkException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Jan_Decleir -[goldenCalfAward]-> Character_%281997_film%29,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Green_Screen_Adventures -[location]-> Halsted_Street,LinkException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,MacGruber -[network]-> Saturday_Night_Live,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Soupy_Sales -[influenced]-> Saturday_Night_Live,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Fabiola_%28novel%29 -[author]-> Nicholas_Wiseman,LinkException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,G%C3%BCnther_Specht -[birthPlace]-> Frankenstein,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Scrapheap_Challenge -[presenter]-> Dick_Strawbridge,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,America_Undercover -[company]-> America_Undercover,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Red_Jacket_%28documentary%29 -[distributor]-> Western_Cape_Provincial_Parliament,LinkException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Sphereland -[subject]-> Flatland,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Jelenin_svet -[starring]-> Jelena_Jankovi%C4%87,LinkException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,O_Jerusalem_%28film%29 -[starring]-> Patrick_Bruel,LinkException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,2007_Toronto_International_Film_Festival -[openingFilm]-> Fugitive_Pieces_%28film%29,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Kris_Saknussemm -[party]-> Zanesville_%28novel%29,LabelException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Gayab -[musicComposer]-> Ajay,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Talentadong_Pinoy -[location]-> SM_City_North_EDSA,LinkException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Benjy_Ferree -[genre]-> American_Pop,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Enter_Batgirl%2C_Exit_Penguin -[guest]-> Jonathan_Troy,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Vyper_Fight_League -[parentCompany]-> Ohio_Valley_Wrestling,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Where_I_Live -[storyEditor]-> Gregory_Allen_Howard,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Acacia:_The_War_with_the_Mein -[series]-> Acacia,LinkException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Tales_of_Dunk_and_Egg -[mediaType]-> Legends_%28book%29,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Chris_Morris_%28satirist%29 -[britishComedyAwards]-> The_Day_Today,UniqueEntityException,50,5,* -[*]-> Work; * -[*]-> Language
+440451000.0,Monkey_Businessmen -[starring]-> Rocky_Woods,LinkException,50,5,* -[*]-> Work; * -[*]-> Language
+396381000.0,ITN_World_News -[country]-> Europe,LabelException,50,5,* -[*]-> Work; * -[*]-> Language
+178287000.0,Loek_van_Mil -[award]-> Netherlands,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+155266000.0,Paul_Mascarene -[lieutenant]-> United_Kingdom,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+155266000.0,Richard_McKeon -[philosophicalSchool]-> United_States,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+155266000.0,Daniel_Comboni -[beatifiedBy]-> Rome,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+155266000.0,Alexander_Herzen -[mainInterest]-> Russia,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+155266000.0,Harry_Froboess -[spouse]-> Berlin,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+155266000.0,Cameron_McAllister -[notableWork]-> Jericho,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+155266000.0,Yuri_Gagarin -[type]-> Soviet_Union,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+155266000.0,Phineas_Bruce -[profession]-> Machias%2C_Maine,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+135780000.0,William_B._McKinley -[birthPlace]-> United_States,LabelException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+135780000.0,Edgar_Sosa_%28basketball%29 -[birthPlace]-> Dominican_Republic,LabelException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+129861000.0,Mutant_Chronicles -[genre]-> Techno,LabelException,25,2,MusicFestival -[*]-> *
+129861000.0,Alshard -[genre]-> Techno,LabelException,25,2,MusicFestival -[*]-> *
+111625000.0,Christopher_Steytler -[birthPlace]-> South_Africa,LabelException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+110232000.0,NanoTek_Warrior -[artist]-> Don_Williams,LabelException,16,1,MusicalArtist -[associatedBand]-> *
+102995000.0,Soda_Pop_%28song%29 -[format]-> Pop_music,LinkException,25,2,MusicFestival -[*]-> *
+102995000.0,Proper_Crimbo -[format]-> Pop_music,LinkException,25,2,MusicFestival -[*]-> *
+102995000.0,I_Got_You_Babe_%28Bo%27_Selecta%29 -[format]-> Pop_music,LinkException,25,2,MusicFestival -[*]-> *
+99040000.0,Harley_Sewell -[college]-> Texas,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+99040000.0,Jack_Sikma -[highschool]-> Illinois,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+95091100.0,William_J._Bratton -[employer]-> Los_Angeles,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+95091100.0,Quito -[foundingPerson]-> Sebasti%C3%A1n_de_Belalc%C3%A1zar,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+93754200.0,Salta_Province -[leader]-> Juan_Manuel_Urtubey,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+86705300.0,Pope_Hyginus -[birthPlace]-> Athens,LabelException,25,2,MusicFestival -[*]-> *
+76983700.0,Michael_O%27Doherty_%28publisher%29 -[father]-> France,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
+76983700.0,Horace_Holley_%28Bah%C3%A1%27%C3%AD%29 -[child]-> Italy,LinkException,46,4,MilitaryConflict -[place]-> *; MilitaryConflict -[*]-> *
