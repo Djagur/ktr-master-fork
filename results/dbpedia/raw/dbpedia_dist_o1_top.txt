@@ -18714,3 +18714,4018 @@ pe-2: Christiaan_Huygens residence-> Netherlands /  76 (UniqueEntityException)
 Exception Score is 76
 <Pattern 3-0>
 pe-2: John_Papaloizou residence-> United_Kingdom /  76 (UniqueEntityException)
+---p40---
+1st Exception.
+Exception Score is 1.10957e+06
+<Pattern 3-24716>
+pe-2: Nintendo computingPlatform<- FIFA_08 /  1.10957e+06 (LinkException)
+1st Exception.
+Exception Score is 1.10957e+06
+<Pattern 3-24727>
+pe-2: Nintendo computingPlatform<- FIFA_08 /  1.10957e+06 (LinkException)
+3rd Exception.
+Exception Score is 837650
+<Pattern 3-24716>
+pe-2: Nintendo publisher<- Nintendo_Power /  837650 (LabelException)
+3rd Exception.
+Exception Score is 837650
+<Pattern 3-24716>
+pe-2: Nintendo publisher<- Nintendo_Fun_Club /  837650 (LabelException)
+3rd Exception.
+Exception Score is 837650
+<Pattern 3-24727>
+pe-2: Nintendo publisher<- Nintendo_Power /  837650 (LabelException)
+3rd Exception.
+Exception Score is 837650
+<Pattern 3-24727>
+pe-2: Nintendo publisher<- Nintendo_Fun_Club /  837650 (LabelException)
+7th Exception.
+Exception Score is 555830
+<Pattern 3-24716>
+pe-2: Nintendo genre<- Super_Play /  555830 (LinkException)
+7th Exception.
+Exception Score is 555830
+<Pattern 3-24727>
+pe-2: Nintendo genre<- Super_Play /  555830 (LinkException)
+9th Exception.
+Exception Score is 434447
+<Pattern 3-24684>
+pe-2: Nintendo computingPlatform<- FIFA_08 /  434447 (LinkException)
+9th Exception.
+Exception Score is 434447
+<Pattern 3-24702>
+pe-2: Nintendo computingPlatform<- FIFA_08 /  434447 (LinkException)
+11th Exception.
+Exception Score is 372289
+<Pattern 3-24716>
+pe-2: Capcom publisher<- Catan:_Cities_%26_Knights /  372289 (LabelException)
+11th Exception.
+Exception Score is 372289
+<Pattern 3-24716>
+pe-2: Capcom publisher<- The_Settlers_of_Catan /  372289 (LabelException)
+11th Exception.
+Exception Score is 372289
+<Pattern 3-24716>
+pe-2: Sega publisher<- Bakugan_Battle_Brawlers /  372289 (LabelException)
+11th Exception.
+Exception Score is 372289
+<Pattern 3-24727>
+pe-2: Capcom publisher<- Catan:_Cities_%26_Knights /  372289 (LabelException)
+11th Exception.
+Exception Score is 372289
+<Pattern 3-24727>
+pe-2: Capcom publisher<- The_Settlers_of_Catan /  372289 (LabelException)
+11th Exception.
+Exception Score is 372289
+<Pattern 3-24727>
+pe-2: Sega publisher<- Bakugan_Battle_Brawlers /  372289 (LabelException)
+17th Exception.
+Exception Score is 258202
+<Pattern 3-3739>
+pe-2: Sega publisher<- Bakugan_Battle_Brawlers /  258202 (LabelException)
+17th Exception.
+Exception Score is 258202
+<Pattern 3-3750>
+pe-2: Sega publisher<- Bakugan_Battle_Brawlers /  258202 (LabelException)
+17th Exception.
+Exception Score is 258202
+<Pattern 3-10739>
+pe-2: Sega publisher<- Bakugan_Battle_Brawlers /  258202 (LabelException)
+17th Exception.
+Exception Score is 258202
+<Pattern 3-10750>
+pe-2: Sega publisher<- Bakugan_Battle_Brawlers /  258202 (LabelException)
+17th Exception.
+Exception Score is 258202
+<Pattern 3-35167>
+pe-2: Sega publisher<- Bakugan_Battle_Brawlers /  258202 (LabelException)
+17th Exception.
+Exception Score is 258202
+<Pattern 3-38653>
+pe-2: Sega publisher<- Bakugan_Battle_Brawlers /  258202 (LabelException)
+23th Exception.
+Exception Score is 217841
+<Pattern 3-24684>
+pe-2: Nintendo genre<- Super_Play /  217841 (LinkException)
+23th Exception.
+Exception Score is 217841
+<Pattern 3-24702>
+pe-2: Nintendo genre<- Super_Play /  217841 (LinkException)
+25th Exception.
+Exception Score is 211706
+<Pattern 3-24684>
+pe-2: Nintendo publisher<- Nintendo_Power /  211706 (LabelException)
+25th Exception.
+Exception Score is 211706
+<Pattern 3-24684>
+pe-2: Nintendo publisher<- Nintendo_Fun_Club /  211706 (LabelException)
+25th Exception.
+Exception Score is 211706
+<Pattern 3-24684>
+pe-2: Capcom publisher<- Catan:_Cities_%26_Knights /  211706 (LabelException)
+25th Exception.
+Exception Score is 211706
+<Pattern 3-24684>
+pe-2: Capcom publisher<- The_Settlers_of_Catan /  211706 (LabelException)
+25th Exception.
+Exception Score is 211706
+<Pattern 3-24702>
+pe-2: Nintendo publisher<- Nintendo_Power /  211706 (LabelException)
+25th Exception.
+Exception Score is 211706
+<Pattern 3-24702>
+pe-2: Nintendo publisher<- Nintendo_Fun_Club /  211706 (LabelException)
+25th Exception.
+Exception Score is 211706
+<Pattern 3-24702>
+pe-2: Capcom publisher<- Catan:_Cities_%26_Knights /  211706 (LabelException)
+25th Exception.
+Exception Score is 211706
+<Pattern 3-24702>
+pe-2: Capcom publisher<- The_Settlers_of_Catan /  211706 (LabelException)
+33th Exception.
+Exception Score is 138957
+<Pattern 3-24716>
+pe-2: Capcom company<- Mega_Man_%28TV_series%29 /  138957 (LinkException)
+33th Exception.
+Exception Score is 138957
+<Pattern 3-24716>
+pe-2: Capcom writer<- Street_Fighter_%28film%29 /  138957 (LinkException)
+33th Exception.
+Exception Score is 138957
+<Pattern 3-24716>
+pe-2: Capcom writer<- Street_Fighter:_The_Legend_of_Chun-Li /  138957 (LinkException)
+33th Exception.
+Exception Score is 138957
+<Pattern 3-24716>
+pe-2: Nintendo creator<- The_Adventures_of_Super_Mario_Bros._3 /  138957 (LinkException)
+33th Exception.
+Exception Score is 138957
+<Pattern 3-24716>
+pe-2: Nintendo creator<- Super_Mario_World_%28TV_series%29 /  138957 (LinkException)
+33th Exception.
+Exception Score is 138957
+<Pattern 3-24716>
+pe-2: Nintendo company<- The_Super_Mario_Bros._Super_Show%21 /  138957 (LinkException)
+33th Exception.
+Exception Score is 138957
+<Pattern 3-24727>
+pe-2: Capcom company<- Mega_Man_%28TV_series%29 /  138957 (LinkException)
+33th Exception.
+Exception Score is 138957
+<Pattern 3-24727>
+pe-2: Capcom writer<- Street_Fighter_%28film%29 /  138957 (LinkException)
+33th Exception.
+Exception Score is 138957
+<Pattern 3-24727>
+pe-2: Capcom writer<- Street_Fighter:_The_Legend_of_Chun-Li /  138957 (LinkException)
+33th Exception.
+Exception Score is 138957
+<Pattern 3-24727>
+pe-2: Nintendo creator<- The_Adventures_of_Super_Mario_Bros._3 /  138957 (LinkException)
+33th Exception.
+Exception Score is 138957
+<Pattern 3-24727>
+pe-2: Nintendo creator<- Super_Mario_World_%28TV_series%29 /  138957 (LinkException)
+33th Exception.
+Exception Score is 138957
+<Pattern 3-24727>
+pe-2: Nintendo company<- The_Super_Mario_Bros._Super_Show%21 /  138957 (LinkException)
+45th Exception.
+Exception Score is 123285
+<Pattern 3-24716>
+pe-2: Konami license<- Metal_Gear_Solid_Touch /  123285 (LinkException)
+45th Exception.
+Exception Score is 123285
+<Pattern 3-24716>
+pe-2: Nintendo license<- Orcs_%26_Elves /  123285 (LinkException)
+45th Exception.
+Exception Score is 123285
+<Pattern 3-24716>
+pe-2: Nintendo license<- Super_Xevious:_GAMP_no_Nazo /  123285 (LinkException)
+45th Exception.
+Exception Score is 123285
+<Pattern 3-24727>
+pe-2: Konami license<- Metal_Gear_Solid_Touch /  123285 (LinkException)
+45th Exception.
+Exception Score is 123285
+<Pattern 3-24727>
+pe-2: Nintendo license<- Orcs_%26_Elves /  123285 (LinkException)
+45th Exception.
+Exception Score is 123285
+<Pattern 3-24727>
+pe-2: Nintendo license<- Super_Xevious:_GAMP_no_Nazo /  123285 (LinkException)
+51th Exception.
+Exception Score is 105452
+<Pattern 3-52595>
+pe-2: Sega recordLabel<- Seven_Rings_in_Hand:_Sonic_and_the_Secret_Rings_Original_Sound_Track /  105452 (LinkException)
+51th Exception.
+Exception Score is 105452
+<Pattern 3-52595>
+pe-2: Capcom company<- Mega_Man_%28TV_series%29 /  105452 (LinkException)
+51th Exception.
+Exception Score is 105452
+<Pattern 3-52606>
+pe-2: Sega recordLabel<- Seven_Rings_in_Hand:_Sonic_and_the_Secret_Rings_Original_Sound_Track /  105452 (LinkException)
+51th Exception.
+Exception Score is 105452
+<Pattern 3-52606>
+pe-2: Capcom company<- Mega_Man_%28TV_series%29 /  105452 (LinkException)
+55th Exception.
+Exception Score is 95623.6
+<Pattern 3-3739>
+pe-2: Sega product-> Shenmue /  95623.6 (LinkException)
+55th Exception.
+Exception Score is 95623.6
+<Pattern 3-3739>
+pe-2: Sega designer<- Dinosaur_King_%28video_game%29 /  95623.6 (LinkException)
+55th Exception.
+Exception Score is 95623.6
+<Pattern 3-3750>
+pe-2: Sega product-> Shenmue /  95623.6 (LinkException)
+55th Exception.
+Exception Score is 95623.6
+<Pattern 3-3750>
+pe-2: Sega designer<- Dinosaur_King_%28video_game%29 /  95623.6 (LinkException)
+55th Exception.
+Exception Score is 95623.6
+<Pattern 3-10739>
+pe-2: Sega product-> Shenmue /  95623.6 (LinkException)
+55th Exception.
+Exception Score is 95623.6
+<Pattern 3-10739>
+pe-2: Sega designer<- Dinosaur_King_%28video_game%29 /  95623.6 (LinkException)
+55th Exception.
+Exception Score is 95623.6
+<Pattern 3-10750>
+pe-2: Sega product-> Shenmue /  95623.6 (LinkException)
+55th Exception.
+Exception Score is 95623.6
+<Pattern 3-10750>
+pe-2: Sega designer<- Dinosaur_King_%28video_game%29 /  95623.6 (LinkException)
+55th Exception.
+Exception Score is 95623.6
+<Pattern 3-35167>
+pe-2: Sega product-> Shenmue /  95623.6 (LinkException)
+55th Exception.
+Exception Score is 95623.6
+<Pattern 3-35167>
+pe-2: Sega designer<- Dinosaur_King_%28video_game%29 /  95623.6 (LinkException)
+55th Exception.
+Exception Score is 95623.6
+<Pattern 3-38653>
+pe-2: Sega product-> Shenmue /  95623.6 (LinkException)
+55th Exception.
+Exception Score is 95623.6
+<Pattern 3-38653>
+pe-2: Sega designer<- Dinosaur_King_%28video_game%29 /  95623.6 (LinkException)
+67th Exception.
+Exception Score is 79692
+<Pattern 3-3739>
+pe-2: Sega recordLabel<- Seven_Rings_in_Hand:_Sonic_and_the_Secret_Rings_Original_Sound_Track /  79692 (LinkException)
+67th Exception.
+Exception Score is 79692
+<Pattern 3-3750>
+pe-2: Sega recordLabel<- Seven_Rings_in_Hand:_Sonic_and_the_Secret_Rings_Original_Sound_Track /  79692 (LinkException)
+67th Exception.
+Exception Score is 79692
+<Pattern 3-10739>
+pe-2: Sega recordLabel<- Seven_Rings_in_Hand:_Sonic_and_the_Secret_Rings_Original_Sound_Track /  79692 (LinkException)
+67th Exception.
+Exception Score is 79692
+<Pattern 3-10750>
+pe-2: Sega recordLabel<- Seven_Rings_in_Hand:_Sonic_and_the_Secret_Rings_Original_Sound_Track /  79692 (LinkException)
+67th Exception.
+Exception Score is 79692
+<Pattern 3-35167>
+pe-2: Sega recordLabel<- Seven_Rings_in_Hand:_Sonic_and_the_Secret_Rings_Original_Sound_Track /  79692 (LinkException)
+67th Exception.
+Exception Score is 79692
+<Pattern 3-38653>
+pe-2: Sega recordLabel<- Seven_Rings_in_Hand:_Sonic_and_the_Secret_Rings_Original_Sound_Track /  79692 (LinkException)
+73th Exception.
+Exception Score is 62078.7
+<Pattern 3-49075>
+pe-2: Nintendo computingPlatform<- FIFA_08 /  62078.7 (LinkException)
+73th Exception.
+Exception Score is 62078.7
+<Pattern 3-49094>
+pe-2: Nintendo computingPlatform<- FIFA_08 /  62078.7 (LinkException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-237>
+pe-2: Nintendo publisher<- Nintendo_Power /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-237>
+pe-2: Nintendo publisher<- Nintendo_Fun_Club /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-248>
+pe-2: Nintendo publisher<- Nintendo_Power /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-248>
+pe-2: Nintendo publisher<- Nintendo_Fun_Club /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-49108>
+pe-2: Nintendo publisher<- Nintendo_Power /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-49108>
+pe-2: Nintendo publisher<- Nintendo_Fun_Club /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-49119>
+pe-2: Nintendo publisher<- Nintendo_Power /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-49119>
+pe-2: Nintendo publisher<- Nintendo_Fun_Club /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-63054>
+pe-2: Nintendo publisher<- Nintendo_Power /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-63054>
+pe-2: Nintendo publisher<- Nintendo_Fun_Club /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-63065>
+pe-2: Nintendo publisher<- Nintendo_Power /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-63065>
+pe-2: Nintendo publisher<- Nintendo_Fun_Club /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-66537>
+pe-2: Nintendo publisher<- Nintendo_Power /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-66537>
+pe-2: Nintendo publisher<- Nintendo_Fun_Club /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-66548>
+pe-2: Nintendo publisher<- Nintendo_Power /  59150.9 (LabelException)
+75th Exception.
+Exception Score is 59150.9
+<Pattern 3-66548>
+pe-2: Nintendo publisher<- Nintendo_Fun_Club /  59150.9 (LabelException)
+91th Exception.
+Exception Score is 57412.7
+<Pattern 3-52595>
+pe-2: Sega publisher<- Bakugan_Battle_Brawlers /  57412.7 (LabelException)
+91th Exception.
+Exception Score is 57412.7
+<Pattern 3-52595>
+pe-2: Capcom publisher<- Catan:_Cities_%26_Knights /  57412.7 (LabelException)
+91th Exception.
+Exception Score is 57412.7
+<Pattern 3-52595>
+pe-2: Capcom publisher<- The_Settlers_of_Catan /  57412.7 (LabelException)
+91th Exception.
+Exception Score is 57412.7
+<Pattern 3-52606>
+pe-2: Sega publisher<- Bakugan_Battle_Brawlers /  57412.7 (LabelException)
+91th Exception.
+Exception Score is 57412.7
+<Pattern 3-52606>
+pe-2: Capcom publisher<- Catan:_Cities_%26_Knights /  57412.7 (LabelException)
+91th Exception.
+Exception Score is 57412.7
+<Pattern 3-52606>
+pe-2: Capcom publisher<- The_Settlers_of_Catan /  57412.7 (LabelException)
+97th Exception.
+Exception Score is 56326.7
+<Pattern 3-59536>
+pe-2: Konami license<- Metal_Gear_Solid_Touch /  56326.7 (LinkException)
+97th Exception.
+Exception Score is 56326.7
+<Pattern 3-59555>
+pe-2: Konami license<- Metal_Gear_Solid_Touch /  56326.7 (LinkException)
+99th Exception.
+Exception Score is 55225.3
+<Pattern 3-59569>
+pe-2: Konami license<- Metal_Gear_Solid_Touch /  55225.3 (LinkException)
+99th Exception.
+Exception Score is 55225.3
+<Pattern 3-59580>
+pe-2: Konami license<- Metal_Gear_Solid_Touch /  55225.3 (LinkException)
+---p41---
+1st Exception.
+Exception Score is 2.93344e+07
+<Pattern 3-214838>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.93344e+07 (LinkException)
+1st Exception.
+Exception Score is 2.93344e+07
+<Pattern 3-214841>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.93344e+07 (LinkException)
+1st Exception.
+Exception Score is 2.93344e+07
+<Pattern 3-214842>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.93344e+07 (LinkException)
+4th Exception.
+Exception Score is 2.85208e+07
+<Pattern 3-214771>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.85208e+07 (LinkException)
+5th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-37369>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+5th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-124257>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+5th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-124259>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+5th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-124261>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+5th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-124376>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+5th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-124379>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+5th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-124380>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+5th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-214733>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+5th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-214735>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+5th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-214737>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+15th Exception.
+Exception Score is 2.83013e+07
+<Pattern 3-214794>
+pe-2: United_Kingdom lieutenant<- Paul_Mascarene /  2.83013e+07 (LinkException)
+15th Exception.
+Exception Score is 2.83013e+07
+<Pattern 3-214794>
+pe-2: Jerusalem mother<- Amaziah_of_Judah /  2.83013e+07 (LinkException)
+15th Exception.
+Exception Score is 2.83013e+07
+<Pattern 3-214794>
+pe-2: Berlin spouse<- Harry_Froboess /  2.83013e+07 (LinkException)
+15th Exception.
+Exception Score is 2.83013e+07
+<Pattern 3-214794>
+pe-2: Rome beatifiedBy<- Daniel_Comboni /  2.83013e+07 (LinkException)
+15th Exception.
+Exception Score is 2.83013e+07
+<Pattern 3-214794>
+pe-2: Paris associatedBand<- Jimmy_Robinson_%28recording_engineer%29 /  2.83013e+07 (LinkException)
+15th Exception.
+Exception Score is 2.83013e+07
+<Pattern 3-214794>
+pe-2: Paris coachedTeam<- Jon_Paszt /  2.83013e+07 (LinkException)
+15th Exception.
+Exception Score is 2.83013e+07
+<Pattern 3-214794>
+pe-2: Paris associatedMusicalArtist<- Jimmy_Robinson_%28recording_engineer%29 /  2.83013e+07 (LinkException)
+15th Exception.
+Exception Score is 2.83013e+07
+<Pattern 3-214794>
+pe-2: Germany militaryBranch<- Mieczys%C5%82aw_Garsztka /  2.83013e+07 (LinkException)
+23th Exception.
+Exception Score is 2.82984e+07
+<Pattern 3-214792>
+pe-2: United_Kingdom lieutenant<- Paul_Mascarene /  2.82984e+07 (LinkException)
+23th Exception.
+Exception Score is 2.82984e+07
+<Pattern 3-214792>
+pe-2: Jerusalem mother<- Amaziah_of_Judah /  2.82984e+07 (LinkException)
+23th Exception.
+Exception Score is 2.82984e+07
+<Pattern 3-214792>
+pe-2: Berlin spouse<- Harry_Froboess /  2.82984e+07 (LinkException)
+23th Exception.
+Exception Score is 2.82984e+07
+<Pattern 3-214792>
+pe-2: Rome beatifiedBy<- Daniel_Comboni /  2.82984e+07 (LinkException)
+23th Exception.
+Exception Score is 2.82984e+07
+<Pattern 3-214792>
+pe-2: Paris associatedBand<- Jimmy_Robinson_%28recording_engineer%29 /  2.82984e+07 (LinkException)
+23th Exception.
+Exception Score is 2.82984e+07
+<Pattern 3-214792>
+pe-2: Paris coachedTeam<- Jon_Paszt /  2.82984e+07 (LinkException)
+23th Exception.
+Exception Score is 2.82984e+07
+<Pattern 3-214792>
+pe-2: Paris associatedMusicalArtist<- Jimmy_Robinson_%28recording_engineer%29 /  2.82984e+07 (LinkException)
+23th Exception.
+Exception Score is 2.82984e+07
+<Pattern 3-214792>
+pe-2: Germany militaryBranch<- Mieczys%C5%82aw_Garsztka /  2.82984e+07 (LinkException)
+31th Exception.
+Exception Score is 2.13398e+07
+<Pattern 3-37366>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.13398e+07 (LinkException)
+31th Exception.
+Exception Score is 2.13398e+07
+<Pattern 3-37367>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.13398e+07 (LinkException)
+33th Exception.
+Exception Score is 1.96398e+07
+<Pattern 3-198022>
+pe-2: England team<- Ben_Bowditch /  1.96398e+07 (LinkException)
+33th Exception.
+Exception Score is 1.96398e+07
+<Pattern 3-198024>
+pe-2: England team<- Ben_Bowditch /  1.96398e+07 (LinkException)
+33th Exception.
+Exception Score is 1.96398e+07
+<Pattern 3-198026>
+pe-2: England team<- Ben_Bowditch /  1.96398e+07 (LinkException)
+36th Exception.
+Exception Score is 1.7162e+07
+<Pattern 3-214769>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  1.7162e+07 (LinkException)
+36th Exception.
+Exception Score is 1.7162e+07
+<Pattern 3-214769>
+pe-2: Rome subject<- Roman_Construction_Sites_%28book%29 /  1.7162e+07 (LinkException)
+38th Exception.
+Exception Score is 1.7162e+07
+<Pattern 3-214768>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  1.7162e+07 (LinkException)
+38th Exception.
+Exception Score is 1.7162e+07
+<Pattern 3-214768>
+pe-2: Rome subject<- Roman_Construction_Sites_%28book%29 /  1.7162e+07 (LinkException)
+40th Exception.
+Exception Score is 1.55821e+07
+<Pattern 3-214771>
+pe-2: United_States editor<- The_Week /  1.55821e+07 (LinkException)
+41th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-37369>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+41th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-124257>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+41th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-124259>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+41th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-124261>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+41th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-124376>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+41th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-124379>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+41th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-124380>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+41th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-214733>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+41th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-214735>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+41th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-214737>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+51th Exception.
+Exception Score is 1.49524e+07
+<Pattern 3-198022>
+pe-2: England resides<- Joseph_Acton /  1.49524e+07 (LinkException)
+51th Exception.
+Exception Score is 1.49524e+07
+<Pattern 3-198024>
+pe-2: England resides<- Joseph_Acton /  1.49524e+07 (LinkException)
+51th Exception.
+Exception Score is 1.49524e+07
+<Pattern 3-198026>
+pe-2: England resides<- Joseph_Acton /  1.49524e+07 (LinkException)
+54th Exception.
+Exception Score is 1.3981e+07
+<Pattern 3-214838>
+pe-2: Scotland anthem-> Flower_of_Scotland /  1.3981e+07 (LinkException)
+54th Exception.
+Exception Score is 1.3981e+07
+<Pattern 3-214838>
+pe-2: Scotland genre<- Unsolved_%28TV_series%29 /  1.3981e+07 (LinkException)
+54th Exception.
+Exception Score is 1.3981e+07
+<Pattern 3-214838>
+pe-2: United_States editor<- The_Week /  1.3981e+07 (LinkException)
+54th Exception.
+Exception Score is 1.3981e+07
+<Pattern 3-214841>
+pe-2: Scotland anthem-> Flower_of_Scotland /  1.3981e+07 (LinkException)
+54th Exception.
+Exception Score is 1.3981e+07
+<Pattern 3-214841>
+pe-2: Scotland genre<- Unsolved_%28TV_series%29 /  1.3981e+07 (LinkException)
+54th Exception.
+Exception Score is 1.3981e+07
+<Pattern 3-214841>
+pe-2: United_States editor<- The_Week /  1.3981e+07 (LinkException)
+54th Exception.
+Exception Score is 1.3981e+07
+<Pattern 3-214842>
+pe-2: Scotland anthem-> Flower_of_Scotland /  1.3981e+07 (LinkException)
+54th Exception.
+Exception Score is 1.3981e+07
+<Pattern 3-214842>
+pe-2: Scotland genre<- Unsolved_%28TV_series%29 /  1.3981e+07 (LinkException)
+54th Exception.
+Exception Score is 1.3981e+07
+<Pattern 3-214842>
+pe-2: United_States editor<- The_Week /  1.3981e+07 (LinkException)
+63th Exception.
+Exception Score is 1.37416e+07
+<Pattern 3-214796>
+pe-2: Germany formerTeam<- Jarom%C3%ADr_J%C3%A1gr /  1.37416e+07 (LinkException)
+64th Exception.
+Exception Score is 1.34346e+07
+<Pattern 3-37366>
+pe-2: Chicago owner<- Hoy_%28U.S._newspaper%29 /  1.34346e+07 (LinkException)
+64th Exception.
+Exception Score is 1.34346e+07
+<Pattern 3-37366>
+pe-2: United_States editor<- The_Week /  1.34346e+07 (LinkException)
+64th Exception.
+Exception Score is 1.34346e+07
+<Pattern 3-37367>
+pe-2: Chicago owner<- Hoy_%28U.S._newspaper%29 /  1.34346e+07 (LinkException)
+64th Exception.
+Exception Score is 1.34346e+07
+<Pattern 3-37367>
+pe-2: United_States editor<- The_Week /  1.34346e+07 (LinkException)
+68th Exception.
+Exception Score is 1.2193e+07
+<Pattern 3-214796>
+pe-2: United_Kingdom birthPlace<- Peter_Underwood /  1.2193e+07 (LabelException)
+68th Exception.
+Exception Score is 1.2193e+07
+<Pattern 3-214796>
+pe-2: Germany birthPlace<- Pope_Stephen_VIII /  1.2193e+07 (LabelException)
+70th Exception.
+Exception Score is 1.15418e+07
+<Pattern 3-214769>
+pe-2: Munich developer<- Ride_to_Hell /  1.15418e+07 (LinkException)
+70th Exception.
+Exception Score is 1.15418e+07
+<Pattern 3-214769>
+pe-2: Chicago owner<- Hoy_%28U.S._newspaper%29 /  1.15418e+07 (LinkException)
+70th Exception.
+Exception Score is 1.15418e+07
+<Pattern 3-214769>
+pe-2: United_States editor<- The_Week /  1.15418e+07 (LinkException)
+70th Exception.
+Exception Score is 1.15418e+07
+<Pattern 3-214769>
+pe-2: New_York_City basedOn<- Fiorello%21 /  1.15418e+07 (LinkException)
+74th Exception.
+Exception Score is 1.15418e+07
+<Pattern 3-214768>
+pe-2: Munich developer<- Ride_to_Hell /  1.15418e+07 (LinkException)
+74th Exception.
+Exception Score is 1.15418e+07
+<Pattern 3-214768>
+pe-2: United_States editor<- The_Week /  1.15418e+07 (LinkException)
+74th Exception.
+Exception Score is 1.15418e+07
+<Pattern 3-214768>
+pe-2: New_York_City basedOn<- Fiorello%21 /  1.15418e+07 (LinkException)
+74th Exception.
+Exception Score is 1.15418e+07
+<Pattern 3-214768>
+pe-2: Chicago owner<- Hoy_%28U.S._newspaper%29 /  1.15418e+07 (LinkException)
+78th Exception.
+Exception Score is 1.15066e+07
+<Pattern 3-214791>
+pe-2: Jerusalem mother<- Amaziah_of_Judah /  1.15066e+07 (LinkException)
+78th Exception.
+Exception Score is 1.15066e+07
+<Pattern 3-214791>
+pe-2: Berlin spouse<- Harry_Froboess /  1.15066e+07 (LinkException)
+78th Exception.
+Exception Score is 1.15066e+07
+<Pattern 3-214791>
+pe-2: Rome beatifiedBy<- Daniel_Comboni /  1.15066e+07 (LinkException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214838>
+pe-2: United_States country<- John_Paul_Stevens /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214838>
+pe-2: United_States country<- Roller_Hockey_International /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214838>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214838>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214838>
+pe-2: United_States country<- Steven_M._Berman /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214841>
+pe-2: United_States country<- John_Paul_Stevens /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214841>
+pe-2: United_States country<- Roller_Hockey_International /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214841>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214841>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214841>
+pe-2: United_States country<- Steven_M._Berman /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214842>
+pe-2: United_States country<- John_Paul_Stevens /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214842>
+pe-2: United_States country<- Roller_Hockey_International /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214842>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214842>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.80771e+06 (LabelException)
+81th Exception.
+Exception Score is 9.80771e+06
+<Pattern 3-214842>
+pe-2: United_States country<- Steven_M._Berman /  9.80771e+06 (LabelException)
+96th Exception.
+Exception Score is 9.36792e+06
+<Pattern 3-214771>
+pe-2: United_States country<- John_Paul_Stevens /  9.36792e+06 (LabelException)
+96th Exception.
+Exception Score is 9.36792e+06
+<Pattern 3-214771>
+pe-2: United_States country<- Roller_Hockey_International /  9.36792e+06 (LabelException)
+96th Exception.
+Exception Score is 9.36792e+06
+<Pattern 3-214771>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.36792e+06 (LabelException)
+96th Exception.
+Exception Score is 9.36792e+06
+<Pattern 3-214771>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.36792e+06 (LabelException)
+96th Exception.
+Exception Score is 9.36792e+06
+<Pattern 3-214771>
+pe-2: United_States country<- Steven_M._Berman /  9.36792e+06 (LabelException)
+96th Exception.
+Exception Score is 9.36792e+06
+<Pattern 3-214771>
+pe-2: United_States country<- American_Premier_League /  9.36792e+06 (LabelException)
+---p43---
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-47717>
+pe-2: London employer<- Peter_Butler_%28surgeon%29 /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-47717>
+pe-2: Paris recordLabel<- Mark_Steiner_%26_His_Problems /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-47717>
+pe-2: Paris associatedBand<- Jimmy_Robinson_%28recording_engineer%29 /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-47717>
+pe-2: Paris highschool<- Alexis_Ajin%C3%A7a /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-47717>
+pe-2: Paris associatedMusicalArtist<- Jimmy_Robinson_%28recording_engineer%29 /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-47717>
+pe-2: New_Orleans father<- Ellen_Spiro /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-47717>
+pe-2: New_Orleans genre<- Monk_Boudreaux /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-47717>
+pe-2: New_Orleans mother<- Ellen_Spiro /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-47717>
+pe-2: Quito foundingPerson-> Sebasti%C3%A1n_de_Belalc%C3%A1zar /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-47717>
+pe-2: Rome beatifiedBy<- Daniel_Comboni /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-51646>
+pe-2: London employer<- Peter_Butler_%28surgeon%29 /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-51646>
+pe-2: Paris recordLabel<- Mark_Steiner_%26_His_Problems /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-51646>
+pe-2: Paris associatedBand<- Jimmy_Robinson_%28recording_engineer%29 /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-51646>
+pe-2: Paris highschool<- Alexis_Ajin%C3%A7a /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-51646>
+pe-2: Paris associatedMusicalArtist<- Jimmy_Robinson_%28recording_engineer%29 /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-51646>
+pe-2: New_Orleans father<- Ellen_Spiro /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-51646>
+pe-2: New_Orleans genre<- Monk_Boudreaux /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-51646>
+pe-2: New_Orleans mother<- Ellen_Spiro /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-51646>
+pe-2: Quito foundingPerson-> Sebasti%C3%A1n_de_Belalc%C3%A1zar /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-51646>
+pe-2: Rome beatifiedBy<- Daniel_Comboni /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-53611>
+pe-2: London employer<- Peter_Butler_%28surgeon%29 /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-53611>
+pe-2: Paris recordLabel<- Mark_Steiner_%26_His_Problems /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-53611>
+pe-2: Paris associatedBand<- Jimmy_Robinson_%28recording_engineer%29 /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-53611>
+pe-2: Paris highschool<- Alexis_Ajin%C3%A7a /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-53611>
+pe-2: Paris associatedMusicalArtist<- Jimmy_Robinson_%28recording_engineer%29 /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-53611>
+pe-2: New_Orleans father<- Ellen_Spiro /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-53611>
+pe-2: New_Orleans genre<- Monk_Boudreaux /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-53611>
+pe-2: New_Orleans mother<- Ellen_Spiro /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-53611>
+pe-2: Quito foundingPerson-> Sebasti%C3%A1n_de_Belalc%C3%A1zar /  5.40428e+06 (LinkException)
+1st Exception.
+Exception Score is 5.40428e+06
+<Pattern 3-53611>
+pe-2: Rome beatifiedBy<- Daniel_Comboni /  5.40428e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-47704>
+pe-2: London employer<- Peter_Butler_%28surgeon%29 /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-47704>
+pe-2: Paris recordLabel<- Mark_Steiner_%26_His_Problems /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-47704>
+pe-2: Paris associatedBand<- Jimmy_Robinson_%28recording_engineer%29 /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-47704>
+pe-2: Paris highschool<- Alexis_Ajin%C3%A7a /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-47704>
+pe-2: Paris associatedMusicalArtist<- Jimmy_Robinson_%28recording_engineer%29 /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-47704>
+pe-2: New_Orleans father<- Ellen_Spiro /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-47704>
+pe-2: New_Orleans genre<- Monk_Boudreaux /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-47704>
+pe-2: New_Orleans mother<- Ellen_Spiro /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-47704>
+pe-2: Quito foundingPerson-> Sebasti%C3%A1n_de_Belalc%C3%A1zar /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-47704>
+pe-2: Rome beatifiedBy<- Daniel_Comboni /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-51633>
+pe-2: London employer<- Peter_Butler_%28surgeon%29 /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-51633>
+pe-2: Paris recordLabel<- Mark_Steiner_%26_His_Problems /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-51633>
+pe-2: Paris associatedBand<- Jimmy_Robinson_%28recording_engineer%29 /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-51633>
+pe-2: Paris highschool<- Alexis_Ajin%C3%A7a /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-51633>
+pe-2: Paris associatedMusicalArtist<- Jimmy_Robinson_%28recording_engineer%29 /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-51633>
+pe-2: New_Orleans father<- Ellen_Spiro /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-51633>
+pe-2: New_Orleans genre<- Monk_Boudreaux /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-51633>
+pe-2: New_Orleans mother<- Ellen_Spiro /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-51633>
+pe-2: Quito foundingPerson-> Sebasti%C3%A1n_de_Belalc%C3%A1zar /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-51633>
+pe-2: Rome beatifiedBy<- Daniel_Comboni /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-53598>
+pe-2: London employer<- Peter_Butler_%28surgeon%29 /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-53598>
+pe-2: Paris recordLabel<- Mark_Steiner_%26_His_Problems /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-53598>
+pe-2: Paris associatedBand<- Jimmy_Robinson_%28recording_engineer%29 /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-53598>
+pe-2: Paris highschool<- Alexis_Ajin%C3%A7a /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-53598>
+pe-2: Paris associatedMusicalArtist<- Jimmy_Robinson_%28recording_engineer%29 /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-53598>
+pe-2: New_Orleans father<- Ellen_Spiro /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-53598>
+pe-2: New_Orleans genre<- Monk_Boudreaux /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-53598>
+pe-2: New_Orleans mother<- Ellen_Spiro /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-53598>
+pe-2: Quito foundingPerson-> Sebasti%C3%A1n_de_Belalc%C3%A1zar /  5.40387e+06 (LinkException)
+31th Exception.
+Exception Score is 5.40387e+06
+<Pattern 3-53598>
+pe-2: Rome beatifiedBy<- Daniel_Comboni /  5.40387e+06 (LinkException)
+61th Exception.
+Exception Score is 2.87822e+06
+<Pattern 3-47721>
+pe-2: Italy formerTeam<- Jarom%C3%ADr_J%C3%A1gr /  2.87822e+06 (LinkException)
+61th Exception.
+Exception Score is 2.87822e+06
+<Pattern 3-51650>
+pe-2: Italy formerTeam<- Jarom%C3%ADr_J%C3%A1gr /  2.87822e+06 (LinkException)
+61th Exception.
+Exception Score is 2.87822e+06
+<Pattern 3-53615>
+pe-2: Italy formerTeam<- Jarom%C3%ADr_J%C3%A1gr /  2.87822e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-47803>
+pe-2: Genoa battle<- James_Somerville /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-47803>
+pe-2: Prague significantProject<- Jan_Kaplick%C3%BD /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-47803>
+pe-2: New_York_City child<- J._Evetts_Haley /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-47803>
+pe-2: Poitiers significantBuilding<- Carrilho_da_Gra%C3%A7a /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-47803>
+pe-2: Quito foundingPerson-> Sebasti%C3%A1n_de_Belalc%C3%A1zar /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-47803>
+pe-2: London employer<- Peter_Butler_%28surgeon%29 /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-47803>
+pe-2: Lebanon genre<- Michael_Karam /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-47803>
+pe-2: Milan formerTeam<- Shawn_Evans_%28ice_hockey%29 /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-51735>
+pe-2: Genoa battle<- James_Somerville /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-51735>
+pe-2: Prague significantProject<- Jan_Kaplick%C3%BD /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-51735>
+pe-2: New_York_City child<- J._Evetts_Haley /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-51735>
+pe-2: Poitiers significantBuilding<- Carrilho_da_Gra%C3%A7a /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-51735>
+pe-2: Quito foundingPerson-> Sebasti%C3%A1n_de_Belalc%C3%A1zar /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-51735>
+pe-2: London employer<- Peter_Butler_%28surgeon%29 /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-51735>
+pe-2: Lebanon genre<- Michael_Karam /  2.77095e+06 (LinkException)
+64th Exception.
+Exception Score is 2.77095e+06
+<Pattern 3-51735>
+pe-2: Milan formerTeam<- Shawn_Evans_%28ice_hockey%29 /  2.77095e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-47801>
+pe-2: Genoa battle<- James_Somerville /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-47801>
+pe-2: Prague significantProject<- Jan_Kaplick%C3%BD /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-47801>
+pe-2: New_York_City child<- J._Evetts_Haley /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-47801>
+pe-2: Poitiers significantBuilding<- Carrilho_da_Gra%C3%A7a /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-47801>
+pe-2: Quito foundingPerson-> Sebasti%C3%A1n_de_Belalc%C3%A1zar /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-47801>
+pe-2: London employer<- Peter_Butler_%28surgeon%29 /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-47801>
+pe-2: Lebanon genre<- Michael_Karam /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-47801>
+pe-2: Milan formerTeam<- Shawn_Evans_%28ice_hockey%29 /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-51733>
+pe-2: Genoa battle<- James_Somerville /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-51733>
+pe-2: Prague significantProject<- Jan_Kaplick%C3%BD /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-51733>
+pe-2: New_York_City child<- J._Evetts_Haley /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-51733>
+pe-2: Poitiers significantBuilding<- Carrilho_da_Gra%C3%A7a /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-51733>
+pe-2: Quito foundingPerson-> Sebasti%C3%A1n_de_Belalc%C3%A1zar /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-51733>
+pe-2: London employer<- Peter_Butler_%28surgeon%29 /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-51733>
+pe-2: Lebanon genre<- Michael_Karam /  2.76953e+06 (LinkException)
+80th Exception.
+Exception Score is 2.76953e+06
+<Pattern 3-51733>
+pe-2: Milan formerTeam<- Shawn_Evans_%28ice_hockey%29 /  2.76953e+06 (LinkException)
+96th Exception.
+Exception Score is 2.72604e+06
+<Pattern 3-53702>
+pe-2: Genoa battle<- James_Somerville /  2.72604e+06 (LinkException)
+96th Exception.
+Exception Score is 2.72604e+06
+<Pattern 3-53702>
+pe-2: Prague significantProject<- Jan_Kaplick%C3%BD /  2.72604e+06 (LinkException)
+96th Exception.
+Exception Score is 2.72604e+06
+<Pattern 3-53702>
+pe-2: New_York_City child<- J._Evetts_Haley /  2.72604e+06 (LinkException)
+96th Exception.
+Exception Score is 2.72604e+06
+<Pattern 3-53702>
+pe-2: Poitiers significantBuilding<- Carrilho_da_Gra%C3%A7a /  2.72604e+06 (LinkException)
+96th Exception.
+Exception Score is 2.72604e+06
+<Pattern 3-53702>
+pe-2: Quito foundingPerson-> Sebasti%C3%A1n_de_Belalc%C3%A1zar /  2.72604e+06 (LinkException)
+96th Exception.
+Exception Score is 2.72604e+06
+<Pattern 3-53702>
+pe-2: London employer<- Peter_Butler_%28surgeon%29 /  2.72604e+06 (LinkException)
+96th Exception.
+Exception Score is 2.72604e+06
+<Pattern 3-53702>
+pe-2: Lebanon genre<- Michael_Karam /  2.72604e+06 (LinkException)
+96th Exception.
+Exception Score is 2.72604e+06
+<Pattern 3-53702>
+pe-2: Milan formerTeam<- Shawn_Evans_%28ice_hockey%29 /  2.72604e+06 (LinkException)
+---p44---
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-87>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-88>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-89>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-1498>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-1499>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-1500>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-9943>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-9944>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-9945>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-11347>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-11348>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-11349>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-14145>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-14146>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-15536>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-15537>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-16928>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-16929>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-16930>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-29475>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-29476>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+1st Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-29477>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-87>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-88>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-89>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-1498>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-1499>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-1500>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-9943>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-9944>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-9945>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-11347>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-11348>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-11349>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-14145>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-14146>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-15536>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-15537>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-16928>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-16929>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-16930>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-29475>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-29476>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+23th Exception.
+Exception Score is 1.54968e+07
+<Pattern 3-29477>
+pe-2: United_States editor<- The_Week /  1.54968e+07 (LinkException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-87>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-87>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-87>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-87>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-87>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-87>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-88>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-88>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-88>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-88>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-88>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-88>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-89>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-89>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-89>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-89>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-89>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-89>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1498>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1498>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1498>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1498>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1498>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1498>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1499>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1499>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1499>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1499>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1499>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1499>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1500>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1500>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1500>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1500>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1500>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-1500>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9943>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9943>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9943>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9943>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9943>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9943>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9944>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9944>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9944>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9944>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9944>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9944>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9945>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9945>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9945>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9945>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9945>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-9945>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11347>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11347>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11347>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11347>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11347>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11347>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11348>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11348>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11348>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11348>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11348>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11348>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11349>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11349>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11349>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11349>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11349>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-11349>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-14145>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-14145>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-14145>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-14145>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-14145>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-14145>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-14146>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-14146>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-14146>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-14146>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-14146>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-14146>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-15536>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-15536>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-15536>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-15536>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-15536>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-15536>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-15537>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-15537>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-15537>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-15537>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-15537>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-15537>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16928>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16928>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16928>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16928>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16928>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16928>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16929>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16929>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16929>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16929>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16929>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16929>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16930>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16930>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16930>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16930>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16930>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-16930>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29475>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29475>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29475>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29475>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29475>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29475>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29476>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29476>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29476>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29476>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29476>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29476>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29477>
+pe-2: United_States country<- John_Paul_Stevens /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29477>
+pe-2: United_States country<- Roller_Hockey_International /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29477>
+pe-2: United_States country<- AMA_Superbike_Championship /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29477>
+pe-2: United_States country<- Association_of_Volleyball_Professionals /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29477>
+pe-2: United_States country<- Steven_M._Berman /  9.29584e+06 (LabelException)
+45th Exception.
+Exception Score is 9.29584e+06
+<Pattern 3-29477>
+pe-2: United_States country<- American_Premier_League /  9.29584e+06 (LabelException)
+---p45---
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-478>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-478>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-478>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-478>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-479>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-479>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-479>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-479>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-480>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-480>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-480>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-480>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-481>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-481>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-481>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-481>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37379>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37379>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37379>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37379>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37380>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37380>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37380>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37380>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37382>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37382>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37382>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37382>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37384>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37384>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37384>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37384>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37392>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37392>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37392>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37392>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37393>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37393>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37393>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37393>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37651>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37651>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37651>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37651>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37698>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37698>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37698>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37698>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37699>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37699>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37699>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37699>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37754>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37754>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37754>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37754>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37754>
+pe-2: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37754>
+pe-2: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37754>
+pe-2: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37754>
+pe-2: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37755>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37755>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37755>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37755>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37755>
+pe-2: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37755>
+pe-2: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37755>
+pe-2: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37755>
+pe-2: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37756>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37756>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37756>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37756>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37756>
+pe-2: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37756>
+pe-2: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37756>
+pe-2: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-37756>
+pe-2: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-38173>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-38173>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-38173>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-38173>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-38200>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-38200>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-38200>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-38200>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-38411>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-38411>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-38411>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-38411>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-57517>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-57517>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-57517>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-57517>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-69299>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-69299>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-69299>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-69299>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74644>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74644>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74644>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74644>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74645>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74645>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74645>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74645>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74646>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74646>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74646>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74646>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74648>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74648>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74648>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74648>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74650>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74650>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74650>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74650>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74659>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74659>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74659>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74659>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74660>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74660>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74660>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74660>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74661>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74661>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74661>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74661>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74929>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74929>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74929>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74929>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74983>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74983>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74983>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74983>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74984>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74984>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74984>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-74984>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75046>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75046>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75046>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75046>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75046>
+pe-2: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75046>
+pe-2: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75046>
+pe-2: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75046>
+pe-2: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75047>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75047>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75047>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75047>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75047>
+pe-2: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75047>
+pe-2: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75047>
+pe-2: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75047>
+pe-2: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75469>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75469>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75469>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75469>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75496>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75496>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75496>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75496>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75707>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75707>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75707>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-75707>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-94813>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-94813>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-94813>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-94813>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-106595>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-106595>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-106595>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-106595>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111940>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111940>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111940>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111940>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111941>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111941>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111941>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111941>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111942>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111942>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111942>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111942>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111945>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111945>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111945>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111945>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111946>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111946>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111946>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111946>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111955>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111955>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111955>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111955>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111956>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111956>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111956>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111956>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111957>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111957>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111957>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-111957>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112229>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112229>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112229>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112229>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112284>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112284>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112284>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112284>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112285>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112285>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112285>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112285>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112349>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112349>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112349>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112349>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112349>
+pe-2: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112349>
+pe-2: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112349>
+pe-2: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112349>
+pe-2: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112772>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112772>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112772>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112772>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112799>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112799>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112799>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-112799>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-113010>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-113010>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-113010>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-113010>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-132116>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-132116>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-132116>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-132116>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-143898>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-143898>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-143898>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-143898>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149243>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149243>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149243>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149243>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149244>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149244>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149244>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149244>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149245>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149245>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149245>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149245>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149247>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149247>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149247>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149247>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149249>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149249>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149249>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149249>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149250>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149250>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149250>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149250>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149258>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149258>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149258>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149258>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149259>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149259>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149259>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149259>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149260>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149260>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149260>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149260>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149536>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149536>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149536>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149536>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149592>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149592>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149592>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149592>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149593>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149593>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149593>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149593>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149594>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149594>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149594>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-149594>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-150082>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-150082>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-150082>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-150082>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-150109>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-150109>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-150109>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-150109>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-150320>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-150320>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-150320>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-150320>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-169426>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-169426>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-169426>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-169426>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-181208>
+pe-1: Manchester deathCause<- List_of_characters_of_The_Bill_%28A-D%29__Gary_Best /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-181208>
+pe-1: Manchester resides<- Dynamite_Kid /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-181208>
+pe-1: Manchester restingPlace<- John_Prettyjohns /  18600.8 (LinkException)
+1st Exception.
+Exception Score is 18600.8
+<Pattern 3-181208>
+pe-1: Manchester knownFor<- John_Davies_%28lecturer%29 /  18600.8 (LinkException)
+---p47---
+1st Exception.
+Exception Score is 3.18579e+07
+<Pattern 3-18893>
+pe-2: United_Kingdom subject<- The_Evil_Empire:_101_Ways_That_England_Ruined_the_World /  3.18579e+07 (LinkException)
+1st Exception.
+Exception Score is 3.18579e+07
+<Pattern 3-18893>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  3.18579e+07 (LinkException)
+1st Exception.
+Exception Score is 3.18579e+07
+<Pattern 3-18893>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.18579e+07 (LinkException)
+1st Exception.
+Exception Score is 3.18579e+07
+<Pattern 3-18896>
+pe-2: United_Kingdom subject<- The_Evil_Empire:_101_Ways_That_England_Ruined_the_World /  3.18579e+07 (LinkException)
+1st Exception.
+Exception Score is 3.18579e+07
+<Pattern 3-18896>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  3.18579e+07 (LinkException)
+1st Exception.
+Exception Score is 3.18579e+07
+<Pattern 3-18896>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.18579e+07 (LinkException)
+1st Exception.
+Exception Score is 3.18579e+07
+<Pattern 3-18897>
+pe-2: United_Kingdom subject<- The_Evil_Empire:_101_Ways_That_England_Ruined_the_World /  3.18579e+07 (LinkException)
+1st Exception.
+Exception Score is 3.18579e+07
+<Pattern 3-18897>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  3.18579e+07 (LinkException)
+1st Exception.
+Exception Score is 3.18579e+07
+<Pattern 3-18897>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.18579e+07 (LinkException)
+10th Exception.
+Exception Score is 3.17016e+07
+<Pattern 3-16539>
+pe-2: United_Kingdom subject<- The_Evil_Empire:_101_Ways_That_England_Ruined_the_World /  3.17016e+07 (LinkException)
+10th Exception.
+Exception Score is 3.17016e+07
+<Pattern 3-16539>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  3.17016e+07 (LinkException)
+10th Exception.
+Exception Score is 3.17016e+07
+<Pattern 3-16539>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.17016e+07 (LinkException)
+10th Exception.
+Exception Score is 3.17016e+07
+<Pattern 3-16542>
+pe-2: United_Kingdom subject<- The_Evil_Empire:_101_Ways_That_England_Ruined_the_World /  3.17016e+07 (LinkException)
+10th Exception.
+Exception Score is 3.17016e+07
+<Pattern 3-16542>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  3.17016e+07 (LinkException)
+10th Exception.
+Exception Score is 3.17016e+07
+<Pattern 3-16542>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.17016e+07 (LinkException)
+10th Exception.
+Exception Score is 3.17016e+07
+<Pattern 3-16543>
+pe-2: United_Kingdom subject<- The_Evil_Empire:_101_Ways_That_England_Ruined_the_World /  3.17016e+07 (LinkException)
+10th Exception.
+Exception Score is 3.17016e+07
+<Pattern 3-16543>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  3.17016e+07 (LinkException)
+10th Exception.
+Exception Score is 3.17016e+07
+<Pattern 3-16543>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.17016e+07 (LinkException)
+19th Exception.
+Exception Score is 3.126e+07
+<Pattern 3-23921>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.126e+07 (LinkException)
+19th Exception.
+Exception Score is 3.126e+07
+<Pattern 3-23924>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.126e+07 (LinkException)
+19th Exception.
+Exception Score is 3.126e+07
+<Pattern 3-23925>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.126e+07 (LinkException)
+22th Exception.
+Exception Score is 3.03211e+07
+<Pattern 3-21371>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  3.03211e+07 (LinkException)
+22th Exception.
+Exception Score is 3.03211e+07
+<Pattern 3-21371>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.03211e+07 (LinkException)
+22th Exception.
+Exception Score is 3.03211e+07
+<Pattern 3-21372>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  3.03211e+07 (LinkException)
+22th Exception.
+Exception Score is 3.03211e+07
+<Pattern 3-21372>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.03211e+07 (LinkException)
+22th Exception.
+Exception Score is 3.03211e+07
+<Pattern 3-21589>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  3.03211e+07 (LinkException)
+22th Exception.
+Exception Score is 3.03211e+07
+<Pattern 3-21589>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.03211e+07 (LinkException)
+22th Exception.
+Exception Score is 3.03211e+07
+<Pattern 3-21590>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  3.03211e+07 (LinkException)
+22th Exception.
+Exception Score is 3.03211e+07
+<Pattern 3-21590>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.03211e+07 (LinkException)
+30th Exception.
+Exception Score is 3.03211e+07
+<Pattern 3-21368>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  3.03211e+07 (LinkException)
+30th Exception.
+Exception Score is 3.03211e+07
+<Pattern 3-21368>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.03211e+07 (LinkException)
+30th Exception.
+Exception Score is 3.03211e+07
+<Pattern 3-21586>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  3.03211e+07 (LinkException)
+30th Exception.
+Exception Score is 3.03211e+07
+<Pattern 3-21586>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  3.03211e+07 (LinkException)
+34th Exception.
+Exception Score is 2.91907e+07
+<Pattern 3-3554>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.91907e+07 (LinkException)
+34th Exception.
+Exception Score is 2.91907e+07
+<Pattern 3-3557>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.91907e+07 (LinkException)
+34th Exception.
+Exception Score is 2.91907e+07
+<Pattern 3-3558>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.91907e+07 (LinkException)
+37th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-10214>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+37th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-10217>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+37th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-10218>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+37th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-16056>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+37th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-16059>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+37th Exception.
+Exception Score is 2.8453e+07
+<Pattern 3-16060>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.8453e+07 (LinkException)
+43th Exception.
+Exception Score is 2.79979e+07
+<Pattern 3-17018>
+pe-2: United_Kingdom subject<- The_Evil_Empire:_101_Ways_That_England_Ruined_the_World /  2.79979e+07 (LinkException)
+43th Exception.
+Exception Score is 2.79979e+07
+<Pattern 3-17018>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  2.79979e+07 (LinkException)
+43th Exception.
+Exception Score is 2.79979e+07
+<Pattern 3-17018>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.79979e+07 (LinkException)
+43th Exception.
+Exception Score is 2.79979e+07
+<Pattern 3-17021>
+pe-2: United_Kingdom subject<- The_Evil_Empire:_101_Ways_That_England_Ruined_the_World /  2.79979e+07 (LinkException)
+43th Exception.
+Exception Score is 2.79979e+07
+<Pattern 3-17021>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  2.79979e+07 (LinkException)
+43th Exception.
+Exception Score is 2.79979e+07
+<Pattern 3-17021>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.79979e+07 (LinkException)
+43th Exception.
+Exception Score is 2.79979e+07
+<Pattern 3-17022>
+pe-2: United_Kingdom subject<- The_Evil_Empire:_101_Ways_That_England_Ruined_the_World /  2.79979e+07 (LinkException)
+43th Exception.
+Exception Score is 2.79979e+07
+<Pattern 3-17022>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  2.79979e+07 (LinkException)
+43th Exception.
+Exception Score is 2.79979e+07
+<Pattern 3-17022>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.79979e+07 (LinkException)
+52th Exception.
+Exception Score is 2.64096e+07
+<Pattern 3-15569>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.64096e+07 (LinkException)
+52th Exception.
+Exception Score is 2.64096e+07
+<Pattern 3-15569>
+pe-2: United_Kingdom subject<- The_Evil_Empire:_101_Ways_That_England_Ruined_the_World /  2.64096e+07 (LinkException)
+52th Exception.
+Exception Score is 2.64096e+07
+<Pattern 3-15569>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  2.64096e+07 (LinkException)
+52th Exception.
+Exception Score is 2.64096e+07
+<Pattern 3-15572>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.64096e+07 (LinkException)
+52th Exception.
+Exception Score is 2.64096e+07
+<Pattern 3-15572>
+pe-2: United_Kingdom subject<- The_Evil_Empire:_101_Ways_That_England_Ruined_the_World /  2.64096e+07 (LinkException)
+52th Exception.
+Exception Score is 2.64096e+07
+<Pattern 3-15572>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  2.64096e+07 (LinkException)
+52th Exception.
+Exception Score is 2.64096e+07
+<Pattern 3-15573>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.64096e+07 (LinkException)
+52th Exception.
+Exception Score is 2.64096e+07
+<Pattern 3-15573>
+pe-2: United_Kingdom subject<- The_Evil_Empire:_101_Ways_That_England_Ruined_the_World /  2.64096e+07 (LinkException)
+52th Exception.
+Exception Score is 2.64096e+07
+<Pattern 3-15573>
+pe-2: United_Kingdom language<- Sharpe%27s_Prey /  2.64096e+07 (LinkException)
+61th Exception.
+Exception Score is 2.15064e+07
+<Pattern 3-2681>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.15064e+07 (LinkException)
+61th Exception.
+Exception Score is 2.15064e+07
+<Pattern 3-2684>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.15064e+07 (LinkException)
+61th Exception.
+Exception Score is 2.15064e+07
+<Pattern 3-2685>
+pe-2: United_States coverArtist<- The_Autobiography_of_Miss_Jane_Pittman /  2.15064e+07 (LinkException)
+64th Exception.
+Exception Score is 2.01824e+07
+<Pattern 3-17018>
+pe-2: United_Kingdom channel<- Transformers_Animated /  2.01824e+07 (LinkException)
+64th Exception.
+Exception Score is 2.01824e+07
+<Pattern 3-17018>
+pe-2: United_Kingdom writer<- Room_on_the_3rd_Floor_%28song%29 /  2.01824e+07 (LinkException)
+64th Exception.
+Exception Score is 2.01824e+07
+<Pattern 3-17018>
+pe-2: United_Kingdom starring<- Shipwrecked:_Battle_of_the_Islands /  2.01824e+07 (LinkException)
+64th Exception.
+Exception Score is 2.01824e+07
+<Pattern 3-17018>
+pe-2: France creator<- La_Fureur_%28Canada%29 /  2.01824e+07 (LinkException)
+64th Exception.
+Exception Score is 2.01824e+07
+<Pattern 3-17021>
+pe-2: United_Kingdom channel<- Transformers_Animated /  2.01824e+07 (LinkException)
+64th Exception.
+Exception Score is 2.01824e+07
+<Pattern 3-17021>
+pe-2: United_Kingdom writer<- Room_on_the_3rd_Floor_%28song%29 /  2.01824e+07 (LinkException)
+64th Exception.
+Exception Score is 2.01824e+07
+<Pattern 3-17021>
+pe-2: United_Kingdom starring<- Shipwrecked:_Battle_of_the_Islands /  2.01824e+07 (LinkException)
+64th Exception.
+Exception Score is 2.01824e+07
+<Pattern 3-17021>
+pe-2: France creator<- La_Fureur_%28Canada%29 /  2.01824e+07 (LinkException)
+64th Exception.
+Exception Score is 2.01824e+07
+<Pattern 3-17022>
+pe-2: United_Kingdom channel<- Transformers_Animated /  2.01824e+07 (LinkException)
+64th Exception.
+Exception Score is 2.01824e+07
+<Pattern 3-17022>
+pe-2: United_Kingdom writer<- Room_on_the_3rd_Floor_%28song%29 /  2.01824e+07 (LinkException)
+64th Exception.
+Exception Score is 2.01824e+07
+<Pattern 3-17022>
+pe-2: United_Kingdom starring<- Shipwrecked:_Battle_of_the_Islands /  2.01824e+07 (LinkException)
+64th Exception.
+Exception Score is 2.01824e+07
+<Pattern 3-17022>
+pe-2: France creator<- La_Fureur_%28Canada%29 /  2.01824e+07 (LinkException)
+76th Exception.
+Exception Score is 1.96235e+07
+<Pattern 3-18893>
+pe-2: United_Kingdom channel<- Transformers_Animated /  1.96235e+07 (LinkException)
+76th Exception.
+Exception Score is 1.96235e+07
+<Pattern 3-18893>
+pe-2: United_Kingdom writer<- Room_on_the_3rd_Floor_%28song%29 /  1.96235e+07 (LinkException)
+76th Exception.
+Exception Score is 1.96235e+07
+<Pattern 3-18893>
+pe-2: United_Kingdom starring<- Shipwrecked:_Battle_of_the_Islands /  1.96235e+07 (LinkException)
+76th Exception.
+Exception Score is 1.96235e+07
+<Pattern 3-18896>
+pe-2: United_Kingdom channel<- Transformers_Animated /  1.96235e+07 (LinkException)
+76th Exception.
+Exception Score is 1.96235e+07
+<Pattern 3-18896>
+pe-2: United_Kingdom writer<- Room_on_the_3rd_Floor_%28song%29 /  1.96235e+07 (LinkException)
+76th Exception.
+Exception Score is 1.96235e+07
+<Pattern 3-18896>
+pe-2: United_Kingdom starring<- Shipwrecked:_Battle_of_the_Islands /  1.96235e+07 (LinkException)
+76th Exception.
+Exception Score is 1.96235e+07
+<Pattern 3-18897>
+pe-2: United_Kingdom channel<- Transformers_Animated /  1.96235e+07 (LinkException)
+76th Exception.
+Exception Score is 1.96235e+07
+<Pattern 3-18897>
+pe-2: United_Kingdom writer<- Room_on_the_3rd_Floor_%28song%29 /  1.96235e+07 (LinkException)
+76th Exception.
+Exception Score is 1.96235e+07
+<Pattern 3-18897>
+pe-2: United_Kingdom starring<- Shipwrecked:_Battle_of_the_Islands /  1.96235e+07 (LinkException)
+85th Exception.
+Exception Score is 1.92976e+07
+<Pattern 3-16539>
+pe-2: United_Kingdom channel<- Transformers_Animated /  1.92976e+07 (LinkException)
+85th Exception.
+Exception Score is 1.92976e+07
+<Pattern 3-16539>
+pe-2: United_Kingdom writer<- Room_on_the_3rd_Floor_%28song%29 /  1.92976e+07 (LinkException)
+85th Exception.
+Exception Score is 1.92976e+07
+<Pattern 3-16539>
+pe-2: United_Kingdom starring<- Shipwrecked:_Battle_of_the_Islands /  1.92976e+07 (LinkException)
+85th Exception.
+Exception Score is 1.92976e+07
+<Pattern 3-16542>
+pe-2: United_Kingdom channel<- Transformers_Animated /  1.92976e+07 (LinkException)
+85th Exception.
+Exception Score is 1.92976e+07
+<Pattern 3-16542>
+pe-2: United_Kingdom writer<- Room_on_the_3rd_Floor_%28song%29 /  1.92976e+07 (LinkException)
+85th Exception.
+Exception Score is 1.92976e+07
+<Pattern 3-16542>
+pe-2: United_Kingdom starring<- Shipwrecked:_Battle_of_the_Islands /  1.92976e+07 (LinkException)
+85th Exception.
+Exception Score is 1.92976e+07
+<Pattern 3-16543>
+pe-2: United_Kingdom channel<- Transformers_Animated /  1.92976e+07 (LinkException)
+85th Exception.
+Exception Score is 1.92976e+07
+<Pattern 3-16543>
+pe-2: United_Kingdom writer<- Room_on_the_3rd_Floor_%28song%29 /  1.92976e+07 (LinkException)
+85th Exception.
+Exception Score is 1.92976e+07
+<Pattern 3-16543>
+pe-2: United_Kingdom starring<- Shipwrecked:_Battle_of_the_Islands /  1.92976e+07 (LinkException)
+94th Exception.
+Exception Score is 1.83155e+07
+<Pattern 3-15569>
+pe-2: United_Kingdom channel<- Transformers_Animated /  1.83155e+07 (LinkException)
+94th Exception.
+Exception Score is 1.83155e+07
+<Pattern 3-15569>
+pe-2: United_Kingdom writer<- Room_on_the_3rd_Floor_%28song%29 /  1.83155e+07 (LinkException)
+94th Exception.
+Exception Score is 1.83155e+07
+<Pattern 3-15569>
+pe-2: United_Kingdom starring<- Shipwrecked:_Battle_of_the_Islands /  1.83155e+07 (LinkException)
+94th Exception.
+Exception Score is 1.83155e+07
+<Pattern 3-15572>
+pe-2: United_Kingdom channel<- Transformers_Animated /  1.83155e+07 (LinkException)
+94th Exception.
+Exception Score is 1.83155e+07
+<Pattern 3-15572>
+pe-2: United_Kingdom writer<- Room_on_the_3rd_Floor_%28song%29 /  1.83155e+07 (LinkException)
+94th Exception.
+Exception Score is 1.83155e+07
+<Pattern 3-15572>
+pe-2: United_Kingdom starring<- Shipwrecked:_Battle_of_the_Islands /  1.83155e+07 (LinkException)
+94th Exception.
+Exception Score is 1.83155e+07
+<Pattern 3-15573>
+pe-2: United_Kingdom channel<- Transformers_Animated /  1.83155e+07 (LinkException)
+94th Exception.
+Exception Score is 1.83155e+07
+<Pattern 3-15573>
+pe-2: United_Kingdom writer<- Room_on_the_3rd_Floor_%28song%29 /  1.83155e+07 (LinkException)
+94th Exception.
+Exception Score is 1.83155e+07
+<Pattern 3-15573>
+pe-2: United_Kingdom starring<- Shipwrecked:_Battle_of_the_Islands /  1.83155e+07 (LinkException)
+---p50---
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: IPBA_%28TV_series%29 developer-> Philippine_Basketball_Association /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Seven_Billiard_Tables goyaAward<- Maribel_Verd%C3%BA /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: The_Immaculate_Conception saint<- Londa_%28FI%29 /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Twenty_Thousand_Leagues_Under_the_Sea billed<- Shark_Boy /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Living_Shadows publisher-> Gauhati_Cine_Club /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: The_Julekalender country<- The_Julekalender_%28Norwegian_TV_series%29 /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Nanjupuram starring-> Monika /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Arunachalam deathPlace<- Gudipati_Venkatachalam /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Kabhi_Kabhie subsequentWork-> Kala_Patthar /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Character_%281997_film%29 goldenCalfAward<- Jan_Decleir /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Green_Screen_Adventures location-> Halsted_Street /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Saturday_Night_Live network<- MacGruber /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Saturday_Night_Live influenced<- Soupy_Sales /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Fabiola_%28novel%29 author-> Nicholas_Wiseman /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Frankenstein birthPlace<- G%C3%BCnther_Specht /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Dick_Strawbridge presenter<- Scrapheap_Challenge /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: America_Undercover company<- America_Undercover /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Red_Jacket_%28documentary%29 distributor-> Western_Cape_Provincial_Parliament /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Flatland subject<- Sphereland /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Jelenin_svet starring-> Jelena_Jankovi%C4%87 /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: O_Jerusalem_%28film%29 starring-> Patrick_Bruel /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Fugitive_Pieces_%28film%29 openingFilm<- 2007_Toronto_International_Film_Festival /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Zanesville_%28novel%29 party<- Kris_Saknussemm /  4.40451e+08 (LabelException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Ajay musicComposer<- Gayab /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Talentadong_Pinoy location-> SM_City_North_EDSA /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: American_Pop genre<- Benjy_Ferree /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Jonathan_Troy guest<- Enter_Batgirl%2C_Exit_Penguin /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Ohio_Valley_Wrestling parentCompany<- Vyper_Fight_League /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Where_I_Live storyEditor-> Gregory_Allen_Howard /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Acacia:_The_War_with_the_Mein series-> Acacia /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Legends_%28book%29 mediaType<- Tales_of_Dunk_and_Egg /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: The_Day_Today britishComedyAwards<- Chris_Morris_%28satirist%29 /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4161>
+pe-1: Monkey_Businessmen starring-> Rocky_Woods /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: IPBA_%28TV_series%29 developer-> Philippine_Basketball_Association /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Frankenstein birthPlace<- G%C3%BCnther_Specht /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Dick_Strawbridge presenter<- Scrapheap_Challenge /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Flatland subject<- Sphereland /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Red_Jacket_%28documentary%29 distributor-> Western_Cape_Provincial_Parliament /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: The_Immaculate_Conception saint<- Londa_%28FI%29 /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Jelenin_svet starring-> Jelena_Jankovi%C4%87 /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Fabiola_%28novel%29 author-> Nicholas_Wiseman /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Kabhi_Kabhie subsequentWork-> Kala_Patthar /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: American_Pop genre<- Benjy_Ferree /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Talentadong_Pinoy location-> SM_City_North_EDSA /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Saturday_Night_Live network<- MacGruber /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Saturday_Night_Live influenced<- Soupy_Sales /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Arunachalam deathPlace<- Gudipati_Venkatachalam /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Where_I_Live storyEditor-> Gregory_Allen_Howard /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Nanjupuram starring-> Monika /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Zanesville_%28novel%29 party<- Kris_Saknussemm /  4.40451e+08 (LabelException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Twenty_Thousand_Leagues_Under_the_Sea billed<- Shark_Boy /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Jonathan_Troy guest<- Enter_Batgirl%2C_Exit_Penguin /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: O_Jerusalem_%28film%29 starring-> Patrick_Bruel /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Ohio_Valley_Wrestling parentCompany<- Vyper_Fight_League /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: America_Undercover company<- America_Undercover /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Acacia:_The_War_with_the_Mein series-> Acacia /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Legends_%28book%29 mediaType<- Tales_of_Dunk_and_Egg /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Ajay musicComposer<- Gayab /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: The_Day_Today britishComedyAwards<- Chris_Morris_%28satirist%29 /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Monkey_Businessmen starring-> Rocky_Woods /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Living_Shadows publisher-> Gauhati_Cine_Club /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: The_Julekalender country<- The_Julekalender_%28Norwegian_TV_series%29 /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Green_Screen_Adventures location-> Halsted_Street /  4.40451e+08 (LinkException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Fugitive_Pieces_%28film%29 openingFilm<- 2007_Toronto_International_Film_Festival /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Seven_Billiard_Tables goyaAward<- Maribel_Verd%C3%BA /  4.40451e+08 (UniqueEntityException)
+1st Exception.
+Exception Score is 4.40451e+08
+<Pattern 3-4211>
+pe-1: Character_%281997_film%29 goldenCalfAward<- Jan_Decleir /  4.40451e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: IPBA_%28TV_series%29 developer-> Philippine_Basketball_Association /  4.35273e+08 (LinkException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: The_Immaculate_Conception saint<- Londa_%28FI%29 /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Seven_Billiard_Tables goyaAward<- Maribel_Verd%C3%BA /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Red_Jacket_%28documentary%29 distributor-> Western_Cape_Provincial_Parliament /  4.35273e+08 (LinkException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Fabiola_%28novel%29 author-> Nicholas_Wiseman /  4.35273e+08 (LinkException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Frankenstein birthPlace<- G%C3%BCnther_Specht /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Dick_Strawbridge presenter<- Scrapheap_Challenge /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Ohio_Valley_Wrestling parentCompany<- Vyper_Fight_League /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Saturday_Night_Live network<- MacGruber /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Saturday_Night_Live influenced<- Soupy_Sales /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Where_I_Live storyEditor-> Gregory_Allen_Howard /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Kabhi_Kabhie subsequentWork-> Kala_Patthar /  4.35273e+08 (LinkException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Acacia:_The_War_with_the_Mein series-> Acacia /  4.35273e+08 (LinkException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Character_%281997_film%29 goldenCalfAward<- Jan_Decleir /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: America_Undercover company<- America_Undercover /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Jelenin_svet starring-> Jelena_Jankovi%C4%87 /  4.35273e+08 (LinkException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Legends_%28book%29 mediaType<- Tales_of_Dunk_and_Egg /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: O_Jerusalem_%28film%29 starring-> Patrick_Bruel /  4.35273e+08 (LinkException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Fugitive_Pieces_%28film%29 openingFilm<- 2007_Toronto_International_Film_Festival /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Talentadong_Pinoy location-> SM_City_North_EDSA /  4.35273e+08 (LinkException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: American_Pop genre<- Benjy_Ferree /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Jonathan_Troy guest<- Enter_Batgirl%2C_Exit_Penguin /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Zanesville_%28novel%29 party<- Kris_Saknussemm /  4.35273e+08 (LabelException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Nanjupuram starring-> Monika /  4.35273e+08 (LinkException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: The_Day_Today britishComedyAwards<- Chris_Morris_%28satirist%29 /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Monkey_Businessmen starring-> Rocky_Woods /  4.35273e+08 (LinkException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Arunachalam deathPlace<- Gudipati_Venkatachalam /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Ajay musicComposer<- Gayab /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Green_Screen_Adventures location-> Halsted_Street /  4.35273e+08 (LinkException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Twenty_Thousand_Leagues_Under_the_Sea billed<- Shark_Boy /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: The_Julekalender country<- The_Julekalender_%28Norwegian_TV_series%29 /  4.35273e+08 (UniqueEntityException)
+67th Exception.
+Exception Score is 4.35273e+08
+<Pattern 3-4265>
+pe-1: Flatland subject<- Sphereland /  4.35273e+08 (UniqueEntityException)
+99th Exception.
+Exception Score is 3.96381e+08
+<Pattern 3-4265>
+pe-1: ITN_World_News country-> Europe /  3.96381e+08 (LabelException)
+99th Exception.
+Exception Score is 3.96381e+08
+<Pattern 3-4265>
+pe-1: The_Julekalender_%28Norwegian_TV_series%29 country-> The_Julekalender /  3.96381e+08 (LabelException)
