@@ -49,6 +49,8 @@ from pathlib import Path
 
 KEEP_RE = re.compile(r"^---|^<Pattern|^Exception Score|^pe-[0-9]+:| Exception[.]$")   # same as filter.awk
 RANK_RE = re.compile(r"^(\d+)(?:st|nd|rd|th) Exception\.")
+# a per-query block header in main's summary: <query folder name>, e.g. <p44> or <generated_p44>
+TAG_RE = re.compile(r"^<(?!Preparation>)[^>\n]+>", re.M)
 CLK_TCK = os.sysconf("SC_CLK_TCK") if hasattr(os, "sysconf") else 100
 
 
@@ -137,8 +139,8 @@ def split_summary(summary, n):
     """Split the summary of a process that ran n queries into n single-query summaries (tagged <p00>)."""
     head, sep, counts = summary.partition("Searched Pattern Num:")
     times = head.partition("Process Time:")[2]
-    t_parts = re.split(r"^<p\d+>\n?", times, flags=re.M)      # [preparation, block 0, block 1, ...]
-    c_parts = re.split(r"^<p\d+>\n?", counts, flags=re.M)
+    t_parts = re.split(TAG_RE.pattern + r"\n?", times, flags=re.M)      # [preparation, block 0, block 1, ...]
+    c_parts = re.split(TAG_RE.pattern + r"\n?", counts, flags=re.M)
     if not sep or len(t_parts) != n + 1 or len(c_parts) != n + 1:
         return None
     prep = t_parts[0].rstrip("\n")
@@ -310,7 +312,7 @@ def merge(args, log, setting, names, raw, quiet=False):
         summary = (parts / name / "summary.txt").read_text(errors="replace")
         head, _, counts = summary.partition("Searched Pattern Num:")
         times = head.partition("Process Time:")[2]
-        m, mc = re.search(r"^<p\d+>", times, re.M), re.search(r"^<p\d+>", counts, re.M)
+        m, mc = TAG_RE.search(times), TAG_RE.search(counts)
         if not m or not mc:
             failed.append(f"{name} (unreadable summary)")
             continue
