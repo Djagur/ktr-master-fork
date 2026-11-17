@@ -298,20 +298,36 @@ def sample_rule(rule, g, facts, rng, per_rule, max_attempts):
 
 
 def sample_rho3(g, facts, rng, per_rule, max_attempts, batch):
-    """Candidates pass a cheap per-branch filter, then are verified in batches (one pass each).
-    Contexts are accepted in draw order, exactly as in plain rejection sampling."""
+    """Candidates are drawn directly from the label-level triples T, then verified in batches
+    (one pass each). Contexts are accepted in draw order.
+
+    Uniform draws over (hl, r1, lt1, r2, lt2) almost never pass the per-branch filter (the hit
+    rate is ~density(T)^2, about 1e-6 on nell), so instead we sample from exactly the set of
+    draws that would pass it: pick hl with probability proportional to n_hl^2 (n_hl = number of
+    (r, lt) with (hl, r, lt) in T), then two (r, lt) uniformly from that head label's triples.
+    This is the same distribution as uniform rejection sampling conditioned on the filter."""
+    KR, KL = facts.KR, facts.KL
+    by_hl = defaultdict(list)
+    for key in sorted(facts.T):
+        hr, lt = divmod(key, KL)
+        hl, r = divmod(hr, KR)
+        by_hl[hl].append((r, lt))
+    hls = sorted(by_hl)
+    weights = [len(by_hl[h]) ** 2 for h in hls]
     out, seen, attempts = [], set(), 0
+    if not hls:
+        return out, attempts
     while len(out) < per_rule and attempts < max_attempts:
         cands = []
         while len(cands) < batch and attempts < max_attempts:
             attempts += 1
-            hl, branches = draw(3, g, rng)
+            hl = rng.choices(hls, weights)[0]
+            branches = [rng.choice(by_hl[hl]), rng.choice(by_hl[hl])]
             sig = signature(hl, branches)
             if sig in seen:
                 continue
             seen.add(sig)
-            if all(facts.t3(hl, r, lt) for r, lt in branches):
-                cands.append((hl, branches))
+            cands.append((hl, branches))
         if not cands:
             break
         for (hl, branches), c in zip(cands, count_matches(g, cands)):

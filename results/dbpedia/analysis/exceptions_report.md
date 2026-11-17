@@ -87,12 +87,25 @@ Unique facts merge the same fact printed in several forms (counts per setting be
 
 ### Most frequent head and tail labels
 
+Labels of the head and tail entity of the unique facts, looked up in the dataset (an entity with several labels counts for each of them).
+
 | head label | facts | tail label | facts |
 |---|---|---|---|
-| (none) | 2424 | (none) | 2478 |
-| The_Legend_of_Zelda | 7 | The_Legend_of_Zelda | 2 |
-| Shipwrecked | 5 | Metroid_II | 1 |
-| Neil_Young | 2 | Army_of_Two | 1 |
+| Person | 905 | Place | 907 |
+| Work | 547 | PopulatedPlace | 868 |
+| Species | 507 | Species | 552 |
+| Eukaryote | 486 | Eukaryote | 535 |
+| Animal | 482 | Animal | 528 |
+| Organisation | 210 | Person | 461 |
+| Reptile | 207 | Country | 377 |
+| Place | 182 | Settlement | 348 |
+| MusicalWork | 178 | Organisation | 236 |
+| Scientist | 174 | City | 218 |
+| Artist | 161 | Artist | 173 |
+| Athlete | 137 | Reptile | 172 |
+| Software | 118 | Company | 138 |
+| VideoGame | 107 | AdministrativeRegion | 131 |
+| Album | 100 | MusicalArtist | 127 |
 
 ### Entities in exceptions of the most queries
 
@@ -219,12 +232,25 @@ Unique facts merge the same fact printed in several forms (counts per setting be
 
 ### Most frequent head and tail labels
 
+Labels of the head and tail entity of the unique facts, looked up in the dataset (an entity with several labels counts for each of them).
+
 | head label | facts | tail label | facts |
 |---|---|---|---|
-| (none) | 2024 | (none) | 2063 |
-| The_Legend_of_Zelda | 7 | The_Legend_of_Zelda | 2 |
-| Shipwrecked | 3 | Metroid_II | 1 |
-| Neil_Young | 2 | Army_of_Two | 1 |
+| Person | 732 | Place | 718 |
+| Species | 506 | PopulatedPlace | 683 |
+| Eukaryote | 485 | Species | 550 |
+| Animal | 481 | Eukaryote | 533 |
+| Work | 416 | Animal | 527 |
+| Reptile | 207 | Person | 421 |
+| Scientist | 171 | Settlement | 299 |
+| Place | 166 | Country | 256 |
+| Organisation | 164 | City | 200 |
+| MusicalWork | 156 | Organisation | 197 |
+| Artist | 131 | Reptile | 172 |
+| Athlete | 102 | Artist | 153 |
+| Album | 97 | MusicalArtist | 123 |
+| Software | 95 | Mammal | 121 |
+| VideoGame | 94 | Company | 117 |
 
 ### Entities in exceptions of the most queries
 
@@ -351,10 +377,25 @@ Unique facts merge the same fact printed in several forms (counts per setting be
 
 ### Most frequent head and tail labels
 
+Labels of the head and tail entity of the unique facts, looked up in the dataset (an entity with several labels counts for each of them).
+
 | head label | facts | tail label | facts |
 |---|---|---|---|
-| (none) | 82217 | (none) | 84282 |
-| The_Legend_of_Zelda | 13 | Midnight | 1 |
+| Work | 38403 | Person | 23811 |
+| Person | 26547 | Artist | 23072 |
+| Eukaryote | 17562 | Species | 17481 |
+| Species | 17562 | Eukaryote | 17479 |
+| Animal | 17562 | Animal | 17474 |
+| MusicalWork | 16877 | MusicalArtist | 16303 |
+| Athlete | 16552 | Place | 14893 |
+| Album | 15928 | PopulatedPlace | 14863 |
+| SoccerPlayer | 15810 | Organisation | 14429 |
+| Film | 15101 | Language | 13459 |
+| Bird | 9790 | SportsTeam | 11658 |
+| Mammal | 5005 | SoccerClub | 11658 |
+| Artist | 3736 | Bird | 9743 |
+| Software | 2730 | Settlement | 7374 |
+| VideoGame | 2709 | Actor | 6650 |
 
 ### Entities in exceptions of the most queries
 
@@ -481,10 +522,25 @@ Unique facts merge the same fact printed in several forms (counts per setting be
 
 ### Most frequent head and tail labels
 
+Labels of the head and tail entity of the unique facts, looked up in the dataset (an entity with several labels counts for each of them).
+
 | head label | facts | tail label | facts |
 |---|---|---|---|
-| (none) | 136186 | (none) | 139879 |
-| The_Year%27s_Best_Science_Fiction | 19 | Sixx | 2 |
+| Work | 70315 | Place | 59881 |
+| Person | 31199 | PopulatedPlace | 59851 |
+| MusicalWork | 27400 | Country | 48135 |
+| Album | 25774 | Organisation | 41269 |
+| Film | 19983 | Band | 26827 |
+| Organisation | 18136 | Species | 17482 |
+| Species | 17563 | Eukaryote | 17480 |
+| Eukaryote | 17562 | Animal | 17475 |
+| Animal | 17562 | Language | 13459 |
+| Athlete | 16182 | SportsTeam | 11659 |
+| SoccerPlayer | 15468 | SoccerClub | 11659 |
+| Book | 14926 | Bird | 9743 |
+| EducationalInstitution | 10568 | Person | 7589 |
+| Bird | 9790 | Settlement | 7390 |
+| MilitaryPerson | 6437 | Artist | 6786 |
 
 ### Entities in exceptions of the most queries
 
@@ -502,9 +558,9 @@ Unique facts merge the same fact printed in several forms (counts per setting be
 | Stanford_University | 3 | 1 |
 | College_of_Mount_St._Joseph | 3 | 1 |
 | United_States | 3 | 1 |
-| _Ascension | 3 | 1 |
-| _Legacy | 3 | 1 |
 | Days_of_Thunder | 3 | 1 |
+| The_Grudge | 3 | 1 |
+| Time_Limit_%28film%29 | 3 | 1 |
 
 ### Queries with the most and the strongest exceptions
 

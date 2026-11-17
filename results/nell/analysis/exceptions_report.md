@@ -87,43 +87,45 @@ Unique facts merge the same fact printed in several forms (counts per setting be
 
 ### Most frequent head and tail labels
 
+Labels of the head and tail entity of the unique facts, looked up in the dataset (an entity with several labels counts for each of them).
+
 | head label | facts | tail label | facts |
 |---|---|---|---|
-| country | 183 | country | 187 |
-| musician | 144 | musician | 149 |
+| geopoliticallocation | 300 | geopoliticallocation | 305 |
+| company | 247 | company | 246 |
+| visualizablething | 215 | visualizablething | 215 |
+| geopoliticalorganization | 211 | geopoliticalorganization | 213 |
+| country | 185 | country | 189 |
+| athlete | 167 | musician | 165 |
+| musician | 160 | athlete | 150 |
+| website | 142 | website | 142 |
+| male | 141 | location | 140 |
+| location | 138 | male | 138 |
+| politicianus | 138 | politicianus | 138 |
 | city | 134 | disease | 138 |
 | disease | 133 | city | 134 |
-| politicianus | 122 | politicianus | 122 |
+| person | 126 | person | 121 |
 | musicinstrument | 119 | musicinstrument | 119 |
-| athlete | 103 | dateliteral | 92 |
-| dateliteral | 92 | athlete | 89 |
-| mammal | 83 | mammal | 84 |
-| drug | 74 | drug | 84 |
-| politicsblog | 70 | politicsblog | 70 |
-| website | 61 | website | 61 |
-| journalist | 57 | journalist | 57 |
-| company | 53 | biotechcompany | 53 |
-| biotechcompany | 53 | company | 52 |
 
 ### Entities in exceptions of the most queries
 
 | entity | queries | max score |
 |---|---|---|
-| america | 8 | 1.333e+05 |
-| texas | 8 | 7.069e+04 |
-| n2005 | 8 | 4.56e+04 |
-| alfonso_soriano | 7 | 4.79e+05 |
-| andy_green | 7 | 4.79e+05 |
-| mlb | 7 | 2.079e+05 |
-| baseball | 6 | 4.79e+05 |
-| center | 6 | 3.767e+05 |
-| carlos_arroyo | 6 | 3.767e+05 |
-| n2006 | 6 | 7.069e+04 |
-| world | 6 | 5.544e+04 |
-| elvis_presley | 6 | 5.544e+04 |
-| rosanne_cash | 6 | 1.748e+04 |
-| n1998 | 5 | 7.517e+04 |
-| state_university | 5 | 3.991e+04 |
+| country:america | 8 | 1.333e+05 |
+| stateorprovince:texas | 8 | 7.069e+04 |
+| dateliteral:n2005 | 8 | 4.56e+04 |
+| athlete:alfonso_soriano | 7 | 4.79e+05 |
+| coach:andy_green | 7 | 4.79e+05 |
+| sportsleague:mlb | 7 | 2.079e+05 |
+| sport:baseball | 6 | 4.79e+05 |
+| sportsteamposition:center | 6 | 3.767e+05 |
+| personmexico:carlos_arroyo | 6 | 3.767e+05 |
+| dateliteral:n2006 | 6 | 7.069e+04 |
+| nonprofitorganization:world | 6 | 5.544e+04 |
+| musician:elvis_presley | 6 | 5.544e+04 |
+| musician:rosanne_cash | 6 | 1.748e+04 |
+| year:n1998 | 5 | 7.517e+04 |
+| stateorprovince:california | 5 | 1.748e+04 |
 
 ### Queries with the most and the strongest exceptions
 
@@ -230,43 +232,45 @@ Unique facts merge the same fact printed in several forms (counts per setting be
 
 ### Most frequent head and tail labels
 
+Labels of the head and tail entity of the unique facts, looked up in the dataset (an entity with several labels counts for each of them).
+
 | head label | facts | tail label | facts |
 |---|---|---|---|
-| country | 183 | country | 187 |
-| musician | 144 | musician | 149 |
+| geopoliticallocation | 300 | geopoliticallocation | 305 |
+| company | 247 | company | 246 |
+| visualizablething | 215 | visualizablething | 215 |
+| geopoliticalorganization | 211 | geopoliticalorganization | 213 |
+| country | 185 | country | 189 |
+| athlete | 167 | musician | 165 |
+| musician | 160 | athlete | 150 |
+| website | 142 | website | 142 |
+| male | 141 | location | 140 |
+| location | 138 | male | 138 |
+| politicianus | 138 | politicianus | 138 |
 | city | 134 | disease | 138 |
 | disease | 133 | city | 134 |
-| politicianus | 122 | politicianus | 122 |
+| person | 126 | person | 121 |
 | musicinstrument | 119 | musicinstrument | 119 |
-| athlete | 103 | dateliteral | 92 |
-| dateliteral | 92 | athlete | 89 |
-| mammal | 83 | mammal | 84 |
-| drug | 74 | drug | 84 |
-| politicsblog | 70 | politicsblog | 70 |
-| website | 61 | website | 61 |
-| journalist | 57 | journalist | 57 |
-| company | 53 | biotechcompany | 53 |
-| biotechcompany | 53 | company | 52 |
 
 ### Entities in exceptions of the most queries
 
 | entity | queries | max score |
 |---|---|---|
-| america | 8 | 1.333e+05 |
-| texas | 8 | 7.069e+04 |
-| n2005 | 8 | 4.56e+04 |
-| alfonso_soriano | 7 | 4.79e+05 |
-| andy_green | 7 | 4.79e+05 |
-| mlb | 7 | 2.079e+05 |
-| baseball | 6 | 4.79e+05 |
-| center | 6 | 3.767e+05 |
-| carlos_arroyo | 6 | 3.767e+05 |
-| n2006 | 6 | 7.069e+04 |
-| world | 6 | 5.544e+04 |
-| elvis_presley | 6 | 5.544e+04 |
-| rosanne_cash | 6 | 1.748e+04 |
-| n1998 | 5 | 7.517e+04 |
-| state_university | 5 | 3.991e+04 |
+| country:america | 8 | 1.333e+05 |
+| stateorprovince:texas | 8 | 7.069e+04 |
+| dateliteral:n2005 | 8 | 4.56e+04 |
+| athlete:alfonso_soriano | 7 | 4.79e+05 |
+| coach:andy_green | 7 | 4.79e+05 |
+| sportsleague:mlb | 7 | 2.079e+05 |
+| sport:baseball | 6 | 4.79e+05 |
+| sportsteamposition:center | 6 | 3.767e+05 |
+| personmexico:carlos_arroyo | 6 | 3.767e+05 |
+| dateliteral:n2006 | 6 | 7.069e+04 |
+| nonprofitorganization:world | 6 | 5.544e+04 |
+| musician:elvis_presley | 6 | 5.544e+04 |
+| musician:rosanne_cash | 6 | 1.748e+04 |
+| year:n1998 | 5 | 7.517e+04 |
+| stateorprovince:california | 5 | 1.748e+04 |
 
 ### Queries with the most and the strongest exceptions
 
@@ -373,43 +377,45 @@ Unique facts merge the same fact printed in several forms (counts per setting be
 
 ### Most frequent head and tail labels
 
+Labels of the head and tail entity of the unique facts, looked up in the dataset (an entity with several labels counts for each of them).
+
 | head label | facts | tail label | facts |
 |---|---|---|---|
+| athlete | 9622 | athlete | 9618 |
 | sport | 8599 | sport | 8599 |
-| athlete | 8490 | athlete | 8482 |
-| drug | 1690 | drug | 1690 |
-| disease | 1602 | disease | 1602 |
-| country | 1447 | country | 1450 |
-| dateliteral | 1309 | dateliteral | 1309 |
-| musicinstrument | 1181 | musicinstrument | 1181 |
-| musician | 1162 | musician | 1163 |
-| clothing | 1149 | clothing | 1149 |
-| sportsleague | 733 | sportsleague | 733 |
-| city | 709 | city | 710 |
-| animal | 548 | coach | 512 |
-| coach | 515 | mammal | 488 |
-| mammal | 485 | website | 444 |
-| website | 444 | personmexico | 429 |
+| hobby | 7898 | hobby | 7898 |
+| personmexico | 7512 | personmexico | 7510 |
+| coach | 6582 | coach | 6579 |
+| personnorthamerica | 2549 | personnorthamerica | 2555 |
+| male | 2177 | male | 2176 |
+| drug | 1698 | visualizablething | 1969 |
+| geopoliticallocation | 1666 | drug | 1698 |
+| disease | 1602 | geopoliticallocation | 1668 |
+| visualizablething | 1563 | disease | 1602 |
+| country | 1463 | country | 1466 |
+| dateliteral | 1361 | dateliteral | 1361 |
+| clothing | 1350 | clothing | 1350 |
+| musician | 1228 | musician | 1229 |
 
 ### Entities in exceptions of the most queries
 
 | entity | queries | max score |
 |---|---|---|
-| countries | 9 | 0.9995 |
-| united_states | 9 | 0.999 |
-| austin_jackson | 8 | 0.9994 |
-| bobby_bowden | 8 | 0.9994 |
-| andre_ethier | 8 | 0.9994 |
-| jim_rice | 8 | 0.9994 |
-| rafael_betancourt | 8 | 0.9994 |
-| eric_johnson | 8 | 0.9994 |
-| india | 8 | 0.9993 |
-| rich_rodriguez | 7 | 0.9998 |
-| alfonso_soriano | 7 | 0.9998 |
-| canadians_canada | 7 | 0.9998 |
-| hamilton | 7 | 0.9995 |
-| laos | 7 | 0.9995 |
-| serbia | 7 | 0.9995 |
+| country:countries | 9 | 0.9995 |
+| country:united_states | 9 | 0.999 |
+| personmexico:austin_jackson | 8 | 0.9994 |
+| male:bobby_bowden | 8 | 0.9994 |
+| coach:andre_ethier | 8 | 0.9994 |
+| coach:jim_rice | 8 | 0.9994 |
+| athlete:rafael_betancourt | 8 | 0.9994 |
+| country:india | 8 | 0.9993 |
+| athlete:rich_rodriguez | 7 | 0.9998 |
+| athlete:alfonso_soriano | 7 | 0.9998 |
+| country:canadians_canada | 7 | 0.9998 |
+| country:laos | 7 | 0.9995 |
+| country:serbia | 7 | 0.9995 |
+| athlete:albert_pujols | 7 | 0.9994 |
+| coach:derrick_rose | 7 | 0.9994 |
 
 ### Queries with the most and the strongest exceptions
 
@@ -516,43 +522,45 @@ Unique facts merge the same fact printed in several forms (counts per setting be
 
 ### Most frequent head and tail labels
 
+Labels of the head and tail entity of the unique facts, looked up in the dataset (an entity with several labels counts for each of them).
+
 | head label | facts | tail label | facts |
 |---|---|---|---|
-| drug | 1690 | drug | 1690 |
+| drug | 1698 | drug | 1698 |
 | disease | 1566 | disease | 1566 |
-| clothing | 1152 | clothing | 1152 |
-| animal | 998 | musicinstrument | 778 |
-| musicinstrument | 778 | university | 742 |
-| university | 742 | academicfield | 740 |
-| academicfield | 740 | musician | 722 |
-| musician | 722 | country | 718 |
-| country | 715 | dateliteral | 521 |
-| dateliteral | 521 | mammal | 479 |
-| mammal | 477 | athlete | 301 |
-| athlete | 309 | politicsblog | 277 |
-| politicsblog | 277 | musicartist | 273 |
-| musicartist | 273 | musicgenre | 267 |
-| musicgenre | 267 | visualizableobject | 262 |
+| clothing | 1353 | clothing | 1353 |
+| animal | 1022 | visualizablething | 1291 |
+| visualizablething | 996 | musicinstrument | 778 |
+| musicinstrument | 778 | academicfield | 769 |
+| academicfield | 769 | musician | 768 |
+| musician | 768 | university | 742 |
+| university | 742 | country | 726 |
+| country | 723 | item | 695 |
+| item | 695 | archaea | 674 |
+| archaea | 674 | dateliteral | 557 |
+| dateliteral | 557 | geopoliticallocation | 555 |
+| geopoliticallocation | 554 | mammal | 485 |
+| mammal | 488 | visualizableobject | 416 |
 
 ### Entities in exceptions of the most queries
 
 | entity | queries | max score |
 |---|---|---|
-| america | 8 | 0.9998 |
-| alfonso_soriano | 7 | 0.9998 |
-| andy_green | 7 | 0.9998 |
-| wolves | 7 | 0.9997 |
-| n2005 | 7 | 0.9997 |
-| car_bomb | 7 | 0.9997 |
-| operation_iraqi_freedom | 7 | 0.9997 |
-| belt | 7 | 0.9997 |
-| baseball | 6 | 0.9998 |
-| n2010 | 6 | 0.9997 |
-| strategic_planning_process | 6 | 0.9997 |
-| shooting | 6 | 0.9997 |
-| president_obama | 6 | 0.9997 |
-| bombings | 6 | 0.9997 |
-| pilot_project | 6 | 0.9997 |
+| athlete:alfonso_soriano | 7 | 0.9998 |
+| coach:andy_green | 7 | 0.9998 |
+| country:america | 7 | 0.9998 |
+| mammal:wolves | 7 | 0.9997 |
+| dateliteral:n2005 | 7 | 0.9997 |
+| weapon:car_bomb | 7 | 0.9997 |
+| militaryconflict:operation_iraqi_freedom | 7 | 0.9997 |
+| clothing:belt | 7 | 0.9997 |
+| sport:baseball | 6 | 0.9998 |
+| dateliteral:n2010 | 6 | 0.9997 |
+| cognitiveactions:strategic_planning_process | 6 | 0.9997 |
+| sport:shooting | 6 | 0.9997 |
+| personus:president_obama | 6 | 0.9997 |
+| militaryeventtype:bombings | 6 | 0.9997 |
+| researchproject:pilot_project | 6 | 0.9997 |
 
 ### Queries with the most and the strongest exceptions
 

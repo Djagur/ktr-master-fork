@@ -6,3 +6,4 @@ index/
 main
 results/*/raw/parts
 results/*/raw/run_*.log
+query/*/generated_*

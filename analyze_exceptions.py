@@ -118,10 +118,12 @@ def lookup_labels(entity_file, settings):
         for n in (s, o)
     }
     try:
-        from generate_queries import iter_entities  # the streaming reader, same folder
+        from query_generation_auto import (
+            iter_entities,
+        )  # the streaming reader, same folder
     except ImportError:
         raise SystemExit(
-            "generate_queries.py must be in the same folder (it provides the streaming reader)"
+            "query_generation_auto.py must be in the same folder (it provides the streaming reader)"
         )
     print(
         f"looking up the labels of {len(needed)} entities in {entity_file} (one pass)"
